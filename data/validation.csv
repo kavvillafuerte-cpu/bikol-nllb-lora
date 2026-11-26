@@ -1,0 +1,232 @@
+﻿id,en,vi,pa,src_row,split,vi_equals_pa
+bik-0005,You look sick.,Bing may namati ka.,Baga ka ikan sakit.,6,validation,0
+bik-0008,I have a fever.,Makulog payo ko.,Mahapdos payo ko.,9,validation,0
+bik-0018,Yes. Many.,Uho. Dakol.,Oho. Dakor,19,validation,0
+bik-0021,A lot?,Dakol?,Dakor?,22,validation,0
+bik-0032,I cannot eat.,Di ako naka kaun.,Mii ako naka kaon.,33,validation,0
+bik-0050,Yes. Rainy season is dangerous.,Uho. Pag maulanun kagagamo.,Oho. Pag mauranun magamo.,51,validation,0
+bik-0052,Yes. Mosquitoes breed fast.,Uho. Ang mga lamok madari an mag alaki,Oho. Ang mga lamok kadari mag araki.,53,validation,0
+bik-0058,Like empty bottles.,Alog ning mga ding laog na bote.,Arog ning mga miing laog na bote.,59,validation,0
+bik-0066,And they spread dengue.,Tapos makalat na sinda ning dengue.,Tapos makaralat na sila ning dengue.,67,validation,0
+bik-0075,That is scary.,Nakatakot.,Nakatakot.,76,validation,1
+bik-0080,Yes. Go there.,Uho. Mag punta ka duman.,Oho. Mag punta ka dun.,81,validation,0
+bik-0081,What will they check?,Ano man i check ninda?,Anuha man i check nila?,82,validation,0
+bik-0083,What are platelets?,Ano ang platelets?,Anuha ang platelets?,84,validation,0
+bik-0087,Bleeding can happen.,Pwedeng mag dugo.,Pwedeng mag dugo.,88,validation,1
+bik-0092,Yes. If not treated.,Uho. Kung di maagapan,Oho. Kung di maagapan,93,validation,0
+bik-0104,Not ibuprofen?,Bakong ibuprofen?,Bukong ibuprofen?,106,validation,0
+bik-0105,No. Avoid ibuprofen,Bako.bawal ang ibuprofen.,Buko.mai pwede ang ibuprofen.,107,validation,0
+bik-0106,Not aspirin?,Bawal din ang aspirin?,Bawal din ang aspirin?,108,validation,1
+bik-0112,Go to the doctor.,Mag punta kang doctor.,Mag punta kang doctor.,114,validation,1
+bik-0118,Persistent vomiting.,Dai ga tunong ning suka.,Mii ga tunong ning suka.,120,validation,0
+bik-0119,Bleeding gums.,Ga dugo na gums.,Ga dugo na gums.,121,validation,1
+bik-0121,Difficulty breathing.,Nasakitan mag hangos.,Nasakitan mag hinga.,123,validation,0
+bik-0126,I am worried about my family.,Nagamo ako sa pamilya ko.,Nagamo ako sa pamilya ko.,128,validation,1
+bik-0141,Dispose bottles properly.,Isabod ang mga naka tambak na plastic bote.,Isarabod ang mga naka tambak na plastic bote.,144,validation,0
+bik-0142,Change vase water.,Palitan ang mga tubig sa vase.,Palitan ang mga tubig sa vase.,145,validation,1
+bik-0150,Close windows.,Mag sirado ning bintana.,Mag sarado ning bintana.,153,validation,0
+bik-0152,Use electric fan.,Mag gamit electric fan.,Mag gamit electric fan.,155,validation,1
+bik-0156,We need community action.,Kaipuhan tang community action.,Kaipuhan tang community action.,159,validation,1
+bik-0167,Seek early consultation.,Mag pa konsulta agad.,Mag pa konsulta agad.,170,validation,1
+bik-0170,We learned that in school.,Namatidan ko an sa iskwelahan,Nasusudan ko an sa iskwelahan.,173,validation,0
+bik-0196,Yes. Cleaning is best.,Uho. Ang pag limpya ay dabest talaga.,Uho. Ang pag limpya ay dabest talaga.,200,validation,1
+bik-0203,For explaining dengue.,Sa pag paliwang tungkol sa dengue.,Sa pag pariwang tungkol sa dengue.,207,validation,0
+bik-0204,Your welcome.,Welcome.,Welcome.,208,validation,1
+bik-0207,I will go to the health center.,Mapunta na ako sa health center.,Mapunta na ako sa health center.,211,validation,1
+bik-0213,True friends help.,Ang mag barkada ga tuwangan.,Ang mag barkada ga tuwangan.,217,validation,1
+bik-0215,About dengue?,Tungkol sa dengue?,Tungkol sa dengue?,219,validation,1
+bik-0222,"Or Clean Surroundings, Healthy Community.","Or malinis na kapalirigan, malusog na komunidad.","Or malanis na kapalirigan, malusog na komunidad.",226,validation,0
+bik-0224,We can make posters.,Mag gibo kitang poster.,Mag gibo kitang poster.,228,validation,1
+bik-0225,We can make a video.,Ma gibo kitang video.,Ma gibo kitang video.,229,validation,1
+bik-0226,We can do clean up.,Pwede kita mag limpya.,Pwede kita mag limpya.,230,validation,1
+bik-0239,Let us fight dengue.,Labanan ta ang dengue.,Labanan ta ang dengue.,243,validation,1
+bik-0248,Good morning.,Mayad na aga.,Mad'yag na aga.,252,validation,0
+bik-0264,Not yet.,Dai pa.,Mai pa.,268,validation,0
+bik-0270,There are many patients today.,Dakol ang pasyente ngunyan.,Dakor an pasyente ngunyan.,274,validation,0
+bik-0271,Maybe because of dengue.,Baad dahil sa dengue.,Baad dahil sa dengue.,275,validation,1
+bik-0273,I feel dizzy.,Nahihilo ako.,Nahihilo ako.,277,validation,1
+bik-0274,Lean on me.,Mag hulandig ka sako.,Mag hurandig ka sako.,278,validation,0
+bik-0278,Here is my water bottle.,Ini an bote ko ning tubig.,Ini an bote ko ning tubig.,282,validation,1
+bik-0290,I will check your blood pressure.,Susukatan ko man ang blood pressure mo.,Susukatan ko man an blood pressure mo.,294,validation,0
+bik-0306,I am tired.,Pagal ako.,Pagar ako.,310,validation,0
+bik-0308,You are a good friend.,Maboot kang barkada,Mad'yag kang barkada.,312,validation,0
+bik-0319,A little.,Diit.,Dagi,323,validation,0
+bik-0320,How about here?,Ini man?,Ini man?,324,validation,1
+bik-0325,Breathe out slowly.,Pa kawala ka ning luway luway,Paka wara nin luway luway.,329,validation,0
+bik-0336,Look away if you are scared.,Hiling ka sa iba kng natakot ka,Mag kita ka sa iba kung nagagamo ka.,340,validation,0
+bik-0341,Yes. Press this cotton here.,Uho. Pindutan mo ining bulak uya.,Oho. Pindutan mo ini na bulak uya.,345,validation,0
+bik-0344,You were brave.,Matapang ka.,Maisog ka.,348,validation,0
+bik-0366,Let me read it.,Basahon ko.,Basahon ko.,370,validation,1
+bik-0371,Yes. The test is positive.,Uho. Positive an test.,Oho. Positive an test.,375,validation,0
+bik-0380,Platelets can drop more tomorrow.,Pwedeng magbaba pa ang platelets bukas.,Pwedeng magbaba pa an platelets bukas.,384,validation,0
+bik-0385,Please sign this admission form.,Fill up'han mo uning admission form.,Pakipirma ini na admission form.,389,validation,0
+bik-0393,Oh my goodness.,"Hala, diyos ko.","Hala, diyos ko.",397,validation,1
+bik-0394,We are coming right now.,Mapunta kami ngunyan mismo.,Mapunta kami ngunyan mismo.,398,validation,1
+bik-0397,My parents are coming.,Mapunta na ang mga magulang ko.,Mapunta an mga magurang ko.,401,validation,0
+bik-0400,Please follow me to the ward.,Sunod ka sako sa ward.,Sunod ka sako sa ward.,404,validation,1
+bik-0414,Do not pull the tube.,Dai mo hilahon ang tubo.,Mii mo hilahon an tubo.,418,validation,0
+bik-0422,I cannot sleep.,Dai ako nangatulog.,Mii ako makatugang.,426,validation,0
+bik-0424,Think of happy things.,Isip nin mad'ayad na bagay.,Isip nin mad'yag na bagay.,428,validation,0
+bik-0436,"You are welcome, ma'am.","Welcome po, ma'am.","Welcome po, ma'am.",440,validation,1
+bik-0437,I brought food for you.,Nagdala ako ning kaunon para saimo.,Nagdara ako nin kaonon para saimo.,441,validation,0
+bik-0442,Yes. Soft foods are best.,Uho. Mas mayad na mga mayuta muna na pagkaun.,Oho. Mas mad'yag an malumoy na kaonon.,446,validation,0
+bik-0443,Give her porridge and soup.,Tawan ninyo siya nin lugaw buda sabaw.,Tawan ninyo siya nin lugaw buda sabaw.,447,validation,1
+bik-0444,Give her fruits.,Tawan ninyo siya ning prutas.,Tawan ninyo siya nin bunga.,448,validation,0
+bik-0451,"I understand, doctor.","Naintindihan ko, doctor.","Nasabutan ko, doctor.",455,validation,0
+bik-0461,I will wipe her with a wet towel.,Pupunasan ko siya ning basa na tuwalya.,Pupunasan ko siya nin basa na tuwalya.,465,validation,0
+bik-0462,Use lukewarm water.,Gamiton ang maligamgam na tubig.,Gamiton an maligamgam na tubig.,466,validation,0
+bik-0487,That will help with the cost.,Maka tuwang ini sa gastos.,Matutuwang ini sa gastos.,491,validation,0
+bik-0490,Is the medicine free?,Libre an bulong?,Libre an burong?,494,validation,0
+bik-0493,We can share the cost.,Pwede ta ibalangan ang gastos.,Pwede ta ibalanga an gastos.,497,validation,0
+bik-0494,I will ask my relatives for help.,Mahagd ako ning tabang sa mga kamag-anak ko.,Mahagd ako nin tabang sa mga kamag-anak ko.,498,validation,0
+bik-0504,Maybe in two days.,Baad sa ika duwang aldaw.,Baad sa dawhang ardaw.,508,validation,0
+bik-0507,I want rice and fish soup.,Gusto ko ning maluto buda sabaw nin sila.,Gusto ko nin kanon buda sabaw nin sira.,511,validation,0
+bik-0511,They miss you.,Namimiss ka nindang gabus.,Namimiss ka nilang gabus.,515,validation,0
+bik-0515,"Good morning, Maya.",Mayad na aga Maya.,"Mad'yag na aga, Maya.",519,validation,0
+bik-0516,Are you feeling better?,Mas maayos na ang pamamati mo?,Mas maayos na an pamamati mo?,520,validation,0
+bik-0518,I am glad.,Mayad man.,Mad'yag man.,522,validation,0
+bik-0541,It has water inside.,Igwa ning tubig sa laog.,Ikan ning tubig sa raog.,545,validation,0
+bik-0543,Turn it upside down.,Itaob mo.,Itaob mo.,547,validation,1
+bik-0547,Pour hot water on them.,Ibuhos mo ang mainit na tubig.,Ibuhos mo an mainit na tubig.,551,validation,0
+bik-0550,Store it face down.,Ibugtak na nakataob.,Ibutang na nakataob.,554,validation,0
+bik-0564,Mosquitoes hide in dark places.,Nagtatago an lamok sa madulom na lugar.,Nagtatago an lamok sa madurom na lugar.,568,validation,0
+bik-0573,Every Monday and Thursday.,Kada Lunes buda Huwebes.,Kada Lunes tska Huwebes.,577,validation,0
+bik-0577,Separate the biodegradable.,Ibulag an nabubulok.,Iburag an nabubulok.,581,validation,0
+bik-0578,And the non-biodegradable.,Buda an dai nabubulok.,Buda an mii nabubulok.,582,validation,0
+bik-0584,Captain Reyes.,Kapitan Reyes.,Kapitan Reyes.,588,validation,1
+bik-0590,One handles health.,Saro an ga asikaso ning kalusugan.,Saro an ga asikaso ning kalusugan.,594,validation,1
+bik-0591,One handles sanitation.,Saro an ga asikaso ning kalinisan.,Saro an ga asikaso ning kalinisan.,595,validation,1
+bik-0615,We must prepare.,Kaipuhan ta mag handa.,Kaipuhan ta mag handa.,619,validation,1
+bik-0621,Close the windows during fogging.,Sirado an bintana habang ga fogging.,Saraduhon an bintana habang ga fogging.,625,validation,0
+bik-0622,Wait for thirty minutes.,Maghalat ning treinta minutos.,Magharat ning treinta minutos.,626,validation,0
+bik-0627,Do not breathe it directly.,Dai ka mag hangos diretso.,Mii ka mag hangos diretso.,631,validation,0
+bik-0633,It is full of plastic.,Puno ning plastik.,Puno ning plastik.,637,validation,1
+bik-0640,Maybe two days.,Baad duwang aldaw.,Baad dawhang ardaw.,644,validation,0
+bik-0651,Now the front yard.,Ngunyan ang atubangan ning bakuran.,Ngunyan an atubang bakuran.,655,validation,0
+bik-0652,Cut the tall grass.,Iputol ang mga halangkaw na mga awot.,Putol an mataas na awot.,656,validation,0
+bik-0656,Water gathers in coconut shells.,Ga ipon ang tubig sa bagol.,Ga iripon an tubig sa bagor.,660,validation,0
+bik-0681,Ask the kagawad for sanitation.,Hapot ka sa kagawad sa kalinisan.,Hapot sa kagawad sa kalinisan.,685,validation,0
+bik-0685,How much is the fine?,Pila an multa?,Pira an multa?,689,validation,0
+bik-0687,That is expensive.,Mahal an.,Mahar yan.,691,validation,0
+bik-0689,First they give a warning.,Inut ga tao sinda ning warning.,Inut ga tao sila ning warning.,693,validation,0
+bik-0692,What if someone cannot pay?,Kung may dai maka bayad?,Kung may mii maka bayad?,696,validation,0
+bik-0703,Let us make a game.,Gibuhon ta ning kawat.,Gibuhon ta ning kawat.,707,validation,1
+bik-0711,Do not block the street.,Dai harangan an kalsada.,Mii harangan an kalsada.,715,validation,0
+bik-0716,We will.,Gibuhon mi.,Gibuhon namo.,720,validation,0
+bik-0723,That is very early.,Amay.,Amay.,727,validation,1
+bik-0725,You are right. I will wake up early.,Tama. Mamata akong amay.,Tama ka. Mamata akong amay.,729,validation,0
+bik-0728,Where do we gather?,Sain kita ma tipon?,Sain kita ma tipon?,732,validation,1
+bik-0733,But he is kind.,Pero mabuot siya.,Pero mabuot siya.,737,validation,1
+bik-0734,Are there volunteers from the school?,Igwa ning mga boluntaryo hari sa iskwelahan?,Ikan ning mga boluntaryo hari sa iskwelahan?,738,validation,0
+bik-0741,I will ask my uncle.,Mahapot ako sa tyo ko.,Mahapot ako sa tiyuhon ko.,745,validation,0
+bik-0755,Group two cleans the roadside.,Grupo dos an ga limpya ning kilid ning kalsada.,Grupo dos an ga limpya ning kilid ning kalsada.,759,validation,1
+bik-0765,We will give advice.,Matao kita ning mga advice.,Matao kita ning mga advice.,769,validation,1
+bik-0785,"Good night, Maya.","Mayd na banggi, Maya.","Mad'yag na gabi, Maya.",789,validation,0
+bik-0792,The sun will be hot.,Mainit an aldaw.,Mainit an ardaw.,796,validation,0
+bik-0808,Who will be the leader?,Sino an magiging leader?,Sino an magiging leader?,812,validation,1
+bik-0825,I will be on time.,Ma amay ako.,Ma agap ako.,829,validation,0
+bik-0827,Yes. And a pen.,Uho. Buda ballpen.,Oho. Buda ballpen.,831,validation,0
+bik-0833,We can use the library.,Pwede kitang gumamit ning library.,Pwede kitangmag gamit ning library.,837,validation,0
+bik-0835,Let us borrow them.,Ma hiram kita.,Ma hiram kita.,839,validation,1
+bik-0841,How many types of virus are there?,Pila ang klase ning virus?,Piira an klase ning virus?,845,validation,0
+bik-0842,There are four types.,Apat an klase.,Apat an klase.,846,validation,1
+bik-0850,It shows the cases every month.,Yapa hiling kaan an kaso kada bulan.,Yapakita nyan an kaso kada bulan.,854,validation,0
+bik-0852,That is rainy season.,Tag ulan na uni.,Tag uran na uni.,856,validation,0
+bik-0853,It matches what we learned.,Nagkakaparehas ni sa natutunan ta.,Nagkakapareho ni sa natutunan ta.,857,validation,0
+bik-0867,Now let us make a list.,Mag gibo kita ngunyan ning listahan.,Mag gibo kita ngunyan ning listahan.,871,validation,1
+bik-0876,We will buy together.,Mamili kita na magkasalalo.,Mamili kita na magkasararo.,880,validation,0
+bik-0884,I can give twenty pesos.,Matao ako ning baynte pesos.,Makatao ako ning baynte pesos.,888,validation,0
+bik-0889,Let us write every expense.,Isulat ta an gabus na gastos.,Isurat ta an gabus na gastos.,893,validation,0
+bik-0891,We can reuse old boxes.,Pwede ta gamiton ulit an lumang kahon.,Pwede ta gamiton uri an lumang kahon.,895,validation,0
+bik-0898,Do not forget.,Dai ka mag ringaw.,Mii kang mag lingaw.,902,validation,0
+bik-0902,Let us interview our neighbors.,Ma interview kita sa mga kapitbahay ta.,Mag interview kita sa mga kapitbahay ta.,906,validation,0
+bik-0913,I could not get up from bed.,Dai ako naka bangon sa higdaan.,Mii ako naka bangon sa higdaan.,917,validation,0
+bik-0916,Was it expensive?,Mahal bang bayadan?,Mahar bang bayadan?,920,validation,0
+bik-0927,"Yes, but not my face.","Uho, pero dai ang pandok ko.","Oho, pero mii an mukha ko.",931,validation,0
+bik-0940,Show them the numbers.,Ipakita mo sa sinda an mga numero.,Ipakita mo sa sila an mga numero.,944,validation,0
+bik-0945,Do you need volunteers?,Kaipuhan nindo ning volunteer?,Kaipuhan nindo ning volunteer?,949,validation,1
+bik-0947,Wear a hat and boots.,Magsul'ot ning sumbrero buda botas.,Magsur'ot ning sumbrero buda botas.,951,validation,0
+bik-0951,Her name is Nurse Liza.,Si Nurse Liza an ngalan niya.,Si Nurse Liza an ngaran niya.,955,validation,0
+bik-0956,How many cases do you see?,Pila ang kaso na nahihilngan mo?,Pira an kaso na nahihirngan mo?,960,validation,0
+bik-0965,Do not wait for three days.,Dai maghalat ning tulong aldaw.,Mii maghurat ning tulong ardaw.,969,validation,0
+bik-0972,It is on that wall.,Nasa pader na an.,Nasa pader na an.,976,validation,1
+bik-0978,Now let us start the posters.,Ma puon na kita ning poster.,Ma puon na kita ning poster.,982,validation,1
+bik-0986,You can color it.,Pwede mo kulayan.,Pwede mo kulayan.,990,validation,1
+bik-0995,Or: Kill the breeding site.,O: Uyagon an istaran.,O: Uyagon an istaran.,999,validation,1
+bik-1004,One for the health center.,Salo para sa health center.,Saro na para sa health center.,1008,validation,0
+bik-1006,It is already late.,Gabi na.,Gabi na.,1010,validation,1
+bik-1039,I cannot believe it.,Dai ko maka paniwala.,Mii ko maka paniwala.,1043,validation,0
+bik-1045,Let us keep fighting dengue.,Padagos kitang makipaglaban sa dengue.,Padagos kitang makipaglaban sa dengue.,1049,validation,1
+bik-1046,Did you sleep well?,Mayad ka nag tulog?,Mad'yag ka nag turog?,1050,validation,0
+bik-1050,What is she cooking?,Ano ang ya luto niya?,Anuha an ya luto niya?,1054,validation,0
+bik-1057,He goes to the sea early.,Nagdadagat siya ning aga.,Nagdadagat siya ning aga.,1061,validation,1
+bik-1062,I have two brothers.,Igwa akong duwang tugang na lalaki.,Ikan akong dawhang tugang na laraki.,1066,validation,0
+bik-1080,The food is delicious.,Malinamnam an kaunon.,Marinamnam an kaonon.,1084,validation,0
+bik-1097,We need meat.,Kaipuhan ta ning karne.,Kaipuhan ta ning karne.,1101,validation,1
+bik-1111,How much is the fare?,Magkano an pamasahe?,Magkano an pamasahe?,1115,validation,1
+bik-1117,The road is rough.,Magaspang an dalan.,Magaspang an daran.,1121,validation,0
+bik-1120,Is the bridge open?,Bukas pa ang tulay?,Bukas pa an tulay?,1124,validation,0
+bik-1122,Then we cannot cross.,Dai kita maka baltas kaan.,Mii kita maka bartas kaan.,1126,validation,0
+bik-1127,Is it strong?,Makusog daw?,Makusog daw?,1131,validation,1
+bik-1137,Keep important papers safe.,Tagoon ang mayad na importanteng papel.,Tagoon an importanteng papel.,1141,validation,0
+bik-1145,Let us go there early.,Magpunta kita duman ning aga.,Magpunta kita dun ning agap.,1149,validation,0
+bik-1148,Bring your family.,Dala an pamilya mo.,Dara an pamilya mo.,1152,validation,0
+bik-1162,Leptospirosis comes from flood water.,An leptospirosis hari sa tubig baha.,An leptospirosis hari sa tubig baha.,1166,validation,1
+bik-1163,Clean the house after the flood.,Linigan an halong pagkatapos ning baha.,Linigan an harong pagkatapos ning baha.,1167,validation,0
+bik-1167,Do not drink from the well.,Dai ka mag inom sa atabay.,Mii ka mag inom sa atabay.,1171,validation,0
+bik-1175,How long have you been coughing?,Kasu arin ka pa nag aabo?,Kelan ka pa nag uubo?,1179,validation,0
+bik-1176,Three days already.,Tulong aldaw na.,Tulong ardaw na.,1180,validation,0
+bik-1179,Do not go near the baby.,Dai ka mag lani sa aki.,Mii ka magdani sa aki.,1183,validation,0
+bik-1180,I do not want to spread it.,Dai ko gusto ikalat.,Mii ko gusto ikarat.,1184,validation,0
+bik-1188,Gargle with warm salt water.,Mag gargle ning maiinit na tubig na igwang asin.,Mag gargle ning maiinit na tubig na ikan asin.,1192,validation,0
+bik-1190,Oranges are good for you.,Mayad sa saimo an dalandan.,Mayad sa saimo an dalandan.,1194,validation,1
+bik-1195,What did you eat?,Ano an kinaun mo?,Anuha an kinaon mo?,1199,validation,0
+bik-1196,I ate at the roadside.,Nagkaun ako sa tabing dalan.,Nagkaon ako sa tabing daran.,1200,validation,0
+bik-1200,Do not eat raw food.,Dai ka magkaun ning hilaw.,Mii ka magkaon ning hilaw.,1204,validation,0
+bik-1201,Cook the food well.,Lutuon na mayad an pagkaun.,Lutuon na mayad an pagkaon.,1205,validation,0
+bik-1207,Do you have a stomachache?,Makulog an tulak mo?,Mahapdos an turak mo?,1211,validation,0
+bik-1214,Every Monday.,Kada Lunes.,Kada Lunes.,1218,validation,1
+bik-1223,It is Sunday today.,Domingo ngunyan.,Domingo ngunyan.,1227,validation,1
+bik-1226,What time is the Mass?,Anong oras an misa?,Anuhang oras an misa?,1230,validation,0
+bik-1241,It is getting dark.,Ga banggi na.,Gabi na.,1245,validation,0
+bik-1242,Let us go home.,Maparibod na kita.,Ma uli na kita.,1246,validation,0
+bik-1252,Yes. I must finish it tonight.,Uho. Kaipuhan ko tapuson ngunyan na banggi.,Oho. Kaipuhan ko tapuson ngunyan na gabi.,1256,validation,0
+bik-1254,Let us study together.,Ma adal kitang magkaibahan.,Ma adar kitang magkaibahan.,1258,validation,0
+bik-1262,The clothes are still wet.,Labo pa ang bado.,Basa pa an bado.,1266,validation,0
+bik-1263,Hang them outside.,Isampay sa luwas.,Isampay sa luwas.,1267,validation,1
+bik-1265,Use clean water.,Gumamit ning malinig na tubig.,Gumamit ning marinig na tubig.,1269,validation,0
+bik-1277,He comes every Wednesday.,Ga abot siya kada Miyerkules.,Ga abot siya kada Miyerkules.,1281,validation,1
+bik-1282,Do not worry.,Dai ka mag-alala.,Mai ka mag-alala.,1286,validation,0
+bik-1287,It was a long day.,Hababa na aldaw ini.,Haraba na ardaw ini.,1291,validation,0
+bik-1291,I cannot stand up.,Di ako makatindog.,Mai ako makatindog.,1295,validation,0
+bik-1298,Call the barangay first.,Apudan ang barangay ngunyan na.,Tawagan an barangay nguna.,1302,validation,0
+bik-1307,Bring your ID.,Mag dala ka nin ID.,Mag dara ka ning ID.,1311,validation,0
+bik-1309,Bring some water.,Mag dala ka nin tubig.,Mag dara ka ning tubig.,1313,validation,0
+bik-1329,Do not use dirty water.,Dai mag gamit ning maati na tubig.,Mii gumamit ning magima na tubig.,1333,validation,0
+bik-1331,"Yes, a little is fine.","Uho, diit pwede.","Oho, dagi pwede.",1335,validation,0
+bik-1352,I am fifteen.,Kinse anyos na ako.,Kinse anyos na ako.,1356,validation,1
+bik-1354,Three days ago.,Tulong aldaw na.,Tulong ardaw na.,1358,validation,0
+bik-1355,Any bleeding?,Igwa nin dugo?,Ikan ning dugo?,1359,validation,0
+bik-1361,That is okay.,Ok sana yan.,Ok sana yan.,1365,validation,1
+bik-1372,The nurses are kind too.,Mayad man an mga nurse.,Mard'yag man an mga nurse.,1376,validation,0
+bik-1377,That is important.,Importante yan.,Importante yan.,1381,validation,1
+bik-1383,Rest is part of healing.,Ang pahingalo parte nin paghilng.,An pahingaro parte ning paghirang.,1387,validation,0
+bik-1387,She says get well soon.,Sabi niya mayad na pag paayad.,Sabi niya mad'yag na pagpaayad.,1391,validation,0
+bik-1389,I miss school already.,Namimiss ko na an eskwela.,Namimiss ko na an eskwela.,1393,validation,1
+bik-1396,What about tawa-tawa?,Ano man an tawa-tawa?,Anuha man an tawa-tawa?,1400,validation,0
+bik-1398,It is not a replacement for medical care.,Bakong kapalit nin pag-aaruga sa doctor.,Bukong kapalit ning pag-aaruga sa doctor.,1402,validation,0
+bik-1404,No. Only from mosquitoes.,Dai. Lamok sana.,Mii. Lamok sana.,1408,validation,0
+bik-1409,The second time can be worse.,Ang ikaduwa pwedeng mas grabe.,An ikadawa pwedeng mas grabe.,1413,validation,0
+bik-1421,Do not use it near a baby.,Dai gamiton halani sa aki.,Mii gamiton harani sa aki.,1425,validation,0
+bik-1430,Watch for cold hands and feet.,Bantayan kung lamig an kamot buda tamà.,Bantayan kung ripot an kamot buda tamà.,1434,validation,0
+bik-1440,Make sure they drink water.,Siguraduhon na umiinom sinda nin tubig.,Siguraduhon na umiinom sila ning tubig.,1444,validation,0
+bik-1455,I will follow the doctor.,Susundon ko an doctor.,Susundon ko an doctor.,1459,validation,1
+bik-1469,Do not believe every rumor.,Dai maniwala sa gabos na tsismis.,Mii maniwala sa gabos na tsismis.,1473,validation,0
+bik-1472,I want to be a nurse someday.,Gusto kong maging nurse balang aldaw.,Gusto kong maging nurse balang ardaw.,1476,validation,0
+bik-1484,Will people read it?,Babasahon ba ini nin mga tawo?,Babasahon ba ini ning mga taho?,1488,validation,0
+bik-1487,Virac and Pandan words too.,Pati an tatalamon sa Virac buda Pandan.,Pati an tataramon sa Virac buda Pandan.,1491,validation,0
+bik-1491,Let us present it at school.,Ipresentar ta ini sa eskwela.,Ipresentar ta ini sa eskwela.,1495,validation,1
+bik-1494,You explain very well.,Maayus ka mag esplika.,Mad'yag kang mag-esplika.,1498,validation,0
+bik-1498,The teacher is clapping.,Nag palakpak an teacher.,Nag-pak-pak an teacher.,1502,validation,0
+bik-1503,Let us keep the community safe.,Ingatan ta an komunidad.,Ingatan ta an komunidad.,1507,validation,1
+bik-1521,Look for wrigglers in the water.,Hanapon ang kiti-kiti sa tubig.,Hanapon an kiti-kiti sa tubig.,1525,validation,0

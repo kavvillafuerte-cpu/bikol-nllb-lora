@@ -1,0 +1,231 @@
+﻿id,en,vi,pa,src_row,split,vi_equals_pa
+bik-0002,Hi Jake.,Hi Jake.,Uy Jake.,3,test,0
+bik-0007,What happened?,Anong nangyari?,Napano ka?,8,test,0
+bik-0015,Did it help?,Nakatuwang man?,Naka tabang man?,16,test,0
+bik-0016,Only a little.,Diit sana.,Kadigi lang.,17,test,0
+bik-0025,Your joints?,Ang mga buto mo?,Ang mga turang mo?,26,test,0
+bik-0041,Yes. It could be dengue.,Uho. Pwede an na dengue.,Oho. Pwede yan na dengue.,42,test,0
+bik-0045,I understand.,Naintindihan ko.,Nasabutan ko.,46,test,0
+bik-0053,In stagnant water.,Sa mga naka ipon na tubig,Sa mga naka iripon na tubig.,54,test,0
+bik-0056,Like old tries.,Alog ning mga lumang gulong.,Arog ning mga lumang gulong.,57,test,0
+bik-0063,Mosquitoes love those.,Gustong gusto an ning mga lamok.,Gustong gusto yan ning mga lamok.,64,test,0
+bik-0067,What kind of mosquitoes?,Anong klaseng dengue?,Anuhang klaseng dengue?,68,test,0
+bik-0090,It is serious.,Seryoso an.,Seryoso yan.,91,test,0
+bik-0095,Early detection helps.,Naka tuwang siya pag naaganapan maalaman.,Naka tabang siya pag naaganapan maaraman.,97,test,0
+bik-0098,Fluids help.,Naka tuwang ang pag inom ning tubig.,Naka tabang ang pag inom ning tubig.,100,test,0
+bik-0116,What are warning signs?,Anong ang mga delikadong signs?,Anuha ang mga delikadong signs?,118,test,0
+bik-0120,Bloody vomit.,May dugo ang suka.,May dugo ang suka.,122,test,1
+bik-0122,Feeling very weak.,Nangluluya.,Nangruruluya.,124,test,0
+bik-0132,"Yes, In one house.",Uho. Sa salong halong,Oho. Sa sarong harong.,135,test,0
+bik-0133,We must clean our house.,Kaipuhan ta manglimpya ning halong.,Kaipuhan ta manglimpya ning harong.,136,test,0
+bik-0137,Turn pots upside down.,Itaob ang mga paso.,Itaob ang mga paso.,140,test,1
+bik-0140,Throw old tries.,Isabod ang mga lumang gulong.,Isarabod ang mga lumang gulong.,143,test,0
+bik-0143,Every two days.,Kada ika duwang aldaw.,Kada ika dawhang ardaw.,146,test,0
+bik-0144,Yes. Very Important.,Uho. Importante an.,Oho. Importante yan.,147,test,0
+bik-0147,Use insect repellent.,Mag gamit ning pang hari ning lamok.,Mag gamit ning pang hari ning lamok.,150,test,1
+bik-0148,Wear long sleeves.,Mag sul'ot ning long sleeve.,Mag sur'ot ning long sleeve.,151,test,0
+bik-0163,"4S, right?",4S. Tama?,4S. Tama?,166,test,1
+bik-0166,Self protection.,Ingatan ang sadili.,Ingatan ang sadiri.,169,test,0
+bik-0178,Say it is for everyone.,Talman mo na para uni sa gabus.,Taram mo na para to sa gabus.,181,test,0
+bik-0181,Young or old.,Mapa aki man o gurang.,Mapa aki man o gurang.,184,test,1
+bik-0189,Yes. They are vulnerable.,Uho. Mas madari sinda tamaan.,Oho. Mas madari sila tamaan.,192,test,0
+bik-0192,What about fogging.,Panu naman ang fogging?,Panu naman ang fogging?,195,test,1
+bik-0194,But not eggs.,Pero bako ang mga sugok.,Pero buko ang mga sugok.,197,test,0
+bik-0201,Jake Thankyou.,Jake salamat.,Jake salamat.,205,test,1
+bik-0209,Really?,Talaga?,Talaga?,213,test,1
+bik-0212,We are friends.,Mag barkada kita.,Mag barkada kita.,216,test,1
+bik-0220,"Fight Dengue, Save Lives.","Labanan ang dengue, iligtas ang buhay.","Labanan ang dengue, iligtas ang buhay.",224,test,1
+bik-0227,We can teach others.,Pwede ta tutulan ang iba.,Pwede ta tuturan ang iba.,231,test,0
+bik-0231,One barangay at a time.,Salo sa barangay kung may oras.,Saro sa barangay kung may oras.,235,test,0
+bik-0232,Let us start tomorrow.,Punan ta na sa aga.,Punan ta na sa aga.,236,test,1
+bik-0237,And bring friends.,Buda iiba ang mga barkada.,Buda iiriba ang mga barkada.,241,test,0
+bik-0250,My friend has a fever.,Makulog an payo kang barkada ko.,Mahapdos an uro kan barkada ko.,254,test,0
+bik-0258,I am sixteen years old.,Sixteen years old na ako.,Sixteen years old na ako.,262,test,1
+bik-0260,I live in this barangay.,Ga istar ako sa barangay ni.,Nag iistar ako sa barangay ni.,264,test,0
+bik-0265,It is okay. We will make one.,Ayos lang. Gigibohon ta.,Ayos lang. Gigibuhon ta.,269,test,0
+bik-0286,Put this under your arm.,Iipit mo uni sa ilalom ning kili kili mo.,Ipailarom ini sa ilaróm ning kamot mo.,290,test,0
+bik-0288,Your temperature is thirty-nine.,Thirty-nine an temperatura mo.,Thirty-nine an temperatura mo.,292,test,1
+bik-0295,Please step on the scale.,Pakitungtong sa timbangan.,Pakitungtong sa timbangan.,299,test,1
+bik-0316,Let me see.,Hilingun ko daw.,Tan-awon ko.,320,test,0
+bik-0321,Yes. That hurts a lot.,Uho. Dakol ang kulog kaini.,Oho. Dakor an hapdos kaini.,325,test,0
+bik-0326,Your lungs are clear.,Ok ang baga mo.,Klaro an baga mo.,330,test,0
+bik-0330,Please go to the laboratory.,Mag punta ka sa laboratory,Punta ka sa laboratory.,334,test,0
+bik-0331,Where is the laboratory?,Sain ang laboratory?,Siin an laboratory?,335,test,0
+bik-0334,Please extend your arm.,Paki unat ang kamot mo.,Paki unat an kamot mo.,338,test,0
+bik-0337,I am scared of needles.,Natatakot ako sa dagom.,Nagagamo ako sa dagom.,341,test,0
+bik-0338,Hold my hand.,Kapot ka sa kamot ko.,kopot ka sa kamot ko.,342,test,0
+bik-0342,Do not bend your arm.,Dai mo ibaluktot ang kamot mo.,Mii mo ibaluktot an kamot mo.,346,test,0
+bik-0354,It is still hot.,Mainit pa.,Mainit pa.,358,test,1
+bik-0369,It is a warning sign.,Warning sign ini.,Warning sign ini.,373,test,1
+bik-0398,That is good.,Mayad an.,Mad'yag iyan.,402,test,0
+bik-0413,Just a small pinch.,Diit sanang kagat.,Dagi sanang kagat.,417,test,0
+bik-0417,"Okay, nurse.","Sige, nurse.","Sige, nurse.",421,test,1
+bik-0435,Thank you for bringing her here.,Salamat sa pagdala sainya uya.,Salamat sa pagdara saiya digdi.,439,test,0
+bik-0438,I brought your clothes.,Nagdala ako ning bado mo.,Nagdara ako nin bado mo.,442,test,0
+bik-0439,I brought your pillow.,Nagdala ako ning ulunan mo.,Nagdara ako nin unran mo.,443,test,0
+bik-0441,"Doctor, can she eat?","Doctor, pwede siyang magkaun?","Doctor, pwede siyang magkaon?",445,test,0
+bik-0446,Coconut water helps.,Nakatutuwang ang tipong.,Nakatutuwang an butong.,450,test,0
+bik-0453,It is for fever.,Para ini sa kalintura.,Para ini sa uro.,457,test,0
+bik-0455,Yes. Only that.,Uho. Iyan sana.,Oho. Iyan sana.,459,test,0
+bik-0457,No aspirin either.,Bawal man ang aspirin.,Mii pwede man an aspirin.,461,test,0
+bik-0463,Do not use cold water.,Dai gamiton ang malamig na tubig.,Mii gamiton an malamig na tubig.,467,test,0
+bik-0466,Let us check her platelets again.,Check ta platelets niya utro.,Susukatan ta liwat an platelets niya.,470,test,0
+bik-0472,"Jake, do you have class today?","Jake, igwa kang klase ngunyan?","Jake, ikan ka klase ngunyan?",476,test,0
+bik-0474,I will bring your homework.,Madala ako ning homework mo.,Madara ako nin homework mo.,478,test,0
+bik-0475,"Thank you, my friend.","Salamat, barkada ko.","Salamat, barkada ko.",479,test,1
+bik-0477,Only two visitors at a time.,Duwa sanang bisita kada beses.,Dawha sanang bisita kada beses.,481,test,0
+bik-0482,Okay. We will be quiet.,Sige. luluwayan mi boses mi.,Sige. luluwayan namo ang boses.,486,test,0
+bik-0496,Really? Thank you so much.,Seryoso? Mabalos na grabe,Seryoso? Mabalos na grabe,500,test,1
+bik-0499,A little better.,Mas mayad ng diit.,Mas mad'yag ng kadigi,503,test,0
+bik-0508,I will cook it for you.,Lulutuon ko ini para saimo.,Lulutuon ko ini para saimo.,512,test,1
+bik-0512,They sent you cards.,Nagpadara sinda nin card para saimo.,Nagpadara sila nin card para saimo.,516,test,0
+bik-0514,"Good morning, Jake.",Mayad na aga Jake.,"Mad'yag na aga, Jake.",518,test,0
+bik-0521,It was not dengue.,Bako ining dengue.,Buko ining dengue.,525,test,0
+bik-0545,Those will become mosquitoes.,Magiging lamok sinda.,Maging lamok sila.,549,test,0
+bik-0546,Kill them now.,Uyagon mo sinda ngunyan.,Uyagon mo sila ngunyan.,550,test,0
+bik-0548,Good. Now throw the bucket away.,Tama. Ngunyan isabod an timba.,Mad'yag. Ngunyan isarabod an timba.,552,test,0
+bik-0549,"No, keep it. We can use it dry.","Bako, itago mo, magagamit ta an pag dugang.","Buko, itago mo, Pwede ta gamiton na uga.",553,test,0
+bik-0553,Water is collecting there.,Ga ipon an tubig duman.,Ga iripon an tubig dun.,557,test,0
+bik-0555,I will call the plumber.,Maapod akong tubero.,Tatawagan ko an tubero.,559,test,0
+bik-0559,Let the sun come in.,Mag laog lamng ang aldaw,Mag loog lamng ang ardaw.,563,test,0
+bik-0570,It is outside the gate.,Jan sa luwas ning gate.,Jaon sa luwas ning gate.,574,test,0
+bik-0576,Tie the bag tightly.,Higpiton mo an pagtali ning supot.,Higuton mo an pagtali ning supot.,580,test,0
+bik-0599,What will they discuss?,Ano an pag-uusapan ninda?,Anuha an pag huhurunan nila?,603,test,0
+bik-0608,We can write down the schedule.,Pwede ta isulat an iskedyul.,Pwede ta isurat an iskedyul.,612,test,0
+bik-0609,Is there fogging this week?,Igwa ning fogging ining semana?,Ikan ning fogging ining semana?,613,test,0
+bik-0619,Keep the children inside.,Palaugon ang mga aki sa laog.,Paloogon an mga aki sa laog,623,test,0
+bik-0637,Report it to the barangay.,I-report sa barangay.,I-report sa barangay.,641,test,1
+bik-0647,Wash your hands after.,Maghugas ning kamot pagkatapos.,Maghugas ning kamot pagkatapos.,651,test,1
+bik-0653,Mosquitoes rest in tall grass.,Ga pahingalo ang lamok sa halangkaw na awot.,Ga pahingaro an lamok sa mataas na awot.,657,test,0
+bik-0655,Pick up the coconut shells.,Kuha ning mga bagol.,Kuha ning mga bagor.,659,test,0
+bik-0672,Do you need help?,Kaipuhan mo ning tabang?,Kaipuhan mo ning tabang?,676,test,1
+bik-0673,"Yes, please. My drums are heavy.","Uho, tabangi ako. Magabat ang mga drum ko.","Oho, tabangi ako. Magub'at an mga drum ko.",677,test,0
+bik-0698,Floods bring more mosquitoes.,Ang baha ga dala ning dakol na lamok.,An baha ga dara ning dakor na lamok.,702,test,0
+bik-0701,They should not litter.,Dai sinda dapat magsabod ning basura.,Mii sila dapat magsarabod ning basura.,705,test,0
+bik-0705,What is the prize?,Ano an premyo?,Anuha an premyo?,709,test,0
+bik-0713,Good timing.,Tamang tama.,Tamang tama.,717,test,1
+bik-0736,The teachers too.,Ang mga maestro man.,An mga maestro man.,740,test,0
+bik-0744,We also need a first aid kit.,Kaipuhan ta man ning first aid kit.,Kaipuhan ta man ning first aid kit.,748,test,1
+bik-0749,Will there be snacks?,Igwa ning meryenda?,Ikan ning meryenda?,753,test,0
+bik-0750,Yes. Hot lugaw and bread.,Uho. Mainit na lugaw buda tinapay.,Oho. Mainit na lugaw tska tinapay.,754,test,0
+bik-0752,Everyone does.,Gabus.,Gabus.,756,test,1
+bik-0756,Group three checks houses.,Grupo tres ang mahiling ning mga halong.,Grupo tres an ga sayod ning mga harong.,760,test,0
+bik-0767,Some people are shy.,Ang iba nasupog.,An iba nasusupog.,771,test,0
+bik-0773,Gutters clean?,Limpya an alulod?,Limpya an alulod?,777,test,1
+bik-0774,Garbage tied?,Natali an basura?,Natali an basura?,778,test,1
+bik-0784,"Good night, Jake.","Mayad na banggi, Jake.","Mad'yag na gabi, Jake.",788,test,0
+bik-0786,See you tomorrow.,Mag hilingan kita sa aga.,Magkita kita sa aga.,790,test,0
+bik-0787,Do not forget your gloves.,Dai mo ringawan ang gloves mo.,Mii mo lingawan an gloves mo.,791,test,0
+bik-0790,What is it?,Ano an?,Anuha yan?,794,test,0
+bik-0797,Our teacher is waiting.,Ga halat na ang maestra ta.,Ga harat na an maestra ta.,801,test,0
+bik-0819,Where will we meet?,Sain kita mahililingan?,Sain kita mataranawan?,823,test,0
+bik-0826,Do you have a notebook?,Igwa kang notebook?,Ikan kang notebook?,830,test,0
+bik-0830,And for research.,Buda para sa research.,Buda para sa research.,834,test,1
+bik-0868,What do we need?,Ano an kaipuhan ta?,Anuha an kaipuhan ta?,872,test,0
+bik-0873,We need tape.,Kaipuhan ta ning tape.,Kaipuhan ta ning tape.,877,test,1
+bik-0874,We need colored paper.,Kaipuhan ta ning kolor na papel.,Kaipuhan ta ning kolor na papel.,878,test,1
+bik-0875,Who will buy them?,Sino an mamimili?,Sino an mamamakar?,879,test,0
+bik-0886,Thank you for helping.,Salamat sa pag tuwang.,Salamat sa pag tuwang.,890,test,1
+bik-0899,I never forget.,Dai ako nakaka ringaw.,Mii ako nakaklingaw.,903,test,0
+bik-0906,May we ask you some questions?,Pwede kang mahapot ning ibang tanong?,Pwede kang mahapot ning ibang tanong?,910,test,1
+bik-0928,We will respect that.,Rerespetuhon mi an.,Rerespetuhon mi an.,932,test,1
+bik-0933,He joins the clean up drive.,Ga sali siya sa clean up drive.,Gaato siya sa clean up drive.,937,test,0
+bik-0937,Some are busy.,Ang iba maribok.,An iba maribok.,941,test,0
+bik-0938,Some do not care.,Ang iba daing paki alam.,Ang iba miing paki aram.,942,test,0
+bik-0948,"Thank you, Mang Tonyo.","Salamat, Mang Tonyo.","Salamat, Mang Tonyo.",952,test,1
+bik-0949,Now let us visit the health center.,Mapunta na kita ngunyan sa health center.,Mapunta na kita ngunyan sa health center.,953,test,1
+bik-0955,I would be glad to.,Gusto ko makatuwang.,Gusto ko maka tabang.,959,test,0
+bik-0967,"There is, but only for some ages.","Igwa, pero para sa iba sanang edad.","Ikan, pero para sa iba sanang edad.",971,test,0
+bik-0983,Who can draw well?,Sino an maayus mag drawing?,Sino an maayus mag drawing?,987,test,1
+bik-1005,One for the barangay hall.,Slopara sa barangay hall.,Saro na para sa barangay hall.,1009,test,0
+bik-1010,Bring the finished posters.,Dala ang natapos na poster.,Dara an natapos na poster.,1014,test,0
+bik-1020,Today is presentation day.,Ngunyan an aldaw kan presentation.,Ngunyan an ardaw kan presentation.,1024,test,0
+bik-1032,Let us play our video first.,Pupunan mi muna ang video.,Pupunan mi muna ang video.,1036,test,1
+bik-1035,Jake answered it very well.,Mayad an sagot ni Jake.,Mayad an sagot ni Jake.,1039,test,1
+bik-1044,This was only the start.,Gapuon pa sna kita.,Gapuon pa sna kita.,1048,test,1
+bik-1049,She is in the kitchen.,Jan siya sa kusina.,Jaon siya sa kusina.,1053,test,0
+bik-1053,Is your father home?,Jan ang tatay mo sa halong?,Jaon an tatay mo sa harong?,1057,test,0
+bik-1069,Yes. I wash the dishes.,Uho. Ga hugas ako ning pinggan.,Oho. Ga hugas ako ning pinggan.,1073,test,0
+bik-1090,Keep your nails short.,Hababaon mo sna ang kuko mo.,Hababaon mo sna ang kuko mo.,1094,test,1
+bik-1093,Let us go to the market.,Magpunta kitang sa palengke.,Magpunta kitang sa palengke.,1097,test,1
+bik-1096,We need fruits.,Kaipuhan ta ning prutas.,Kaipuhan ta ning prutas.,1100,test,1
+bik-1100,It is fifty pesos.,Singkwenta pesos.,Singkwenta pesos.,1104,test,1
+bik-1103,Is the fish fresh?,Presko pa an isda?,Presko pa an isda?,1107,test,1
+bik-1108,Here is your change.,Ini an sukli mo.,Ini an sukli mo.,1112,test,1
+bik-1109,Thank you. Come again.,Salamat. Balik kamo.,Salamat. Balik kamo.,1113,test,1
+bik-1113,Where are you going?,Sain ka pupunta?,Sain ka pupunta?,1117,test,1
+bik-1114,To the town proper.,Sa poblacion.,Sa poblacion.,1118,test,1
+bik-1126,Tomorrow night.,Sa banggi ning aga.,Sa gabi ning aga.,1130,test,0
+bik-1135,Charge your phone.,I charge an cellphone mo.,I charge an cellphone mo.,1139,test,1
+bik-1140,Cut the tree branches.,Putlon an mga sanga ning kahoy.,Putlon an mga sanga ning kahoy.,1144,test,1
+bik-1143,Where is the evacuation center?,Sain ang evacuation center?,Sain an evacuation center?,1147,test,0
+bik-1144,It is in the school.,Jan sa iskwelahan.,Jaon sa iskwelahan.,1148,test,0
+bik-1150,The rain is heavy.,Makusog an ulan.,Makusog an uran.,1154,test,0
+bik-1159,It can make you sick.,Pwede kang mag ka hilang uya.,Pwede kang magka sakit uya.,1163,test,0
+bik-1171,I keep sneezing.,Permi ako ga hatching.,Permi akong na hatching.,1175,test,0
+bik-1192,I have diarrhea.,Igwa akong tae-tae.,Ikan ako tae-tae.,1196,test,0
+bik-1206,Take a rest.,Magpahingalo ka.,Magpahingaro ka.,1210,test,0
+bik-1208,Go to the toilet.,Magpunta ka sa kubeta.,Magpunta ka sa kubeta.,1212,test,1
+bik-1215,I want to buy candy.,Gusto kong magbakal ning kendi.,Gusto kong magbakal ning kendi.,1219,test,1
+bik-1216,Do you have bread?,Igwa kang tinapay?,Ikan ka tinapay?,1220,test,0
+bik-1217,"Yes, we have bread.","Uho, igwa kami ning tinapay.","Oho, ikan kami ning tinapay.",1221,test,0
+bik-1220,Give me ten pieces.,Tawan mo ako ning sampulo.,Tawan mo ako ning sampuro.,1224,test,0
+bik-1232,"Good afternoon, Aling Rosa.","Mayad na hapon, Aling Rosa.","Mad'yag na hapon, Aling Rosa.",1236,test,0
+bik-1233,"How are you, neighbor?","Kumusta ka, kapitbahay?","Kumusta ka, kapitbahay?",1237,test,1
+bik-1238,She gave us vegetables.,Tinawan niya kita ning gulay.,Tawan niya kita ning guray.,1242,test,0
+bik-1245,Is grandmother home?,Jan ang lola sa halong?,Jaon an lola sa harong?,1249,test,0
+bik-1249,Grandfather tells stories.,Ang lolo nag istorya.,An lolo nagkukwento.,1253,test,0
+bik-1255,Turn off the light.,Palungon ang ilaw.,Parungon an ilaw.,1259,test,0
+bik-1260,Bring an umbrella.,Magdala ning payong.,Magdara ning payong.,1264,test,0
+bik-1279,The baby has a fever.,Igwang lagnat an aki.,Ikan lagnat an aki.,1283,test,0
+bik-1294,Is it getting worse?,Ga lala na ba?,Ga lala na ba?,1298,test,1
+bik-1299,They have a vehicle.,Igwa sinda ning sasakyan.,Ikan sila ning sasakyan.,1303,test,0
+bik-1301,I will stay with you.,Iibahan taka.,Mag iibahan taka.,1305,test,0
+bik-1306,Do not wait until morning.,Dai na maghalat sa aga.,Mii na maghararat sa aga.,1310,test,0
+bik-1314,You are safe now.,Ligtas ka na ngunyan.,Ligtas ka na ngunyan.,1318,test,1
+bik-1315,Check her breathing.,Check ang hinangos.,Tan-awon an hinga niya.,1319,test,0
+bik-1322,Do not give ibuprofen either.,Dai man ibuprofen.,Mii man ibuprofen.,1326,test,0
+bik-1323,"Only paracetamol, as the doctor says.","Paracetamol sana, sabi ning doctor.","Paracetamol sana, sabi ning doctor.",1327,test,1
+bik-1324,How much should he drink?,Gaano kadakol an dapat niyang inumon?,Gaano kadakor an dapat niyang inumon?,1328,test,0
+bik-1326,Give him oresol.,Pa-inumon siya nin oresol.,Pa-inumon siya ning oresol.,1330,test,0
+bik-1330,Can he drink coconut water?,Pwede siya mag inom ning sabaw ning niyog?,Pwede siya mag inom ning sabaw ning butong?,1334,test,0
+bik-1341,Bananas are good.,Mayad ang saging.,Mad'yag an saging.,1345,test,0
+bik-1344,They look like blood if he vomits.,Baga sinda dugo kung magsuka.,Hali sila dugo kun magsuka.,1348,test,0
+bik-1358,"Thank you, nurse.","Salamat, nurse.","Salamat, nurse.",1362,test,1
+bik-1360,About one hour.,Mga sarong oras.,Mga sarong oras.,1364,test,1
+bik-1370,Do not be afraid.,Dai ka matakot.,Mii ka matakot.,1374,test,0
+bik-1371,The doctor is kind.,Mayad an doctor.,Mad'yag an doctor.,1375,test,0
+bik-1388,Our classmates sent a card.,Nagpadala an mga kaklase ta nin card.,Nagpadara an mga kaklase ta ning card.,1392,test,0
+bik-1399,Always see a doctor first.,Permi ipahiling muna sa doctor.,Permi mag-doctor ka nguna.,1403,test,0
+bik-1401,Cold water will not cause dengue.,Dai ka magkaka-dengue sa lamig na tubig.,Mii ka magkaka-dengue sa ramig na tubig.,1405,test,0
+bik-1408,No. You can get it again.,Dai. Pwede ka mag ka igwa kaan utro.,Mii. Pwede ka giraray magka-dengue.,1412,test,0
+bik-1415,Vaccines do not replace cleaning.,Dai mahari ning bakuna ang paglimpya.,Mii mapuli kan bakuna an paglimpya.,1419,test,0
+bik-1417,Does a mosquito coil help?,Nakakatabang ba an mosquito coil?,Nakakatabang ba an mosquito coil?,1421,test,1
+bik-1418,It helps a little.,Nakatabang nin diit.,Nakatabang ning dagi,1422,test,0
+bik-1425,Read the label first.,Basahon nguna an label.,Basahon nguna an label.,1429,test,1
+bik-1426,Children need special care.,Kaipuhan nin espesyal na aruga an mga aki.,Kaipuhan ning espesyal na aruga an mga aki.,1430,test,0
+bik-1437,They may not show strong signs.,Baad dai mahalata an sintomas ninda.,Baad mai mahalata an sintomas nira.,1441,test,0
+bik-1445,"You are also a good friend, Maya.","Mayad ka man na barkada, Maya.","Mad'yag ka man na barkada, Maya.",1449,test,0
+bik-1449,I ate a little rice and egg.,Kumaon ako nin diit na kan-on buda itlog.,Kumaon ako ning dagi na kan-on buda itlog.,1453,test,0
+bik-1452,Do not go out yet.,Dai ka pa mag luwas.,Mii ka pa mag luwas.,1456,test,0
+bik-1453,Rest for a few more days.,Magpahingalo ka pa nin pilang aldaw.,Magpahingaro ka pa ning pira na ardaw.,1457,test,0
+bik-1454,The doctor said so.,Sinabi kan doctor.,Sinabi kan doctor.,1458,test,1
+bik-1458,Next Monday.,Sa sunod na Lunes.,Sa sunod na Lunes.,1462,test,1
+bik-1481,We should add emergency numbers.,Dapat tang dagdagan ning numero pang-emergency.,Dapat tang dadagon ning numero pang-emergency.,1485,test,0
+bik-1482,We should add the 4S steps.,Dapat tang dagdagan ning apat na S.,Dapat tang dagdsgon an apat na S.,1486,test,0
+bik-1492,I feel nervous.,Yakabahan ako.,Nagagamo ako.,1496,test,0
+bik-1499,We did it!,Nagibo ta!,Nagibo ta!,1503,test,1
+bik-1500,"Thank you, everyone.",Salamat sa gabos.,Salamat sa gabos.,1504,test,1
+bik-1505,Goodbye for now.,Paalam na muna.,Paaram na muna.,1509,test,0
+bik-1508,Fight dengue every day.,Labanan an dengue kada aldaw.,Labanan an dengue kada ardaw.,1512,test,0
+bik-1514,Wash your hands often.,Mag hugas ka ning kamot permi.,Maghugas ka ning kamot permi.,1518,test,0
+bik-1515,Keep the trash covered.,Takpan an basura.,Takpan an basura.,1519,test,1
+bik-1519,Check behind the refrigerator.,Hilingun sa likod kan ref.,Tan-awon sa likod kan ref.,1523,test,0
+bik-1523,Pour the water on dry ground.,Ibuhos ang tubig sa dugang na daga.,Ibuhos an tubig sa dugang na labo.,1527,test,0
+bik-1524,Never throw trash in the canal.,Dai magsabod ning basura sa kanal.,Mii magsarabod ning basura sa kanal.,1528,test,0
+bik-1525,Mosquitoes hide in dark corners.,Nag tatago ang lamok sa madulom na sulok.,Nagtatago an lamok sa madurom na surok,1529,test,0
+bik-1527,Hang clothes properly.,Isabit ning maayus ang mga bado.,Isabit ning mad'yag an mga sur-ot.,1531,test,0
+bik-1529,Sleep under a net.,Gakatulog sa ilalom ning lambat.,Gakaturog sya sa ilarom ning lambat,1533,test,0
+bik-1531,Tell your neighbors.,Sabihan ang mga kapitbahay.,Sabihan an mga kapitbahay.,1535,test,0
+bik-1533,Ask the health worker.,Mag hapot sa health worker.,Mag hapot sa health worker.,1537,test,1
+bik-1536,Small actions matter.,Importante ang diit na gibo.,Importante an kadigi na gibo.,1540,test,0

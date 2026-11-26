@@ -1,0 +1,4 @@
+language,tokens,types,TTR,hapax,mean_len,median_len,max_len
+English,6633,1223,0.184,603,4.32,4,10
+Virac (South),6967,1470,0.211,832,4.53,4,11
+Pandan (North),6929,1524,0.22,882,4.51,4,10

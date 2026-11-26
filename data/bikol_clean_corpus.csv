@@ -1,0 +1,1538 @@
+﻿id,en,vi,pa,src_row,split,vi_equals_pa
+bik-0001,Hey Maya.,Uy Maya.,Hoy Maya.,2,train,0
+bik-0002,Hi Jake.,Hi Jake.,Uy Jake.,3,test,0
+bik-0003,Are you okay?,Ayus ka sana?,Ayos ka sana?,4,train,0
+bik-0004,Not really.,Bako masyado.,Buko masyado.,5,train,0
+bik-0005,You look sick.,Bing may namati ka.,Baga ka ikan sakit.,6,validation,0
+bik-0006,I feel sick.,Bing kukulgan akong payo.,Baga ako kukurgan uro.,7,train,0
+bik-0007,What happened?,Anong nangyari?,Napano ka?,8,test,0
+bik-0008,I have a fever.,Makulog payo ko.,Mahapdos payo ko.,9,validation,0
+bik-0009,Since when?,Kasu arin pa?,Kelan pa?,10,train,0
+bik-0010,Since yesterday.,kasu arin pa?,Ka hapon pa,11,train,0
+bik-0011,How high?,Gaano ka halangkaw?,Gaano kaharangkaw?,12,train,0
+bik-0012,Very high.,Kahinalangkaw.,Kahinarangkaw,13,train,0
+bik-0013,Did you take medicine?,Ga inom kang bulong?,Ga inom kang burong?,14,train,0
+bik-0014,Yes. I took paracetamol.,Uho. Nag inom akong paracetamol.,Oho. Nag inom akong paracetamol.,15,train,0
+bik-0015,Did it help?,Nakatuwang man?,Naka tabang man?,16,test,0
+bik-0016,Only a little.,Diit sana.,Kadigi lang.,17,test,0
+bik-0017,Do you have other symptoms?,Igwa ka pang ibang namati?,Ikan kapa ibang namati?,18,train,0
+bik-0018,Yes. Many.,Uho. Dakol.,Oho. Dakor,19,validation,0
+bik-0019,Tell me.,Talmon mo,Taram mo,20,train,0
+bik-0020,My head hurts.,Makulog payo ko,Mahapdos uro ko.,21,train,0
+bik-0021,A lot?,Dakol?,Dakor?,22,validation,0
+bik-0022,Yes. So much.,"Uho, subra.",Oho.sobra.,23,train,0
+bik-0023,What else?,Ano pa?,Anuha pa?,24,train,0
+bik-0024,My body Hurts.,Makulog ginhawa ko.,Mahapdos ginahawa ko.,25,train,0
+bik-0025,Your joints?,Ang mga buto mo?,Ang mga turang mo?,26,test,0
+bik-0026,Yes. My joints hurt.,Uho. Makulog mga buto ko.,Oho. Makurog mga turang ko.,27,train,0
+bik-0027,Your muscles?,Ang Muscles mo?,Ang Muscles mo?,28,train,1
+bik-0028,Yes. They hurt too.,Uho. Palarehas makulog.,Oho. Pararehas mahapdos.,29,train,0
+bik-0029,Do you feel nauseous?,Nasusuka ka ba?,Nasusuka ka ba?,30,train,1
+bik-0030,Yes. I want to vomit.,"Uho, gusto ko mag suka.","Oho, gusto ko mag suka.",31,train,0
+bik-0031,Did you eat?,Nag kaun kana?,Nag kaon kana?,32,train,0
+bik-0032,I cannot eat.,Di ako naka kaun.,Mii ako naka kaon.,33,validation,0
+bik-0033,No appetite?,Di akong gana mag kaun.,Mii akong gana mag kaun.,34,train,0
+bik-0034,No. None at all,Wala. Maski salo,Wara. Maski saro.,35,train,0
+bik-0035,Do you have a rashes?,Igwa kang rashes?,Ikan ka rashes?,36,train,0
+bik-0036,Yes. Small red spots.,Uho. Mga saday na pantal.,Oho. Mga kadigi na pantal,37,train,0
+bik-0037,On your arms?,Sa kamot mo?,Sa kamot mo?,38,train,1
+bik-0038,Yes. And on my legs.,Uho. Pati sa legs ko.,Oho. Pati sa legs ko.,39,train,0
+bik-0039,"Maya, this sounds like dengue.","Maya, bing dengue uni ah.","Maya, baga dengue to ah.",40,train,0
+bik-0040,Dengue? Really?,Dengue? Seryoso?,Dengue? Seryoso?,41,train,1
+bik-0041,Yes. It could be dengue.,Uho. Pwede an na dengue.,Oho. Pwede yan na dengue.,42,test,0
+bik-0042,Oh no.,Hala.,Hala.,43,train,1
+bik-0043,Do not panic.,kalma.,Mii ka magamo.,44,train,0
+bik-0044,I am scared.,Natakot ako.,Nagamo ako.,45,train,0
+bik-0045,I understand.,Naintindihan ko.,Nasabutan ko.,46,test,0
+bik-0046,Dengue is common here.,Uso ang dengue uya.,Uso ang dengue digdi,47,train,0
+bik-0047,Yes. In our barangay.,Uho. Sa barangay mi.,Oho. Sa barangay namo.,48,train,0
+bik-0048,Many people get it.,Dakol na tawo nag kaka igwa kaan.,Dakor na taho nag kaka ikan nyan.,49,train,0
+bik-0049,Especially during rainy season.,Lalo na pag tag ulan.,Lalo na pag tag uran.,50,train,0
+bik-0050,Yes. Rainy season is dangerous.,Uho. Pag maulanun kagagamo.,Oho. Pag mauranun magamo.,51,validation,0
+bik-0051,Because of mosquitoes?,Dahi sa mga lamok?,Dahi sa mga lamok?,52,train,1
+bik-0052,Yes. Mosquitoes breed fast.,Uho. Ang mga lamok madari an mag alaki,Oho. Ang mga lamok kadari mag araki.,53,validation,0
+bik-0053,In stagnant water.,Sa mga naka ipon na tubig,Sa mga naka iripon na tubig.,54,test,0
+bik-0054,Yes. In many places.,Uho. Maski sain na lugar.,Oho. Maski siin na lugar.,55,train,0
+bik-0055,Like what?,Like ano?,Anuha mn?,56,train,0
+bik-0056,Like old tries.,Alog ning mga lumang gulong.,Arog ning mga lumang gulong.,57,test,0
+bik-0057,Like flower pots.,Alog ning mga flower pots.,Arog ning mga flower pots.,58,train,0
+bik-0058,Like empty bottles.,Alog ning mga ding laog na bote.,Arog ning mga miing laog na bote.,59,validation,0
+bik-0059,Like open drums.,Alog ning mga bukas na drums,Arog ning mga bukas na drums,60,train,0
+bik-0060,Like clogged gutters.,Alog ning mga baradong alulod.,Arog ning mga baradong alulod.,61,train,0
+bik-0061,LIke plastic containers.,Alog ning mga plastic containers.,Arog ning mga plastic containers.,62,train,0
+bik-0062,Yes. All of those.,Uho. Gabus an.,Uho. Gabus an.,63,train,1
+bik-0063,Mosquitoes love those.,Gustong gusto an ning mga lamok.,Gustong gusto yan ning mga lamok.,64,test,0
+bik-0064,They lay eggs there.,Jan sinda ga sugok.,Jan sila ga sugok.,65,train,0
+bik-0065,Then they bite people.,Tapos mangngagat na sila.,Tas mangaragat na sila.,66,train,0
+bik-0066,And they spread dengue.,Tapos makalat na sinda ning dengue.,Tapos makaralat na sila ning dengue.,67,validation,0
+bik-0067,What kind of mosquitoes?,Anong klaseng dengue?,Anuhang klaseng dengue?,68,test,0
+bik-0068,Aedes mosquito.,Lamok na aedes.,Lamok na aedes.,69,train,1
+bik-0069,Aedes aegypti?,Lamok na aedes aegpti?,Lamok na aedes aegpti?,70,train,1
+bik-0070,Yes. That one.,Uho. Iu an.,Oho. Iso yan.,71,train,0
+bik-0071,It bites at daytime.,Nangagat an ning aga buda banggi.,Nangagat yan ning aga tska gabi.,72,train,0
+bik-0072,Yes. Morning and afternoon.,Uho. Aga buda hapon/banggi.,Oho. Aga buda hapon.,73,train,0
+bik-0073,Not only at night.,Bako lang banggi.,Buko lang gabi.,74,train,0
+bik-0074,Correct.,Tama.,Tama.,75,train,1
+bik-0075,That is scary.,Nakatakot.,Nakatakot.,76,validation,1
+bik-0076,Yes. Very scary.,Uho. Nakatakot.,Oho. Nakatakot.,77,train,0
+bik-0077,How do we know if its dengue?,Panu ta maisihan kung dengue talaga?,Pano ta maaraman kung dengue talaga?,78,train,0
+bik-0078,We need a blood test.,Kaipuhan ta mag blood test.,Kaipuhan ta mag blood test.,79,train,1
+bik-0079,At the health center?,Sa health center?,Siin sa health center?,80,train,0
+bik-0080,Yes. Go there.,Uho. Mag punta ka duman.,Oho. Mag punta ka dun.,81,validation,0
+bik-0081,What will they check?,Ano man i check ninda?,Anuha man i check nila?,82,validation,0
+bik-0082,They check your platelets.,I check ninda platelets mo.,I check nila platelets mo.,83,train,0
+bik-0083,What are platelets?,Ano ang platelets?,Anuha ang platelets?,84,validation,0
+bik-0084,They help your blood clot.,Naka tuwang siya para mamuo ang dugo mo.,Naka tabang siya para mamuo ang dugo mo.,85,train,0
+bik-0085,What happens if they drop?,Ano ang manyayari kung magbaba ang platelets?,Anuha ang manyayari kung magbaba ang platelets?,86,train,0
+bik-0086,That is dangerous.,Delikado an.,Delikado yan.,87,train,0
+bik-0087,Bleeding can happen.,Pwedeng mag dugo.,Pwedeng mag dugo.,88,validation,1
+bik-0088,Yes. Nosebleed. Gum bleeding.,"Uho. Nosebleed, Gum bleeding.","Oho. Nosebleed, Gum bleeding.",89,train,0
+bik-0089,That sounds serious.,Bing seryoso an.,Baga seryoso yan.,90,train,0
+bik-0090,It is serious.,Seryoso an.,Seryoso yan.,91,test,0
+bik-0091,Can dengue kill?,Naka gadan ang dengue?,Naka daan ang dengue?,92,train,0
+bik-0092,Yes. If not treated.,Uho. Kung di maagapan,Oho. Kung di maagapan,93,validation,0
+bik-0093,But it can be treated.,Pero na bubulong uni.,Pero na buburong uni.,95,train,0
+bik-0094,How?,Panu?,Pano?,96,train,0
+bik-0095,Early detection helps.,Naka tuwang siya pag naaganapan maalaman.,Naka tabang siya pag naaganapan maaraman.,97,test,0
+bik-0096,Early treatment helps.,Naka tuwang ang amay na pag pabulong.,Naka tabang ang agap na pag paburong.,98,train,0
+bik-0097,Rest helps.,Naka tuwang ang pag pahingalo.,Naka tabangang pag pahingaro.,99,train,0
+bik-0098,Fluids help.,Naka tuwang ang pag inom ning tubig.,Naka tabang ang pag inom ning tubig.,100,test,0
+bik-0099,Water helps.,Naka tuwang ang tubig.,Naka tabang ang tubig.,101,train,0
+bik-0100,Oresol helps.,Dakulang tuwang ang pag inom ning oresol.,Dakurang tabang ang pag inom ning oresol.,102,train,0
+bik-0101,"Yes, Stay hydrated.",Uho. Stay hydrated.,Oho. Stay hydrated,103,train,0
+bik-0102,What about medicine?,Ya panu man ang bulong?,Ya panu man ang burong?,104,train,0
+bik-0103,Take paracetamol only.,Paracetamol lang ang pwede.,Paracetamol lang ang pwede.,105,train,1
+bik-0104,Not ibuprofen?,Bakong ibuprofen?,Bukong ibuprofen?,106,validation,0
+bik-0105,No. Avoid ibuprofen,Bako.bawal ang ibuprofen.,Buko.mai pwede ang ibuprofen.,107,validation,0
+bik-0106,Not aspirin?,Bawal din ang aspirin?,Bawal din ang aspirin?,108,validation,1
+bik-0107,No. Avoid aspirin.,Bako. Bawal ang aspirin.,Buko. mai pwede ang aspirin.,109,train,0
+bik-0108,Why?,Ngata?,Tayun?,110,train,0
+bik-0109,They increase bleeding risk.,Lalong mataas ang pag dugo.,Lalong mataas ang pag durugo.,111,train,0
+bik-0110,I see.,Ah ganun palan.,Ah arog palan nun.,112,train,0
+bik-0111,Do not self medicate.,Dai ka mag inom ning bulong na daing reseta.,Mii ka mag inom ning burong na maing reseta.,113,train,0
+bik-0112,Go to the doctor.,Mag punta kang doctor.,Mag punta kang doctor.,114,validation,1
+bik-0113,Yes. Always.,Uho. Permi.,Oho. Permi.,115,train,0
+bik-0114,What if fever is high?,Panu kung mag taas ang kulog ning payo?,Panu kong mag taas ang kurog ning uro?,116,train,0
+bik-0115,Go to the hospital.,Mag punta sa hospital.,Mag punta sa hospital.,117,train,1
+bik-0116,What are warning signs?,Anong ang mga delikadong signs?,Anuha ang mga delikadong signs?,118,test,0
+bik-0117,Severe stomach pain.,Malalang kulog ning tulak.,Malalang hapdos ning turak.,119,train,0
+bik-0118,Persistent vomiting.,Dai ga tunong ning suka.,Mii ga tunong ning suka.,120,validation,0
+bik-0119,Bleeding gums.,Ga dugo na gums.,Ga dugo na gums.,121,validation,1
+bik-0120,Bloody vomit.,May dugo ang suka.,May dugo ang suka.,122,test,1
+bik-0121,Difficulty breathing.,Nasakitan mag hangos.,Nasakitan mag hinga.,123,validation,0
+bik-0122,Feeling very weak.,Nangluluya.,Nangruruluya.,124,test,0
+bik-0123,Those are danger signs.,Gabus an mga delikadong signs.,Gabus an mga delikadong signs.,125,train,1
+bik-0124,Go to ER fast.,Mag punta sa ER ning madarian.,Mag punta sa ER ning madarian.,126,train,1
+bik-0125,Yes. Do not wait.,Uho. Di na mag halat halat pa.,Oho. Di na mag haralat harat pa.,127,train,0
+bik-0126,I am worried about my family.,Nagamo ako sa pamilya ko.,Nagamo ako sa pamilya ko.,128,validation,1
+bik-0127,My brother has fever too.,Yung tugang kong lalaki makulog ang payo.,Yung tugang kong laraki mahapdos ang uro.,130,train,0
+bik-0128,He should get checked.,Kaipuhan niya na mag pa checked up.,Kaipuhan niya na mag pa checked up.,131,train,1
+bik-0129,Yes. Today,Uho. Ngunyan mismo.,Oho. Ngunyan mismo.,132,train,0
+bik-0130,Dengue spreads fast in families.,Ang dengue madari mag kalat sa pamilya.,Ang dengue madari mag kalat sa pamilya.,133,train,1
+bik-0131,Because mosquitoes bite everyone.,Panu ang mga lamok ya kagat ang gabus na mga tawo.,Panu ang mga lamok yakagat ang gabus na mga taho.,134,train,0
+bik-0132,"Yes, In one house.",Uho. Sa salong halong,Oho. Sa sarong harong.,135,test,0
+bik-0133,We must clean our house.,Kaipuhan ta manglimpya ning halong.,Kaipuhan ta manglimpya ning harong.,136,test,0
+bik-0134,Yes. Now.,Uho. Ngunyan.,Uho. Ngunyan.,137,train,1
+bik-0135,What should be clean?,Ano ang mga dapat tang linigan.,Ano ang mga dapat tang linigan.,138,train,1
+bik-0136,Remove stagnant water.,Harion ang mga tubig na naka ipon.,Harion ang mga tubig na naka iripon.,139,train,0
+bik-0137,Turn pots upside down.,Itaob ang mga paso.,Itaob ang mga paso.,140,test,1
+bik-0138,Cover water drums.,Takpan ang mga drums na igwang tubig.,Takpan ang mga drums na ikan tubig.,141,train,0
+bik-0139,Clean gutters.,Linigan ang mga baradong alulod.,Linigan ang mga baradong alulod.,142,train,1
+bik-0140,Throw old tries.,Isabod ang mga lumang gulong.,Isarabod ang mga lumang gulong.,143,test,0
+bik-0141,Dispose bottles properly.,Isabod ang mga naka tambak na plastic bote.,Isarabod ang mga naka tambak na plastic bote.,144,validation,0
+bik-0142,Change vase water.,Palitan ang mga tubig sa vase.,Palitan ang mga tubig sa vase.,145,validation,1
+bik-0143,Every two days.,Kada ika duwang aldaw.,Kada ika dawhang ardaw.,146,test,0
+bik-0144,Yes. Very Important.,Uho. Importante an.,Oho. Importante yan.,147,test,0
+bik-0145,What about inside the house?,Panu naman sa laog ning halong?,Panu naman sa raog ning harong?,148,train,0
+bik-0146,Use mosquito nets.,Mag gamit ning mosquitos nets.,Mag gamit ning mosquitos nets.,149,train,1
+bik-0147,Use insect repellent.,Mag gamit ning pang hari ning lamok.,Mag gamit ning pang hari ning lamok.,150,test,1
+bik-0148,Wear long sleeves.,Mag sul'ot ning long sleeve.,Mag sur'ot ning long sleeve.,151,test,0
+bik-0149,Wear long pants.,Mag sul'ot ning long pants.,Mag sur'ot ning long pants.,152,train,0
+bik-0150,Close windows.,Mag sirado ning bintana.,Mag sarado ning bintana.,153,validation,0
+bik-0151,Use screens.,Mag gamit ning screen.,Mag gamit ning screen.,154,train,1
+bik-0152,Use electric fan.,Mag gamit electric fan.,Mag gamit electric fan.,155,validation,1
+bik-0153,Mosquitoes hate wind.,Habo ning hangin ang mga lamok.,Dili ning hangin ang mga lamok.,156,train,0
+bik-0154,Yes. They cannot fly well.,Uho. Ta di sila naka layog ning maayus.,Oho. Mai sila naka rayog ning maayus.,157,train,0
+bik-0155,What about our barangay?,Panu naman sa barangay?,Panu naman sa barangay?,158,train,1
+bik-0156,We need community action.,Kaipuhan tang community action.,Kaipuhan tang community action.,159,validation,1
+bik-0157,Clean up drive.,Clean up drive.,Clean up drive.,160,train,1
+bik-0158,Yes. Every week.,Uho. Kada semana.,Oho. Kada semana.,161,train,0
+bik-0159,Search and destroy.,Hanapon buda uyagon ang ya istaran ning mga lamok.,Hanapon buda uyagon ang ya istaran ning mga lamok.,162,train,1
+bik-0160,Search breeding sites.,Hanapon kung sain ga istar ang mga lamok,Hanapon kung sain ga istar ang mga lamok,163,train,1
+bik-0161,Destroy them.,Uyagon gabus.,Uyagon gabus.,164,train,1
+bik-0162,That is the campaign.,Yan ang kampanya.,Yan ang kampanya.,165,train,1
+bik-0163,"4S, right?",4S. Tama?,4S. Tama?,166,test,1
+bik-0164,Yes.4S.,Uho. 4S,Uho. 4S,167,train,1
+bik-0165,Search and destroy.,Hanapon tas uyagon.,Hanapon tas uyagon.,168,train,1
+bik-0166,Self protection.,Ingatan ang sadili.,Ingatan ang sadiri.,169,test,0
+bik-0167,Seek early consultation.,Mag pa konsulta agad.,Mag pa konsulta agad.,170,validation,1
+bik-0168,Support fogging.,Makisalo sa fogging.,Makisaro sa fogging.,171,train,0
+bik-0169,Yes. Those four.,Uho. Yan na apat,Oho. Yan na apat,172,train,0
+bik-0170,We learned that in school.,Namatidan ko an sa iskwelahan,Nasusudan ko an sa iskwelahan.,173,validation,0
+bik-0171,We should practice it.,Dapat tang gibuhon uni.,Dapat tang gibuon uni.,174,train,0
+bik-0172,Not just memorize.,Bako sna i memorize.,Buko sna i memorize.,175,train,0
+bik-0173,Yes. Action matters.,Uho. importante ang pag hiwas kaysa sa puro talam.,Oho. importante ang pag hiwas kaysa sa puro taram.,176,train,0
+bik-0174,My neighbor does not clean.,Dai ga limpya ang mga kamag anak ko.,Mii ga limpya ang mga kamag anak ko.,177,train,0
+bik-0175,Talk to them.,Kahulunon mo sinda.,Kahurunon mo sila.,178,train,0
+bik-0176,They might get offended.,Baad ma offended sinda.,Baad ma offended sila.,179,train,0
+bik-0177,Explain nicely.,Ipaliwanag mong maayus.,Ipariwanag mong maayus.,180,train,0
+bik-0178,Say it is for everyone.,Talman mo na para uni sa gabus.,Taram mo na para to sa gabus.,181,test,0
+bik-0179,Dengue affects everyone,Gabus pwedeng tamaan ning dengue.,Gabus pwedeng tamaan ning dengue.,182,train,1
+bik-0180,Rich or Poor.,Mayaman man o pubri.,Mayaman man o pubri.,183,train,1
+bik-0181,Young or old.,Mapa aki man o gurang.,Mapa aki man o gurang.,184,test,1
+bik-0182,Anyone can get dengue.,Daing yapili ang dengue.,Maing yapili ang dengue.,185,train,0
+bik-0183,Even healthy people.,Maski vegetarian ka pa.,Miski vegetarian ka pa.,186,train,0
+bik-0184,Even athletes.,Maski athletes.,Maski athletes.,187,train,1
+bik-0185,Yes. anyone.,Uho. Gabus.,Oho. Gabus.,188,train,0
+bik-0186,Children are at risk.,Bakong ligtas ang mga aki.,Bukong ligtas ang mga aki.,189,train,0
+bik-0187,Yes. Very at risk.,Uho. Delikadong grabe.,Oho. Delikadong grabe.,190,train,0
+bik-0188,Elderly too.,Maski mga gurang na.,Maski mga gurang na.,191,train,1
+bik-0189,Yes. They are vulnerable.,Uho. Mas madari sinda tamaan.,Oho. Mas madari sila tamaan.,192,test,0
+bik-0190,We must protect them.,Uho. Kaipuhn ta sindang protektahan,Kaipuhan ta sila protectahan.,193,train,0
+bik-0191,We must be responsible.,Kaipuhan ta maging responsible.,Kaipuhan ta maging responsible.,194,train,1
+bik-0192,What about fogging.,Panu naman ang fogging?,Panu naman ang fogging?,195,test,1
+bik-0193,Fogging kills adult mosquitoes.,Ang fogging ay ya gadan ang mga gurang na lamok.,Ang fogging ay ya daan ang mga gurang na lamok.,196,train,0
+bik-0194,But not eggs.,Pero bako ang mga sugok.,Pero buko ang mga sugok.,197,test,0
+bik-0195,So cleaning is better.,Kaya ang pag limya ay salo sa yagibong marinas.,Kaya ang pag limya ay saro sa yagibong marinas.,199,train,0
+bik-0196,Yes. Cleaning is best.,Uho. Ang pag limpya ay dabest talaga.,Uho. Ang pag limpya ay dabest talaga.,200,validation,1
+bik-0197,Fogging is only support.,Suppurtahan ang fogging.,Suppurtahan ang fogging.,201,train,1
+bik-0198,Not the main solution.,Bako uni ang inut na solusyon.,Buko uni ang inut na solusyon.,202,train,0
+bik-0199,Prevention is best.,Mas ok ng mag ingat kaysa mag ka hilang.,Mas ok ng mag ingat kaysa mag ka hilang.,203,train,1
+bik-0200,Always.,Sa gabus na oras.,Sa gabus na oras.,204,train,1
+bik-0201,Jake Thankyou.,Jake salamat.,Jake salamat.,205,test,1
+bik-0202,For what?,Para sain?,Para siin?,206,train,0
+bik-0203,For explaining dengue.,Sa pag paliwang tungkol sa dengue.,Sa pag pariwang tungkol sa dengue.,207,validation,0
+bik-0204,Your welcome.,Welcome.,Welcome.,208,validation,1
+bik-0205,I feel less scared.,Nabawasan takot ko.,Nabawasan takot ko.,209,train,1
+bik-0206,Knowledge removes fear.,Ang igwang alam naka wala ning takot.,Ang ikan alam naka wara ning takot.,210,train,0
+bik-0207,I will go to the health center.,Mapunta na ako sa health center.,Mapunta na ako sa health center.,211,validation,1
+bik-0208,I will go with you.,Ibahan taka.,Ibahan taka.,212,train,1
+bik-0209,Really?,Talaga?,Talaga?,213,test,1
+bik-0210,Yes. I will help you.,Uho. tutuwangan taka.,Oho. tutuwangan taka.,214,train,0
+bik-0211,Thankyou Jake.,Salamt Jake.,Salamt Jake.,215,train,1
+bik-0212,We are friends.,Mag barkada kita.,Mag barkada kita.,216,test,1
+bik-0213,True friends help.,Ang mag barkada ga tuwangan.,Ang mag barkada ga tuwangan.,217,validation,1
+bik-0214,Let us also make a project.,Magibo kitang project.,Magibo kitang project.,218,train,1
+bik-0215,About dengue?,Tungkol sa dengue?,Tungkol sa dengue?,219,validation,1
+bik-0216,Yes. About dengue.,Uho. Tungkol sa dengue.,Oho. Tungkol sa dengue.,220,train,0
+bik-0217,For school?,Para sa iskwelahan?,Para sa iskwelahan?,221,train,1
+bik-0218,Yes. For school,Uho. Para sa iskwelahan.,Oho. Para sa iskwelahan.,222,train,0
+bik-0219,What will be the title?,Ano ang magiging title?,Ano ang magiging title?,223,train,1
+bik-0220,"Fight Dengue, Save Lives.","Labanan ang dengue, iligtas ang buhay.","Labanan ang dengue, iligtas ang buhay.",224,test,1
+bik-0221,I like that.,Gusto ko an.,Gusto ko an.,225,train,1
+bik-0222,"Or Clean Surroundings, Healthy Community.","Or malinis na kapalirigan, malusog na komunidad.","Or malanis na kapalirigan, malusog na komunidad.",226,validation,0
+bik-0223,That is good too.,Gusto ko man an.,Gusto ko man an.,227,train,1
+bik-0224,We can make posters.,Mag gibo kitang poster.,Mag gibo kitang poster.,228,validation,1
+bik-0225,We can make a video.,Ma gibo kitang video.,Ma gibo kitang video.,229,validation,1
+bik-0226,We can do clean up.,Pwede kita mag limpya.,Pwede kita mag limpya.,230,validation,1
+bik-0227,We can teach others.,Pwede ta tutulan ang iba.,Pwede ta tuturan ang iba.,231,test,0
+bik-0228,"We can save lives,",Kaya tang mag ligtas ning buhay.,Kaya tang mag ligtas ning buhay.,232,train,1
+bik-0229,One clean up at a time.,Salo salo na pag limpya.,Saro saro na pag limpya.,233,train,0
+bik-0230,One house at a time.,Salo sa halong kung may oras.,Saro sa halong kung may oras.,234,train,0
+bik-0231,One barangay at a time.,Salo sa barangay kung may oras.,Saro sa barangay kung may oras.,235,test,0
+bik-0232,Let us start tomorrow.,Punan ta na sa aga.,Punan ta na sa aga.,236,test,1
+bik-0233,Yes. Tomorrow morning.,Uho. Sa aga.,Oho. Sa aga.,237,train,0
+bik-0234,Bring gloves.,Mag dala ning gloves.,Mag dara ning gloves.,238,train,0
+bik-0235,Bring trash bags.,Mag dala ning trash bags.,Mag dara ning trash bags.,239,train,0
+bik-0236,Bring water.,Mag dala ning tubig.,Mag dara ning tubig.,240,train,0
+bik-0237,And bring friends.,Buda iiba ang mga barkada.,Buda iiriba ang mga barkada.,241,test,0
+bik-0238,"More hands, More help.","Mas dakol na kamot, Mas dakol ang maka tuwang.","Mas dakor na kamot, Mas dakor ang maka tuwang.",242,train,0
+bik-0239,Let us fight dengue.,Labanan ta ang dengue.,Labanan ta ang dengue.,243,validation,1
+bik-0240,Together.,Magkasalalo kita.,Magkasararo kita.,244,train,0
+bik-0241,Together we can,Kaya uni pag gailibahn.,Kaya uni pag gailibahn.,245,train,1
+bik-0242,"Get well soon, Maya.",Paayad ka Maya.,Padiyag ka Maya.,246,train,0
+bik-0243,"Thankyou, Jake.",Salamat Jake.,Salamat Jake.,247,train,1
+bik-0244,We are at the health center.,Uya na kita sa health center.,Uya na kita sa health center.,248,train,1
+bik-0245,Let us go inside.,Mara malaog na kita.,Mara maloog nakita.,249,train,0
+bik-0246,Where do we register?,Sain kita ma rehistro?,Siin kita mag rehistro?,250,train,0
+bik-0247,At the front desk.,Sa front desk.,Sa front desk.,251,train,1
+bik-0248,Good morning.,Mayad na aga.,Mad'yag na aga.,252,validation,0
+bik-0249,"Good morning, how can I help you?","Mayad na aga, ano ang maitutuwang ko saimo","Mad'yag na aga, anuha an maitutuwang ko saimo?",253,train,0
+bik-0250,My friend has a fever.,Makulog an payo kang barkada ko.,Mahapdos an uro kan barkada ko.,254,test,0
+bik-0251,Since two days ago.,Kaso duwang aldaw na.,Kadawhang ardaw na.,255,train,0
+bik-0252,Please fill out this form.,Pakisurat ka kaini na form.,Pakisurat ka kaini na form.,256,train,1
+bik-0253,Do you have a pen?,Igwa kang ballpen?,Ikan ka ballpen?,257,train,0
+bik-0254,Yes. Here.,Uho. Ini.,Oho. Ini.,258,train,0
+bik-0255,What is your name?,Ano an ngalan mo?,Anuha an ngaran mo?,259,train,0
+bik-0256,My name is Maya.,Maya an ngalan ko.,Maya an ngaran ko.,260,train,0
+bik-0257,What is your age?,Pila na ang edad mo?,Pira na an edad mo?,261,train,0
+bik-0258,I am sixteen years old.,Sixteen years old na ako.,Sixteen years old na ako.,262,test,1
+bik-0259,What is your address?,Ano an address mo?,Anuha an address mo?,263,train,0
+bik-0260,I live in this barangay.,Ga istar ako sa barangay ni.,Nag iistar ako sa barangay ni.,264,test,0
+bik-0261,What is your phone number?,Ano an number mo sa cellphone?,Anuha an number mo sa cellphone?,265,train,0
+bik-0262,Here is my number.,Ini ang number ko.,Ini an number ko.,266,train,0
+bik-0263,Do you have a health card?,Igwa kang health card?,Ikan ka health card?,267,train,0
+bik-0264,Not yet.,Dai pa.,Mai pa.,268,validation,0
+bik-0265,It is okay. We will make one.,Ayos lang. Gigibohon ta.,Ayos lang. Gigibuhon ta.,269,test,0
+bik-0266,Please wait for your number.,Mag halat ka sa numero mo,Hurat ka sa numero mo.,270,train,0
+bik-0267,Please sit down first.,Mag tukaw ka muna.,Mag untad ka muna.,271,train,0
+bik-0268,Is it a long line?,Halawig ang pila na uni?,Harawig ang pila?,272,train,0
+bik-0269,Not too long.,Bako masyadong halawig.,Buko masyadong harawig.,273,train,0
+bik-0270,There are many patients today.,Dakol ang pasyente ngunyan.,Dakor an pasyente ngunyan.,274,validation,0
+bik-0271,Maybe because of dengue.,Baad dahil sa dengue.,Baad dahil sa dengue.,275,validation,1
+bik-0272,Yes. Many have fever.,Uho. Dakol an makulog an payo.,Oho. Dakor an mahapdos ang uro.,276,train,0
+bik-0273,I feel dizzy.,Nahihilo ako.,Nahihilo ako.,277,validation,1
+bik-0274,Lean on me.,Mag hulandig ka sako.,Mag hurandig ka sako.,278,validation,0
+bik-0275,"Thank you, Jake.","Salamat, Jake.","Salamat, Jake.",279,train,1
+bik-0276,Do you want water?,Gusto mo ning tubig?,Gusto mo ning tubig?,280,train,1
+bik-0277,"Yes, please.","Uho, pakiusap.","Oho, pakiusap.",281,train,0
+bik-0278,Here is my water bottle.,Ini an bote ko ning tubig.,Ini an bote ko ning tubig.,282,validation,1
+bik-0279,Drink slowly.,Inom kang luway luway sana.,Inom kang paluway luway.,283,train,0
+bik-0280,Number twelve!,Numero dose!,Numero dose!,284,train,1
+bik-0281,That is us.,Kita ini.,Kita ini.,285,train,1
+bik-0282,Let us go to the nurse.,Mara mapunta na kita sa nurse.,Mapunta na kita sa nurse.,286,train,0
+bik-0283,"Hello, nurse.","Hello, nurse.","Hello, nurse.",287,train,1
+bik-0284,Please sit here.,Mag tukaw ka uya.,Mag untad ka uya.,288,train,0
+bik-0285,I will check your temperature.,Ta i check ta temperatura mo.,Susukatan ko an hapdos ning uro mo.,289,train,0
+bik-0286,Put this under your arm.,Iipit mo uni sa ilalom ning kili kili mo.,Ipailarom ini sa ilaróm ning kamot mo.,290,test,0
+bik-0287,Wait a moment.,Halat sana.,Hurat ka sana.,291,train,0
+bik-0288,Your temperature is thirty-nine.,Thirty-nine an temperatura mo.,Thirty-nine an temperatura mo.,292,test,1
+bik-0289,That is high.,Mataas ini.,Kaharangkaw kauni.,293,train,0
+bik-0290,I will check your blood pressure.,Susukatan ko man ang blood pressure mo.,Susukatan ko man an blood pressure mo.,294,validation,0
+bik-0291,Please roll up your sleeve.,Paki pa taas ning sleeve mo.,Pakipataas an manggas mo.,295,train,0
+bik-0292,Relax your arm.,Relax mo sana ang kamot mo.,Pahingaro an kamot mo.,296,train,0
+bik-0293,Your blood pressure is normal.,Normal an blood pressure mo.,Normal an blood pressure mo.,297,train,1
+bik-0294,How much do you weigh?,Pila ang timbang mo?,Pira an timbang mo?,298,train,0
+bik-0295,Please step on the scale.,Pakitungtong sa timbangan.,Pakitungtong sa timbangan.,299,test,1
+bik-0296,Fifty kilos.,Singkwenta kilos.,Singkwenta kilos.,300,train,1
+bik-0297,Are you allergic to any medicine?,Igwa kang allergy sa bulong?,Ikan ka allergy sa burong?,301,train,0
+bik-0298,"No, I am not.",Dai ako kaan,Mii. Mii ako kaan.,302,train,0
+bik-0299,Do you have other illnesses?,Igwa kang ibang namati?,Ikan ka ibang sakit?,303,train,0
+bik-0300,"No, only this one.","Dai, ini sana.","Mii, ini sana.",304,train,0
+bik-0301,Please wait for the doctor.,Halat ka sana sa doctor.,Hurat ka sa doctor.,305,train,0
+bik-0302,The doctor is busy.,Busy pa ang doctor.,May igagibo pa ang doctor.,306,train,0
+bik-0303,How long will we wait?,Pilang oras pa kita mahalat?,Pirang oras pa kita mahurat?,307,train,0
+bik-0304,About thirty minutes.,Mga thirty minutes.,Mga thirty minutes.,308,train,1
+bik-0305,It is okay. We can wait.,Ayos lang. Pwede kitang maghalat.,Ayos lang. Pwede kitang maghurat.,309,train,0
+bik-0306,I am tired.,Pagal ako.,Pagar ako.,310,validation,0
+bik-0307,Rest your head on my shoulder.,Isandig mo an payo mo sa abaga ko.,Ihurandig mo an uro mo sa abaga ko.,311,train,0
+bik-0308,You are a good friend.,Maboot kang barkada,Mad'yag kang barkada.,312,validation,0
+bik-0309,That is what friends are for.,Ini an gibo ning barkada.,Ini an gibo ning barkada.,313,train,1
+bik-0310,"Maya, please come in.","Maya, laog na.","Maya, loog na.",314,train,0
+bik-0311,"Good morning, doctor.","Mayad na aga, doctor.","Mad'yag na aga, doctor.",315,train,0
+bik-0312,What is bothering you?,Ano ang namamati mo?,Anuha an namamati mo?,316,train,0
+bik-0313,I have a high fever.,Halangkaw ang kulog ning payo ko.,karangkaw kang hapdos ning uro ko.,317,train,0
+bik-0314,My head and body hurt.,Makulog ang payo ko buda an ginhawa ko.,Mahapdos ang uro ko buda an ginahawa ko.,318,train,0
+bik-0315,I also have rashes.,Igwa man akong rashes.,Ikan man akong rashes.,319,train,0
+bik-0316,Let me see.,Hilingun ko daw.,Tan-awon ko.,320,test,0
+bik-0317,Please lie down on the bed.,Higda ka sa kama.,Pahigda ka sa kama.,321,train,0
+bik-0318,Does this hurt?,Makulog ini?,Mahapdos ini?,322,train,0
+bik-0319,A little.,Diit.,Dagi,323,validation,0
+bik-0320,How about here?,Ini man?,Ini man?,324,validation,1
+bik-0321,Yes. That hurts a lot.,Uho. Dakol ang kulog kaini.,Oho. Dakor an hapdos kaini.,325,test,0
+bik-0322,Open your mouth.,Buksan mo ang kimot mo.,Buksan mo an kimot mo.,326,train,0
+bik-0323,Say ahh.,Sabihon mo ahh.,Taraman mo ahh.,327,train,0
+bik-0324,Breathe in deeply.,Mag hangos ka nin halalom,Mag hinga ka nin hararom.,328,train,0
+bik-0325,Breathe out slowly.,Pa kawala ka ning luway luway,Paka wara nin luway luway.,329,validation,0
+bik-0326,Your lungs are clear.,Ok ang baga mo.,Klaro an baga mo.,330,test,0
+bik-0327,I think you have dengue.,"Sa pagkamati ko, dengue ini.","Sa pagkamati ko, dengue ini.",331,train,1
+bik-0328,Is it painful?,Makulog ini?,Mahapdos ini?,332,train,0
+bik-0329,Only a little prick.,Diit sanang tusok.,Dagi sanang tusok.,333,train,0
+bik-0330,Please go to the laboratory.,Mag punta ka sa laboratory,Punta ka sa laboratory.,334,test,0
+bik-0331,Where is the laboratory?,Sain ang laboratory?,Siin an laboratory?,335,test,0
+bik-0332,At the end of the hall.,Sa katapusan ning hallway.,Sa katapusan ning hallway.,336,train,1
+bik-0333,"Hello, I need to draw your blood.","Hello, kukuhaan ko ika ning dugo.","Hello, kukuhaan ko ikaw ning dugo.",337,train,0
+bik-0334,Please extend your arm.,Paki unat ang kamot mo.,Paki unat an kamot mo.,338,test,0
+bik-0335,Make a fist.,Gukom mo.,Kuyom ka.,339,train,0
+bik-0336,Look away if you are scared.,Hiling ka sa iba kng natakot ka,Mag kita ka sa iba kung nagagamo ka.,340,validation,0
+bik-0337,I am scared of needles.,Natatakot ako sa dagom.,Nagagamo ako sa dagom.,341,test,0
+bik-0338,Hold my hand.,Kapot ka sa kamot ko.,kopot ka sa kamot ko.,342,test,0
+bik-0339,It will be quick.,Madari sana ini.,Madari sana ini.,343,train,1
+bik-0340,Done already?,Tapos na?,Tapos na?,344,train,1
+bik-0341,Yes. Press this cotton here.,Uho. Pindutan mo ining bulak uya.,Oho. Pindutan mo ini na bulak uya.,345,validation,0
+bik-0342,Do not bend your arm.,Dai mo ibaluktot ang kamot mo.,Mii mo ibaluktot an kamot mo.,346,test,0
+bik-0343,That was not so bad.,Bako man masyadong grabe.,Buko man masyadong grabe.,347,train,0
+bik-0344,You were brave.,Matapang ka.,Maisog ka.,348,validation,0
+bik-0345,When will the result come out?,Saarin maluwas ang resulta?,Saarin ma luwas an resulta?,349,train,0
+bik-0346,In one hour.,Sa salong oras.,Sa sarong oras.,350,train,0
+bik-0347,Let us wait outside.,Mag halat kita sa luwas.,Mag hurat kita sa luwas.,351,train,0
+bik-0348,Do you want to eat?,Gusto mo mag kaun?,Gusto mo mag kaon?,352,train,0
+bik-0349,I do not feel like eating.,Dai ako gana mag kaun.,Mii ako gana mag kaon.,353,train,0
+bik-0350,You should eat a little.,Kaipuhan mo mag kaun ning diit.,Kaipuhan mo mag kaon nin dagi.,354,train,0
+bik-0351,I will buy you porridge.,Ibakal taka ning lugaw.,Ibakar taka ning lugaw.,355,train,0
+bik-0352,Thank you. You are so kind.,Salamat. Ang boot mo man.,Salamat. Ang boot mo mn,356,train,0
+bik-0353,Here is the porridge.,Ini ang lugaw.,Ini an lugaw.,357,train,0
+bik-0354,It is still hot.,Mainit pa.,Mainit pa.,358,test,1
+bik-0355,Blow on it first.,Ihayop mo muna.,Ihayop mo muna.,359,train,1
+bik-0356,Eat slowly.,Kaun ka luway luway.,Kaon ka luway luway,360,train,0
+bik-0357,Is it delicious?,Masilam ba?,Masiram an lasa?,361,train,0
+bik-0358,Yes. It is good.,Uho.ok lasa niya.,Oho. Mad'yag.,362,train,0
+bik-0359,Do you want more?,Gusto mo pa?,Gusto mo pa?,363,train,1
+bik-0360,No. That is enough.,Dai. Tama na uni.,Mii. Husto na ini.,364,train,0
+bik-0361,Let us go back to the laboratory.,Balik kita sa laboratory.,Balik kita sa laboratory.,365,train,1
+bik-0362,The result is ready.,Handa na ang resulta.,Handa na an resulta.,366,train,0
+bik-0363,Please bring this to the doctor.,Paki dala ini sa doctor.,Pakidara ini sa doctor.,367,train,0
+bik-0364,Let us go back to the doctor.,Balik kita sa doctor.,Balik kita sa doctor.,368,train,1
+bik-0365,"Doctor, here is the result.","Doctor, ini an resulta.","Doctor, ini an resulta.",369,train,1
+bik-0366,Let me read it.,Basahon ko.,Basahon ko.,370,validation,1
+bik-0367,Hmm. Her platelets are low.,Hmm. Nag baba ang platelets niya.,Hmm. Nababa an platelets nia.,371,train,0
+bik-0368,Is that serious?,Seryoso ini?,Seryoso ini?,372,train,1
+bik-0369,It is a warning sign.,Warning sign ini.,Warning sign ini.,373,test,1
+bik-0370,"It is dengue, is it not?",Dengue ini?,"Dengue ini, di baga?",374,train,0
+bik-0371,Yes. The test is positive.,Uho. Positive an test.,Oho. Positive an test.,375,validation,0
+bik-0372,Please do not worry.,Dai ka mag-alala,Mii ka magamo.,376,train,0
+bik-0373,Is she going to be okay?,Magiging maayus ba si maya?,Maayos si Maya?,377,train,0
+bik-0374,Yes. We caught it early.,Uho. Na agapan panu,Oho. Naagapan ta.,378,train,0
+bik-0375,She needs to stay in the hospital.,Kaipuhan niya mag stay uya sa hospital.,Kaipuhan niyang mag stay uya sa hospital.,379,train,0
+bik-0376,For how long?,Gaano kaawat?,Pira kahuray.,380,train,0
+bik-0377,Maybe three to five days.,Baad tulo hanggang limang aldaw.,Baad tulo hasta lima na ardaw.,381,train,0
+bik-0378,I do not want to stay.,Dai ko gusto uya mag stay.,Mii ko gusto mag stay uya.,382,train,0
+bik-0379,It is for your safety.,Para ini sa kaligtasan mo.,Para ini sa kaligtasan mo.,383,train,1
+bik-0380,Platelets can drop more tomorrow.,Pwedeng magbaba pa ang platelets bukas.,Pwedeng magbaba pa an platelets bukas.,384,validation,0
+bik-0381,We will monitor you every day.,Babantayan ka nimi kada aldaw.,Babantayan ka namon kada ardaw.,385,train,0
+bik-0382,"Okay, doctor.","Sige, doctor.","Sige, doctor.",386,train,1
+bik-0383,"Nurse, please prepare a bed.","Nurse, pakihanda ning kama.","Nurse, pakihanda nin kama.",387,train,0
+bik-0384,"Yes, doctor.","Uho, doctor.","Oho, doctor.",388,train,0
+bik-0385,Please sign this admission form.,Fill up'han mo uning admission form.,Pakipirma ini na admission form.,389,validation,0
+bik-0386,Are you her guardian?,Ika ang guardian niya?,Ikaw an guardian niya?,390,train,0
+bik-0387,No. I am her classmate.,Dai. Kaklase niya ako.,Mii. Kaklase niya ako.,391,train,0
+bik-0388,We need to call her parents.,Kaipuhan ta apudan ang mga magulang niya.,Kaipuhan ta tawagan an mga magurang niya.,392,train,0
+bik-0389,I will call them now.,Aapudan ko na sinda ngunyan.,Tatawagan ko na sila ngunyan.,393,train,0
+bik-0390,"Hello, Mama?","Hello, Mama?","Hello, Mama?",394,train,1
+bik-0391,Maya is in the hospital.,Uya si Maya sa hospital.,Uya si Maya sa hospital.,395,train,1
+bik-0392,She has dengue.,Igwa siyang dengue.,Ikan siyang dengue.,396,train,0
+bik-0393,Oh my goodness.,"Hala, diyos ko.","Hala, diyos ko.",397,validation,1
+bik-0394,We are coming right now.,Mapunta kami ngunyan mismo.,Mapunta kami ngunyan mismo.,398,validation,1
+bik-0395,Please bring her clothes.,Pakidala ang mga bado niya.,Pakidara an mga bado niya.,399,train,0
+bik-0396,"Okay, I will tell her.","ok, sasabihon ko sainya.","Sige, sasabihon ko sa saiya.",400,train,0
+bik-0397,My parents are coming.,Mapunta na ang mga magulang ko.,Mapunta an mga magurang ko.,401,validation,0
+bik-0398,That is good.,Mayad an.,Mad'yag iyan.,402,test,0
+bik-0399,You are not alone.,Dai ka ga sulo.,Mii ka ga sulo,403,train,0
+bik-0400,Please follow me to the ward.,Sunod ka sako sa ward.,Sunod ka sako sa ward.,404,validation,1
+bik-0401,It is on the second floor.,Sa ika duwang palapag.,Sa pangawhang palapag.,405,train,0
+bik-0402,Use the elevator.,Gamit kang elevator.,Gamiton an elevator.,406,train,0
+bik-0403,This is your bed.,Ini ang kama mo.,Ini an kama mo.,407,train,0
+bik-0404,It is clean and cool.,Malinig buda maripot.,Malinig buda mahamog.,408,train,0
+bik-0405,Please change into this gown.,Paki palit sa ini na gown.,Pakipalit sa ini na gown.,409,train,0
+bik-0406,"Jake, please turn around.","Jake, talikudan ka muna.","Jake, pakiliwat.",410,train,0
+bik-0407,Sorry. I will wait outside.,Sorry. Mahalat ako sa luwas.,Sorry. Maghuhurat ako sa luwas.,411,train,0
+bik-0408,"Okay, you can come in.","Sige, pwede ka na mag laog.","Sige, pwede ka na magloog.",412,train,0
+bik-0409,I will put an IV in your arm.,Kakanghan ko ning dextrose ang kamot mo.,Kakanghan ko nin dextrose an kamot mo.,413,train,0
+bik-0410,What is that for?,Para sain ini?,Para sain ini?,414,train,1
+bik-0411,It gives you fluids and medicine.,Ini ang gatao ning tubig buda bulong.,Ini an nagtutuwang nin tubig buda burong.,415,train,0
+bik-0412,Will it hurt?,Makulog ini?,Mahapdos ini?,416,train,0
+bik-0413,Just a small pinch.,Diit sanang kagat.,Dagi sanang kagat.,417,test,0
+bik-0414,Do not pull the tube.,Dai mo hilahon ang tubo.,Mii mo hilahon an tubo.,418,validation,0
+bik-0415,Do not move your hand too much.,Dai mo masyadong ihiwas ang kamot mo.,Mii mo masyadong ihiro an kamot mo.,419,train,0
+bik-0416,Tell me if it feels swollen.,Sabihon mo sako kung gabara.,Taraman mo sako kung gabara.,420,train,0
+bik-0417,"Okay, nurse.","Sige, nurse.","Sige, nurse.",421,test,1
+bik-0418,Press this button if you need help.,Pinduton mo ini na button kung kaipuhan mo ning tabang,Pindutan ini na buton kung kaipuhan mo nin tabang.,422,train,0
+bik-0419,Thank you very much.,Salamat na grabe.,Dakurang salamat.,423,train,0
+bik-0420,I will check on you every hour.,Bibisitahon taka kada oras.,Bibisitahon taka kada oras.,424,train,1
+bik-0421,"Maya, you must rest now.","Maya, kaipuhan mo na mag pahingalo.","Maya, kaipuhan mo na magpahingaro.",425,train,0
+bik-0422,I cannot sleep.,Dai ako nangatulog.,Mii ako makatugang.,426,validation,0
+bik-0423,Close your eyes.,Pikita ang mata mo.,Pikita an mata mo.,427,train,0
+bik-0424,Think of happy things.,Isip nin mad'ayad na bagay.,Isip nin mad'yag na bagay.,428,validation,0
+bik-0425,Like our school project.,Alog ning project ta sa iskwelahan.,Arog nin project ta sa iskwelahan.,429,train,0
+bik-0426,I will bring my notebook tomorrow.,Madala ako ning notebook bukas.,Madara ako nin notebook bukas.,430,train,0
+bik-0427,Do not worry about school.,Dai ka mag alala sa iskwelahan.,Mii ka magamo sa iskwelahan.,431,train,0
+bik-0428,I will take notes for you.,Isusurat ko an mga lesson para saimo.,Isusurat ko an mga lesson para saimo.,432,train,1
+bik-0429,Her parents arrived.,Nakaabot na ang mga magulang niya.,Nakaabot na an mga magurang niya.,433,train,0
+bik-0430,"Maya, my child.","Maya, anak ko.","Maya, anak ko.",434,train,1
+bik-0431,"Mama, Papa.","Mama, Papa.","Mama, Papa.",435,train,1
+bik-0432,How are you feeling?,Kumusta ang pagmamati mo?,Kumusta an pamamati mo?,436,train,0
+bik-0433,"I feel weak, but I am okay.",Nangluluya ako pero ayos lang.,Nangruruluya ako pero ayos lang.,437,train,0
+bik-0434,We were so worried.,Nag-alala kami.,Nagamo kami gayod.,438,train,0
+bik-0435,Thank you for bringing her here.,Salamat sa pagdala sainya uya.,Salamat sa pagdara saiya digdi.,439,test,0
+bik-0436,"You are welcome, ma'am.","Welcome po, ma'am.","Welcome po, ma'am.",440,validation,1
+bik-0437,I brought food for you.,Nagdala ako ning kaunon para saimo.,Nagdara ako nin kaonon para saimo.,441,validation,0
+bik-0438,I brought your clothes.,Nagdala ako ning bado mo.,Nagdara ako nin bado mo.,442,test,0
+bik-0439,I brought your pillow.,Nagdala ako ning ulunan mo.,Nagdara ako nin unran mo.,443,test,0
+bik-0440,"Thank you, Mama.","Salamat, Mama.","Salamat, Mama.",444,train,1
+bik-0441,"Doctor, can she eat?","Doctor, pwede siyang magkaun?","Doctor, pwede siyang magkaon?",445,test,0
+bik-0442,Yes. Soft foods are best.,Uho. Mas mayad na mga mayuta muna na pagkaun.,Oho. Mas mad'yag an malumoy na kaonon.,446,validation,0
+bik-0443,Give her porridge and soup.,Tawan ninyo siya nin lugaw buda sabaw.,Tawan ninyo siya nin lugaw buda sabaw.,447,validation,1
+bik-0444,Give her fruits.,Tawan ninyo siya ning prutas.,Tawan ninyo siya nin bunga.,448,validation,0
+bik-0445,Give her plenty of fluids.,Tawan ninyo siya ning dakol na tubig.,Tawan ninyo siya nin dakor na tubig.,449,train,0
+bik-0446,Coconut water helps.,Nakatutuwang ang tipong.,Nakatutuwang an butong.,450,test,0
+bik-0447,Avoid oily food.,Iwasan muna ang mamantika na kaunon.,Likayan an mamantika na kaonon.,451,train,0
+bik-0448,Avoid spicy food.,Iwasan muna ang maanghang na kaunon.,Likayan an maanghang na kaonon.,452,train,0
+bik-0449,Avoid black or red drinks.,Iwasan muna ang itom o pula na inumon.,Likayan an itom o pula na inumon.,453,train,0
+bik-0450,It can look like bleeding.,Pwedeng maging alog sa dugo.,Pwedeng magmuya na dugo.,454,train,0
+bik-0451,"I understand, doctor.","Naintindihan ko, doctor.","Nasabutan ko, doctor.",455,validation,0
+bik-0452,She needs to drink medicine every four hours.,Kaipuhan niyang mag inom ning bulong kada apat na oras.,Kaipuhan niyang uminom nin burong kada apat na oras.,456,train,0
+bik-0453,It is for fever.,Para ini sa kalintura.,Para ini sa uro.,457,test,0
+bik-0454,Is it paracetamol?,Paracetamol ini?,Paracetamol ini?,458,train,1
+bik-0455,Yes. Only that.,Uho. Iyan sana.,Oho. Iyan sana.,459,test,0
+bik-0456,Please remember. No ibuprofen.,Pakitandaan. Bawal an ibuprofen.,Pakitandaan. Mai pwede an ibuprofen.,460,train,0
+bik-0457,No aspirin either.,Bawal man ang aspirin.,Mii pwede man an aspirin.,461,test,0
+bik-0458,"We will remember, doctor.","Aalaman nimi, doctor.","Aaraman namon, doctor.",462,train,0
+bik-0459,"Nurse, her fever is back.","Nurse, nagbalik ang kalintura niya.","Nurse, nagbalik an hapdos ning uro nya.",463,train,0
+bik-0460,I will give her medicine.,Tatawan ko siya ning bulong.,Tatawan ko siya nin burong.,464,train,0
+bik-0461,I will wipe her with a wet towel.,Pupunasan ko siya ning basa na tuwalya.,Pupunasan ko siya nin basa na tuwalya.,465,validation,0
+bik-0462,Use lukewarm water.,Gamiton ang maligamgam na tubig.,Gamiton an maligamgam na tubig.,466,validation,0
+bik-0463,Do not use cold water.,Dai gamiton ang malamig na tubig.,Mii gamiton an malamig na tubig.,467,test,0
+bik-0464,Her fever is going down.,Nagbababa na ang kalintura niya.,Nagbababa na an hapdos uro nya.,468,train,0
+bik-0465,That is good news.,Mayad an na balita.,Mad'yag ini na balita.,469,train,0
+bik-0466,Let us check her platelets again.,Check ta platelets niya utro.,Susukatan ta liwat an platelets niya.,470,test,0
+bik-0467,We will do it tomorrow morning.,Gigibuhon ta bukas sa aga.,Gigibuhon ta bukas sa aga.,471,train,1
+bik-0468,"Maya, you must drink more water.","Maya, kaipuhan mong uminom ning dakol na tubig.","Maya, kaipuhan mong uminom nin dakor na tubig.",472,train,0
+bik-0469,I am tired of drinking water.,Pagal na ako sa pag-inom nin tubig.,Pagal na ako sa pag-inom nin tubig.,473,train,1
+bik-0470,Try oresol then.,Try mo ang oresol man.,Try mo an oresol.,474,train,0
+bik-0471,Okay. I will try.,Sige. Try ko.,Sige. Try ko.,475,train,1
+bik-0472,"Jake, do you have class today?","Jake, igwa kang klase ngunyan?","Jake, ikan ka klase ngunyan?",476,test,0
+bik-0473,"Yes, but I will visit after.","Uho, pero ma bisita ako pagkatapos.","Oho, pero bibisita ako pagkatapos.",477,train,0
+bik-0474,I will bring your homework.,Madala ako ning homework mo.,Madara ako nin homework mo.,478,test,0
+bik-0475,"Thank you, my friend.","Salamat, barkada ko.","Salamat, barkada ko.",479,test,1
+bik-0476,Visiting hours start at two.,Mapuon ang visiting hour ning two.,Mag-uumpisa an visiting hours nin alas dos.,480,train,0
+bik-0477,Only two visitors at a time.,Duwa sanang bisita kada beses.,Dawha sanang bisita kada beses.,481,test,0
+bik-0478,Please wash your hands first.,Mag hugas kamo ning kamot muna.,Maghugas kamo nin kamot muna.,482,train,0
+bik-0479,"Use the alcohol, please.",Gamiton ninyo an alcohol.,Gamiton ninyo an alcohol.,483,train,1
+bik-0480,Please keep your voice low.,Paki luwayan ang boses.,Pakiliit an boses ninyo.,484,train,0
+bik-0481,Maya needs rest.,Kaipuhan ni Maya nin pahingalo.,Kaipuhan ni Maya nin pahingaro.,485,train,0
+bik-0482,Okay. We will be quiet.,Sige. luluwayan mi boses mi.,Sige. luluwayan namo ang boses.,486,test,0
+bik-0483,How much is the hospital bill?,Pila ang bayadan sa hospital?,Pira an bayadan sa hospital?,487,train,0
+bik-0484,We will check with the billing office.,Ihapot ta sa billing office.,Itatanong ta sa billing office.,488,train,0
+bik-0485,Do you have PhilHealth?,Igwa kang PhilHealth?,Ikan ka PhilHealth?,489,train,0
+bik-0486,Yes. We are members.,Uho. Miyembro kami.,Oho. Miyembro kami.,490,train,0
+bik-0487,That will help with the cost.,Maka tuwang ini sa gastos.,Matutuwang ini sa gastos.,491,validation,0
+bik-0488,Please bring your PhilHealth card.,Pakidala ang PhilHealth card ninyo.,Pakidara an PhilHealth card ninyo.,492,train,0
+bik-0489,I will get it at home.,Kukuhaon ko sa halong.,Kukuhaon ko sa harong.,493,train,0
+bik-0490,Is the medicine free?,Libre an bulong?,Libre an burong?,494,validation,0
+bik-0491,Some are free from the health center.,Igwa ning libre sa health center.,Ikan nin libre sa health center.,495,train,0
+bik-0492,Some we must buy.,Igwa man ning kaipuhan bakalun.,Ikan man na kaipuhan bilhon.,496,train,0
+bik-0493,We can share the cost.,Pwede ta ibalangan ang gastos.,Pwede ta ibalanga an gastos.,497,validation,0
+bik-0494,I will ask my relatives for help.,Mahagd ako ning tabang sa mga kamag-anak ko.,Mahagd ako nin tabang sa mga kamag-anak ko.,498,validation,0
+bik-0495,Our class will also donate.,Mag donate man ang mga kaklase ta.,Mag dodonar man an klase namon.,499,train,0
+bik-0496,Really? Thank you so much.,Seryoso? Mabalos na grabe,Seryoso? Mabalos na grabe,500,test,1
+bik-0497,It is the least we can do.,Ini sana an kaya nimi.,Ini sana an kaya namo.,501,train,0
+bik-0498,Today is the third day.,Ngunyan an ikatulong aldaw.,Ngunyan an ikatulong ardaw.,502,train,0
+bik-0499,A little better.,Mas mayad ng diit.,Mas mad'yag ng kadigi,503,test,0
+bik-0500,My fever is gone.,Nawala na ang kalintura.,Nawara na an hapdos ning uro mo.,504,train,0
+bik-0501,Your platelets are rising.,Nag tataas na ang platelets mo.,Nagtataas na an platelets mo.,505,train,0
+bik-0502,That is wonderful news.,Mayad ini na balita.,Mad'yag ini na balita.,506,train,0
+bik-0503,Can I go home soon?,Pwede na akong mag paribod.,Pwede na akong umuli?,507,train,0
+bik-0504,Maybe in two days.,Baad sa ika duwang aldaw.,Baad sa dawhang ardaw.,508,validation,0
+bik-0505,We must watch for danger signs first.,Kaipuhan pang bantayan ang mga delikadong signs.,Kaipuhan pang bantayan an mga delikadong signs.,509,train,0
+bik-0506,I am ready to eat now.,Kaya ko ng magkaun.,Handa na akong magkaon.,510,train,0
+bik-0507,I want rice and fish soup.,Gusto ko ning maluto buda sabaw nin sila.,Gusto ko nin kanon buda sabaw nin sira.,511,validation,0
+bik-0508,I will cook it for you.,Lulutuon ko ini para saimo.,Lulutuon ko ini para saimo.,512,test,1
+bik-0509,Jake brought bread and fruit.,Nagdala si Jake nin tinapay buda prutas.,Nagdara si Jake nin tinapay buda prutas,513,train,0
+bik-0510,How are the others at school?,Kumusta ang iba sa iskwelahan?,Kumusta an iba sa iskwelahan?,514,train,0
+bik-0511,They miss you.,Namimiss ka nindang gabus.,Namimiss ka nilang gabus.,515,validation,0
+bik-0512,They sent you cards.,Nagpadara sinda nin card para saimo.,Nagpadara sila nin card para saimo.,516,test,0
+bik-0513,That makes me happy.,Ma ugma ako.,Ikinakaogma ko ini.,517,train,0
+bik-0514,"Good morning, Jake.",Mayad na aga Jake.,"Mad'yag na aga, Jake.",518,test,0
+bik-0515,"Good morning, Maya.",Mayad na aga Maya.,"Mad'yag na aga, Maya.",519,validation,0
+bik-0516,Are you feeling better?,Mas maayos na ang pamamati mo?,Mas maayos na an pamamati mo?,520,validation,0
+bik-0517,Yes. The fever is gone.,Uho. Nawala na ang kulog ning payo.,Oho. Nawara na an hapdos ning uro.,521,train,0
+bik-0518,I am glad.,Mayad man.,Mad'yag man.,522,validation,0
+bik-0519,I went to the health center.,Nagpunta ako sa health center.,Nagpunta ako sa health center.,523,train,1
+bik-0520,What did the doctor say?,Ano ang sabi saimo ning doctor?,Anuha an ya sabi ning doctor?,524,train,0
+bik-0521,It was not dengue.,Bako ining dengue.,Buko ining dengue.,525,test,0
+bik-0522,Thank God.,Salamat sa Diyos.,Salamat sa Diyos.,526,train,1
+bik-0523,But we still need to be careful.,Pero kaipuhan ta pa man mag ingat.,Pero kaipuhan ta pa man mag ingat.,527,train,1
+bik-0524,Yes. Let us clean our yard today.,Uho. Linigan ta ang bakuran ta ngunyan.,Oho. Linigan ta an bakuran ta ngunyan.,528,train,0
+bik-0525,Where do we start?,Sain kita mapunan?,Sain kita mapunan?,529,train,1
+bik-0526,Let us start at the back of the house.,Punan ta sa likod ning halong.,Punan ta sa likod ning harong.,530,train,0
+bik-0527,There are many dry leaves.,Dakol na ang mga dugang na dahon.,Dakor na an mga dugang na dahon,531,train,0
+bik-0528,We will sweep them.,Isighid ta an gbaus,Isighid ta an gabus.,532,train,0
+bik-0529,Get the broom.,Kuha ng sighid.,Kuhaa an sighid.,533,train,0
+bik-0530,Here it is.,Uni na.,Uni na.,534,train,1
+bik-0531,Get the dustpan too.,Kuha ka man ning pandakot.,Kuha ka man ning pandakot.,535,train,1
+bik-0532,I will use the rake.,Gagamiton ko an kagkag.,Gagamiton ko an kagkag.,536,train,1
+bik-0533,Put the leaves in a sack.,Ibugtak mo ang mga dahon sa sako.,Ibutang mo an mga dahon sa sako.,537,train,0
+bik-0534,Do not burn them.,Dai mo sunugon.,Mii mo sunugon.,538,train,0
+bik-0535,Why not?,Ngata dai?,Tayun buko?,539,train,0
+bik-0536,The smoke is bad for health.,Mabata ang aso sa pagmati.,Maraho an aso sa pamamati.,540,train,0
+bik-0537,You are right.,Tama ka.,Tama ka.,541,train,1
+bik-0538,We will put them in the compost pit.,Ibugtak ta sinda sa hukay para sa abono.,Ibutang ta sila sa hukay para sa abono.,542,train,0
+bik-0539,Good idea.,Mayad na idea.,Mad'yag na ideya.,543,train,0
+bik-0540,Look at this old bucket.,Hilngon mo ining lumang timba.,Hilngon mo ining lumang timba.,544,train,1
+bik-0541,It has water inside.,Igwa ning tubig sa laog.,Ikan ning tubig sa raog.,545,validation,0
+bik-0542,Pour it out.,Ibuhos mo.,Ibuhos mo.,546,train,1
+bik-0543,Turn it upside down.,Itaob mo.,Itaob mo.,547,validation,1
+bik-0544,There are wrigglers.,Igwa ning mga kiti-kiti.,Ikan ning mga kiti-kiti.,548,train,0
+bik-0545,Those will become mosquitoes.,Magiging lamok sinda.,Maging lamok sila.,549,test,0
+bik-0546,Kill them now.,Uyagon mo sinda ngunyan.,Uyagon mo sila ngunyan.,550,test,0
+bik-0547,Pour hot water on them.,Ibuhos mo ang mainit na tubig.,Ibuhos mo an mainit na tubig.,551,validation,0
+bik-0548,Good. Now throw the bucket away.,Tama. Ngunyan isabod an timba.,Mad'yag. Ngunyan isarabod an timba.,552,test,0
+bik-0549,"No, keep it. We can use it dry.","Bako, itago mo, magagamit ta an pag dugang.","Buko, itago mo, Pwede ta gamiton na uga.",553,test,0
+bik-0550,Store it face down.,Ibugtak na nakataob.,Ibutang na nakataob.,554,validation,0
+bik-0551,What is that under the sink?,Ano ining uya sa ilalom ning lababo?,Anuha ining uya sa ilarom ning lababo?,555,train,0
+bik-0552,It is a leaking pipe.,Ining tubo na ga tagas.,Ining tubo na ga tagas.,556,train,1
+bik-0553,Water is collecting there.,Ga ipon an tubig duman.,Ga iripon an tubig dun.,557,test,0
+bik-0554,We should fix it.,Dapat ta ayuson.,Dapat ta ayuson.,558,train,1
+bik-0555,I will call the plumber.,Maapod akong tubero.,Tatawagan ko an tubero.,559,test,0
+bik-0556,Wipe the floor first.,Punasan mo muna ang salog.,Punasan mo una an sarog.,560,train,0
+bik-0557,Use a dry cloth.,Gamita ang dugang na trapo.,Gamita an dugang na trapo.,561,train,0
+bik-0558,Open the windows.,Buksan mo an mga bintana.,Buksan mo an mga bintana.,562,train,1
+bik-0559,Let the sun come in.,Mag laog lamng ang aldaw,Mag loog lamng ang ardaw.,563,test,0
+bik-0560,Sunlight kills germs.,Ga gadan ning mikrobyo ang sinag ning aldaw.,Gatigbak ning mikrobyo an sinag ning ardaw.,564,train,0
+bik-0561,Let us wash the bed sheets.,Labhan ta an mga bed sheets.,Labhan ta an mga habol.,565,train,0
+bik-0562,Hang them in the sun.,Isampay sa aldaw.,Isampay sa ardaw.,566,train,0
+bik-0563,Let us clean under the beds.,Linigan ta ang ilalom ning katre.,Linigan ta an irarom ning mga katre.,567,train,0
+bik-0564,Mosquitoes hide in dark places.,Nagtatago an lamok sa madulom na lugar.,Nagtatago an lamok sa madurom na lugar.,568,validation,0
+bik-0565,Behind the curtains.,Sa likod ning kurtina.,Sa likod ning kurtina.,569,train,1
+bik-0566,Inside the closet.,Sa laog ning aparador.,Sa raog ning aparador.,570,train,0
+bik-0567,Under the table.,Sa ilalom ning lamesa.,Sa irarom ning lamesa.,571,train,0
+bik-0568,We must check everywhere.,Kaipuhan ta mag check sa gabus na lugar.,Kaipuhan ta mag hilng sa gabus na lugar.,572,train,0
+bik-0569,Where is the trash can?,Sain ang basurahan?,Sain an basurahan?,573,train,0
+bik-0570,It is outside the gate.,Jan sa luwas ning gate.,Jaon sa luwas ning gate.,574,test,0
+bik-0571,It is full already.,Puno na man.,Puno na man.,575,train,1
+bik-0572,When does the garbage truck come?,Saarin gapunta ang collector ning basura?,Saano ga abot an trak ning basura?,576,train,0
+bik-0573,Every Monday and Thursday.,Kada Lunes buda Huwebes.,Kada Lunes tska Huwebes.,577,validation,0
+bik-0574,Today is Thursday.,Ngunyan Huwebes.,Ngunyan Huwebes.,578,train,1
+bik-0575,Then we should put it out now.,Ya kaipuhan tana iluwas an.,Kaipuhan tana iluwas an ngunyan.,579,train,0
+bik-0576,Tie the bag tightly.,Higpiton mo an pagtali ning supot.,Higuton mo an pagtali ning supot.,580,test,0
+bik-0577,Separate the biodegradable.,Ibulag an nabubulok.,Iburag an nabubulok.,581,validation,0
+bik-0578,And the non-biodegradable.,Buda an dai nabubulok.,Buda an mii nabubulok.,582,validation,0
+bik-0579,Plastic goes in the blue bin.,Ang plastik sa asul na basurahan.,Ang plastik sa asul na basurahan.,583,train,1
+bik-0580,Food waste goes in the green bin.,Ang tira-tira sa berde na basurahan.,Ang tira-tira sa berde na basurahan.,584,train,1
+bik-0581,Do you know the rule?,Alam mo ang patakaran?,Aram mo an patakaran?,585,train,0
+bik-0582,Yes. The barangay announced it.,Uho. Ya anunsyo ning barangay.,Oho. Ya anunsyo ning barangay.,586,train,0
+bik-0583,Who is the barangay captain?,Sinong kapitan ning barangay?,Sino an kapitan ning barangay?,587,train,0
+bik-0584,Captain Reyes.,Kapitan Reyes.,Kapitan Reyes.,588,validation,1
+bik-0585,She is very active.,Mahigos siya.,Mahigos siya.,589,train,1
+bik-0586,She leads the clean-up drive.,Siya ang gapa nginut ning clean-up drive.,Siya an ga pangenot ning clean-up drive.,590,train,0
+bik-0587,And the kagawad?,Buda an mga kagawad?,Buda an mga kagawad?,591,train,1
+bik-0588,They help her.,Ga tuwang sinda sa sainya.,Ga tuwang sila sa saiya.,592,train,0
+bik-0589,Each kagawad has a committee.,Kada kagawad igwa ning komite.,Kada kagawad ikan ning komite.,593,train,0
+bik-0590,One handles health.,Saro an ga asikaso ning kalusugan.,Saro an ga asikaso ning kalusugan.,594,validation,1
+bik-0591,One handles sanitation.,Saro an ga asikaso ning kalinisan.,Saro an ga asikaso ning kalinisan.,595,validation,1
+bik-0592,One handles peace and order.,Saro an ga asikaso ning katiwasayan.,Saro an ga asikaso ning katiwasayan.,596,train,1
+bik-0593,Is there a barangay meeting?,Igwa ning meeting sa barangay?,Ikan ning miting sa barangay?,597,train,0
+bik-0594,Yes. This Saturday.,Uho. Ining Sabado.,Oho. Ining Sabado.,598,train,0
+bik-0595,What time?,Anong oras?,Anuhang oras?,599,train,0
+bik-0596,At two in the afternoon.,Alas dos ning hapon.,Alas dos ning hapon.,600,train,1
+bik-0597,Where is it?,Sain an?,Sain an?,601,train,1
+bik-0598,At the barangay hall.,Sa barangay hall.,Sa barangay hall.,602,train,1
+bik-0599,What will they discuss?,Ano an pag-uusapan ninda?,Anuha an pag huhurunan nila?,603,test,0
+bik-0600,They will talk about dengue.,Pag huhulunan ang dengue.,Pag huhurunan nila an dengue.,604,train,0
+bik-0601,And the garbage problem.,Buda an problema sa basura.,Buda an problema sa basura.,605,train,1
+bik-0602,Can everyone attend?,Pwede an gabus mag attend?,Pwede an gabus mag attend?,606,train,1
+bik-0603,Yes. All residents are invited.,Uho. Imbitado an gabus na residente.,Oho. Imbitado an gabus na residente.,607,train,0
+bik-0604,I will bring my mother.,Iiba ko ang nanay ko.,Idara ko an nanay ko.,608,train,0
+bik-0605,I will bring my neighbors.,Iiba ko ang mga kapitbahay ko.,Idara ko an mga kapitbahay ko.,609,train,0
+bik-0606,Let us go together.,Magkasalalo kita.,Magkasararo kita.,610,train,0
+bik-0607,Bring a pen and paper.,Mag dala ning lapis buda papel.,Mag dara ning lapis tska papel.,611,train,0
+bik-0608,We can write down the schedule.,Pwede ta isulat an iskedyul.,Pwede ta isurat an iskedyul.,612,test,0
+bik-0609,Is there fogging this week?,Igwa ning fogging ining semana?,Ikan ning fogging ining semana?,613,test,0
+bik-0610,Yes. Tomorrow afternoon.,Uho. Sa aga hapon.,Oho. Sa aga hapon.,614,train,0
+bik-0611,Which area?,Anong lugar?,Anuhang lugar?,615,train,0
+bik-0612,Purok One and Purok Two.,Purok Uno buda Purok Dos.,Purok Uno tska Purok Dos.,616,train,0
+bik-0613,Our purok is Purok Three.,An purok mi Purok Tres.,An purok namo Purok Tres.,617,train,0
+bik-0614,Ours is on Friday.,Sa Biyernes ang sato.,Sa Biyernes an sa ato.,618,train,0
+bik-0615,We must prepare.,Kaipuhan ta mag handa.,Kaipuhan ta mag handa.,619,validation,1
+bik-0616,Cover the food.,Takpan ang pagkaon.,Takpan an pagkaon.,620,train,0
+bik-0617,Cover the water containers.,Takpan ang mga lalagyan ning tubig.,Takpan an mga butangan ning tubig.,621,train,0
+bik-0618,Put away the dishes.,Itago an mga plato.,Itago an mga plato.,622,train,1
+bik-0619,Keep the children inside.,Palaugon ang mga aki sa laog.,Paloogon an mga aki sa laog,623,test,0
+bik-0620,Keep the pets inside too.,Palaugon man ang mga alaga.,Paloogon man an mga alaga.,624,train,0
+bik-0621,Close the windows during fogging.,Sirado an bintana habang ga fogging.,Saraduhon an bintana habang ga fogging.,625,validation,0
+bik-0622,Wait for thirty minutes.,Maghalat ning treinta minutos.,Magharat ning treinta minutos.,626,validation,0
+bik-0623,Then open the windows.,Buksan ang bintana.,Tapos buksan an bintana.,627,train,0
+bik-0624,Let the smoke go out.,Paluwason ang aso.,Paluwason an aso.,628,train,0
+bik-0625,Is the fog harmful?,Malaot ang aso ning fogging?,Mahangos an aso ning fogging?,629,train,0
+bik-0626,Not if you follow the rules.,Bako kung susunudon ang patakaran.,Buko kung sunudon an patakaran.,630,train,0
+bik-0627,Do not breathe it directly.,Dai ka mag hangos diretso.,Mii ka mag hangos diretso.,631,validation,0
+bik-0628,Stay away from the fog.,Mag iwas sa aso.,Mag likay sa aso.,632,train,0
+bik-0629,Cover your nose.,Takpan an ilong.,Takpan an irong.,633,train,0
+bik-0630,Now let us talk about the drainage.,Ngunyan pag hulunan ta an kanal.,Ngunyan pag-usapan ta an kanal.,634,train,0
+bik-0631,The canal in front is clogged.,An kanal sa atubang barado.,An kanal sa atubang barado.,635,train,1
+bik-0632,It smells bad.,Mabata.,Mahangos.,636,train,0
+bik-0633,It is full of plastic.,Puno ning plastik.,Puno ning plastik.,637,validation,1
+bik-0634,Who throws plastic there?,Sisay ang ga sabod ning plastik duman?,Sino an ga sarabod ning plastik dun?,638,train,0
+bik-0635,Some careless people.,Mga bakong ga ingat na tawo.,Mga buko ga ingat na taho.,639,train,0
+bik-0636,We should report it.,Dapat ta i-report.,Dapat ta i-report.,640,train,1
+bik-0637,Report it to the barangay.,I-report sa barangay.,I-report sa barangay.,641,test,1
+bik-0638,They will send workers.,Mag-ipadara sinda ning mga trabahador.,Mag-ipadara sila ning mga trabahador.,642,train,0
+bik-0639,How long will it take?,Gaano kaawat?,Gaano kaawat?,643,train,1
+bik-0640,Maybe two days.,Baad duwang aldaw.,Baad dawhang ardaw.,644,validation,0
+bik-0641,Meanwhile we can clean the front.,"Habang anjan, pwede ta linigan an atubang.","Habang yaon, pwede ta linigan an atubang.",645,train,0
+bik-0642,Let us wear boots.,Mag sul'ot kita ning bota.,Mag sur'ot kita ning bota.,646,train,0
+bik-0643,The water is dirty.,Maati ang tubig.,Magima an tubig.,647,train,0
+bik-0644,It may carry diseases.,Pwedeng may dalang hilang.,Pwedeng may dara na sakit.,648,train,0
+bik-0645,Like leptospirosis.,Alog ning leptospirosis.,Arog ning leptospirosis.,649,train,0
+bik-0646,Right. Wear gloves too.,Tama. Mag gloves man.,Tama. Mag gloves man.,650,train,1
+bik-0647,Wash your hands after.,Maghugas ning kamot pagkatapos.,Maghugas ning kamot pagkatapos.,651,test,1
+bik-0648,Use soap.,Mag gamit ning sabon.,Mag gamit ning sabon.,652,train,1
+bik-0649,Scrub for twenty seconds.,Kuskusa ning bente segundos.,Kuskusa ning bente segundos.,653,train,1
+bik-0650,Good. We are done here.,Mayad. Tapos na kita uya.,Mad'yag Tapos na kita uya.,654,train,0
+bik-0651,Now the front yard.,Ngunyan ang atubangan ning bakuran.,Ngunyan an atubang bakuran.,655,validation,0
+bik-0652,Cut the tall grass.,Iputol ang mga halangkaw na mga awot.,Putol an mataas na awot.,656,validation,0
+bik-0653,Mosquitoes rest in tall grass.,Ga pahingalo ang lamok sa halangkaw na awot.,Ga pahingaro an lamok sa mataas na awot.,657,test,0
+bik-0654,Trim the bushes.,Putlan ang mga kahoy.,Putulon an mga kahoy.,658,train,0
+bik-0655,Pick up the coconut shells.,Kuha ning mga bagol.,Kuha ning mga bagor.,659,test,0
+bik-0656,Water gathers in coconut shells.,Ga ipon ang tubig sa bagol.,Ga iripon an tubig sa bagor.,660,validation,0
+bik-0657,Break them or bury them.,Uyagon o isulo uni.,Bungkaron o ilubong.,661,train,0
+bik-0658,Check the banana plants.,Hilingun ang mga saging.,Kitaon an mga saging.,662,train,0
+bik-0659,Water collects between the leaves.,Ga ipon an tubig sa gitna ning dahon.,Ga iripon an tubig sa gitna ning dahon.,663,train,0
+bik-0660,Look at that bamboo.,Hilngon mo ining kawayan.,Hilngon mo ining kawayan.,664,train,1
+bik-0661,Cut bamboo stumps hold water.,An tuod ning kawayan ga ipon ning tubig.,An tuod ning kawayan ga iripon ning tubig.,665,train,0
+bik-0662,Fill them with sand.,Punuon ning baybay.,Punuon ning baybay.,666,train,1
+bik-0663,Or cover the holes.,O takpan an mga huwa.,O takpan an mga huwa.,667,train,1
+bik-0664,We learn something new every day.,Naka matid kita ning bago ulu aldaw.,Nakasusud kita ning bago kada ardaw.,668,train,0
+bik-0665,Let us rest for a while.,Pahingalo muna kita.,Pahingaro muna kita ning dagi na oras.,669,train,0
+bik-0666,I will get some cold water.,Makuha ako ning maripot na tubig.,Makuha ako ning malipot na tubig.,670,train,0
+bik-0667,Thank you. I am thirsty.,Salamat. Uhaw na ako.,Salamat. Paha na ako.,671,train,0
+bik-0668,"Look, the neighbor is waving.","Hilngon mo, ga kaway ang kapitbahay.","Hilngon mo, ga kaway an kapitbahay.",672,train,0
+bik-0669,"Good morning, Aling Rosa.","Mayad na aga, Aling Rosa.","Mad'yag na aga, Aling Rosa.",673,train,0
+bik-0670,Are you cleaning too?,Ga limpya ka man?,Ga limpya ka man?,674,train,1
+bik-0671,Yes. The barangay asked us.,Uho. Tinalman kami ning barangay.,Oho. Tinaraman kami ning barangay.,675,train,0
+bik-0672,Do you need help?,Kaipuhan mo ning tabang?,Kaipuhan mo ning tabang?,676,test,1
+bik-0673,"Yes, please. My drums are heavy.","Uho, tabangi ako. Magabat ang mga drum ko.","Oho, tabangi ako. Magub'at an mga drum ko.",677,test,0
+bik-0674,We will carry them for you.,Kami na ma dala para saimo.,Kami an mag dara para saimo.,678,train,0
+bik-0675,"Thank you, kids.","Salamat, mga aki.","Salamat, mga aki.",679,train,1
+bik-0676,"Aling Rosa, do you have a cover for the drums?","Aling Rosa, igwa ka ning takip sa drum?","Aling Rosa, ikan ka ning takip sa drum?",680,train,0
+bik-0677,No. I lost it.,Wala. Nawala ko.,Wara. Nawara ko.,681,train,0
+bik-0678,We will bring you one.,Dadalhan taka ning saro.,Dadarahan taka ning saro.,682,train,0
+bik-0679,The barangay gives free covers.,Ang barangay ga tao ning libre na takip.,An barangay gatao ning libre na takip.,683,train,0
+bik-0680,Really? Where do we get them?,Tunay? Sain ta makukuha?,Tunay? Sain ta kuhaon?,684,train,0
+bik-0681,Ask the kagawad for sanitation.,Hapot ka sa kagawad sa kalinisan.,Hapot sa kagawad sa kalinisan.,685,validation,0
+bik-0682,I will go this afternoon.,Mapunta ako ining hapon.,Mapunta ako ining hapon.,686,train,1
+bik-0683,Is there a fine for dirty yards?,Igwa ning multa sa maati na bakuran?,Ikan ning multa sa magima na bakuran?,687,train,0
+bik-0684,Yes. There is a barangay ordinance.,Uho. Igwa ning ordinansa an barangay.,Oho. Ikan ning ordinansa an barangay.,688,train,0
+bik-0685,How much is the fine?,Pila an multa?,Pira an multa?,689,validation,0
+bik-0686,Five hundred pesos.,Limang gatos na piso.,Limang gatos na piso.,690,train,1
+bik-0687,That is expensive.,Mahal an.,Mahar yan.,691,validation,0
+bik-0688,It is to make people careful.,Para mag ingat an mga tawo.,Para mag ingat an mga taho.,692,train,0
+bik-0689,First they give a warning.,Inut ga tao sinda ning warning.,Inut ga tao sila ning warning.,693,validation,0
+bik-0690,Then a second warning.,Tapos panduwang warning.,Tapos ikadawhang warning,694,train,0
+bik-0691,Then the fine.,Tapos ma multa na.,Tapos ma multa.,695,train,0
+bik-0692,What if someone cannot pay?,Kung may dai maka bayad?,Kung may mii maka bayad?,696,validation,0
+bik-0693,They can do community service.,Pwede sinda mag serbisyo sa komunidad.,Pwede sila mag serbisyo sa komunidad.,697,train,0
+bik-0694,That is fair.,Patas an.,Patas yan.,698,train,0
+bik-0695,Is it okay to throw trash in the river?,Pwede ba isabod an basura sa suba?,Pwede ba isarabod an basura sa suba?,699,train,0
+bik-0696,No. It is forbidden.,Bako. Bawal.,Buko. Bawal.,700,train,0
+bik-0697,It also causes floods.,Salo an sa epekto ning pag baha.,Ga dara man ning baha.,701,train,0
+bik-0698,Floods bring more mosquitoes.,Ang baha ga dala ning dakol na lamok.,An baha ga dara ning dakor na lamok.,702,test,0
+bik-0699,Everything is connected.,Gabus mag kasalalo.,Gabus magkaugnay.,703,train,0
+bik-0700,Let us tell the children.,Sabihon ta sa mga aki.,Sabihon ta sa mga aki.,704,train,1
+bik-0701,They should not litter.,Dai sinda dapat magsabod ning basura.,Mii sila dapat magsarabod ning basura.,705,test,0
+bik-0702,We will teach them.,Tutulan ta sinda.,Tuturan ta sila.,706,train,0
+bik-0703,Let us make a game.,Gibuhon ta ning kawat.,Gibuhon ta ning kawat.,707,validation,1
+bik-0704,Who finds the most wrigglers wins.,Ang pinakadakol na maka hiling ning kiti-kiti ang mag gagana.,An pinakadakor na makita ning kiti-kiti an mang gagana.,708,train,0
+bik-0705,What is the prize?,Ano an premyo?,Anuha an premyo?,709,test,0
+bik-0706,A small notebook.,Saday na kuwaderno.,Kadigi kuwaderno.,710,train,0
+bik-0707,The children will like it.,Maragsa an mga aki.,Maragsa an mga aki.,711,train,1
+bik-0708,I think so too.,kaya ngani.,Kaya ani.,712,train,0
+bik-0709,Now let us collect the trash bags.,Ngunyan kuhaon ta ang mga supot ning basura.,Ngunyan kuhaon ta an mga supot ning basura.,713,train,0
+bik-0710,Put them near the road.,Ibugtak sa gilid ning kalsada.,Ibutang sa gilid ning kalsada.,714,train,0
+bik-0711,Do not block the street.,Dai harangan an kalsada.,Mii harangan an kalsada.,715,validation,0
+bik-0712,The truck is coming.,An track ga abot na.,An trak ga abot na.,716,train,0
+bik-0713,Good timing.,Tamang tama.,Tamang tama.,717,test,1
+bik-0714,"Thank you, sir.","Salamat, sir.","Salamat, sir.",718,train,1
+bik-0715,You are welcome. Keep it clean.,Welcome. Pag limpyaha lang.,Welcome. Pag limpyaha lang.,719,train,1
+bik-0716,We will.,Gibuhon mi.,Gibuhon namo.,720,validation,0
+bik-0717,Let us go home and rest.,Paribod na kita para maka pahingalo na.,Mauli kita para magpahingaro.,721,train,0
+bik-0718,We did a lot today.,Dakol ang ya gibo ta ngunyan.,Dakor an ya gibo ta ngunyan.,722,train,0
+bik-0719,Yes. I am tired but happy.,Uho. Ngalo pero maugma.,Oho. Ngaro pero maugma.,723,train,0
+bik-0720,Tomorrow is the clean-up drive.,Sa aga an clean-up drive.,Sa aga an clean-up drive.,724,train,1
+bik-0721,What time do we meet?,Anong oras kita mahilingan.,Anuhang oras kita makitaan?,725,train,0
+bik-0722,At six in the morning.,Alas sais ning aga.,Alas sais ning aga.,726,train,1
+bik-0723,That is very early.,Amay.,Amay.,727,validation,1
+bik-0724,It is cooler in the morning.,Mas ma presko pag agang amay.,Mas ma presko pag agang amay.,728,train,1
+bik-0725,You are right. I will wake up early.,Tama. Mamata akong amay.,Tama ka. Mamata akong amay.,729,validation,0
+bik-0726,Set your alarm.,Ma alarm ako.,Ma butang akong alarm.,730,train,0
+bik-0727,I will call you if you are late.,Ma apod ako pag na late ka.,Ma tawag ako pag na late ka.,731,train,0
+bik-0728,Where do we gather?,Sain kita ma tipon?,Sain kita ma tipon?,732,validation,1
+bik-0729,In front of the barangay hall.,Sa atubang ning barangay hall.,Sa atubang ning barangay hall.,733,train,1
+bik-0730,Who is leading the group?,Sinong ga pangenot ning grupo?,Sino an ga pangenot ning grupo?,734,train,0
+bik-0731,Kagawad Santos.,Kagawad Santos.,Kagawad Santos.,735,train,1
+bik-0732,He is very strict.,Estrikto siya.,Estrikto siya.,736,train,1
+bik-0733,But he is kind.,Pero mabuot siya.,Pero mabuot siya.,737,validation,1
+bik-0734,Are there volunteers from the school?,Igwa ning mga boluntaryo hari sa iskwelahan?,Ikan ning mga boluntaryo hari sa iskwelahan?,738,validation,0
+bik-0735,Yes. Our classmates are coming.,Uho. Ang mga kaklase ta ga abot.,Oho. An mga kaklase ta ga abot.,739,train,0
+bik-0736,The teachers too.,Ang mga maestro man.,An mga maestro man.,740,test,0
+bik-0737,The youth group will bring tools.,Ang grupo ning kabataan nag dala ning gamit.,An grupo ning kabataan mag dara ning gamit.,741,train,0
+bik-0738,We need more shovels.,Kaipuhan ta pa ning dakol na pala.,Kaipuhan ta pa ning dakor na pala.,742,train,0
+bik-0739,And more sacks.,Buda dakol na sako.,Buda dakor na sako.,743,train,0
+bik-0740,Who will bring the sacks?,Sinong mag dala ning sako?,Sino an mag dara ning sako?,744,train,0
+bik-0741,I will ask my uncle.,Mahapot ako sa tyo ko.,Mahapot ako sa tiyuhon ko.,745,validation,0
+bik-0742,"He sells rice, so he has many.","Ga pa bakal siya ning bagas, kaya dakol an sako niya","Gapabakar siya ning bagas, kaya dakor an sako niya.",746,train,0
+bik-0743,That is perfect.,Perpekto an.,Perpekto yan.,747,train,0
+bik-0744,We also need a first aid kit.,Kaipuhan ta man ning first aid kit.,Kaipuhan ta man ning first aid kit.,748,test,1
+bik-0745,In case someone gets hurt.,Kung may ma aksidente.,Kung may maaksidente.,749,train,0
+bik-0746,The health worker will bring it.,Ang health worker may dala.,An health worker mag dara.,750,train,0
+bik-0747,We also need drinking water.,Kaipuhan ta man ning inumon na tubig.,Kaipuhan ta man ning inumon na tubig.,751,train,1
+bik-0748,The captain will provide it.,Ang kapitan an madala,An kapitan an madara.,752,train,0
+bik-0749,Will there be snacks?,Igwa ning meryenda?,Ikan ning meryenda?,753,test,0
+bik-0750,Yes. Hot lugaw and bread.,Uho. Mainit na lugaw buda tinapay.,Oho. Mainit na lugaw tska tinapay.,754,test,0
+bik-0751,I like lugaw.,Gusto ko an lugaw.,Gusto ko an lugaw.,755,train,1
+bik-0752,Everyone does.,Gabus.,Gabus.,756,test,1
+bik-0753,Let us make a list of tasks.,Gibuhon ta ning listahan ning trabaho.,Gibuhon ta ning listahan ning trabaho.,757,train,1
+bik-0754,Group one cleans the canal.,Grupo uno an ga limpya ning kanal.,Grupo uno an ga limpya ning kanal.,758,train,1
+bik-0755,Group two cleans the roadside.,Grupo dos an ga limpya ning kilid ning kalsada.,Grupo dos an ga limpya ning kilid ning kalsada.,759,validation,1
+bik-0756,Group three checks houses.,Grupo tres ang mahiling ning mga halong.,Grupo tres an ga sayod ning mga harong.,760,test,0
+bik-0757,Group four removes old tires.,Grupo kwatro an ga kuha ning lumang gulong.,Grupo kwatro an ga kuha ning lumang gulong.,761,train,1
+bik-0758,Group five collects bottles.,Grupo singko an ga tipon ning mga bote.,Grupo singko an ga tipon ning mga bote.,762,train,1
+bik-0759,Which group are we in?,Anong grupo kita?,Anuhang grupo kita?,763,train,0
+bik-0760,We are in group three.,Uya kita sa grupo tres.,Uya kita sa grupo tres.,764,train,1
+bik-0761,We will knock on doors.,Ma tuktok kita sa mga pwertahan.,Ma tuktok kita sa mga pwertahan.,765,train,1
+bik-0762,We will be polite.,Magiging magalang kita.,Magiging magalang kita.,766,train,1
+bik-0763,We will explain why we are there.,Ipapaliwanag ta kung ngata uya kita.,Ipapariwanag ta kung tayun uya kita.,767,train,0
+bik-0764,We will check for stagnant water.,Hihilingun ta ang naka ipon na tubig.,Kikitaon ta an naka iripon na tubig.,768,train,0
+bik-0765,We will give advice.,Matao kita ning mga advice.,Matao kita ning mga advice.,769,validation,1
+bik-0766,We will not scold anyone.,Dai kita mag pasabot ning kaaway.,Mii kita mag pasabot ning kaaway.,770,train,0
+bik-0767,Some people are shy.,Ang iba nasupog.,An iba nasusupog.,771,test,0
+bik-0768,Be friendly.,Maging mabuot.,Maging mabuot.,772,train,1
+bik-0769,We will use a checklist.,Gagamiton ta ang checklist.,Gagamiton ta an checklist.,773,train,0
+bik-0770,What is on the checklist?,Ano an uya sa checklist?,Anuha an uya sa checklist?,774,train,0
+bik-0771,Water drums covered?,Natakpan an mga drum?,Natakpan an mga drum?,775,train,1
+bik-0772,Pots turned over?,Naitaob an mga paso?,Naitaob an mga paso?,776,train,1
+bik-0773,Gutters clean?,Limpya an alulod?,Limpya an alulod?,777,test,1
+bik-0774,Garbage tied?,Natali an basura?,Natali an basura?,778,test,1
+bik-0775,Nets available?,Igwa ning kulambo?,Ikan ning kulambo?,779,train,0
+bik-0776,We will mark yes or no.,Markahan ta kung uho o bako.,Markahan ta kung oho o buko.,780,train,0
+bik-0777,Then we give it to the kagawad.,Tapos itao ta sa kagawad.,Tapos itao ta sa kagawad.,781,train,1
+bik-0778,She will record everything.,Siya ang mag record ning gabus.,Siya an mag record ning gabus.,782,train,0
+bik-0779,The data helps the barangay plan.,Ang datos ga tuwang sa barangay mag plano.,An datos ga tuwang sa barangay mag plano.,783,train,0
+bik-0780,The captain wants a clean barangay.,Gusto ning kapitan an malinis na barangay.,Gusto ning kapitan an malinis na barangay.,784,train,1
+bik-0781,She also wants a safe barangay.,Gusto niya man an ligtas na barangay.,Gusto niya man an ligtas na barangay.,785,train,1
+bik-0782,We will make her proud.,Siguraduhan tang magiging proud siya.,Siguraduhn tang magiging proud siya.,786,train,0
+bik-0783,Let us sleep early tonight.,Makatulog kita ning agap ngunyan na banggi.,Makaturog kita ning agap ngunyan na gabi.,787,train,0
+bik-0784,"Good night, Jake.","Mayad na banggi, Jake.","Mad'yag na gabi, Jake.",788,test,0
+bik-0785,"Good night, Maya.","Mayd na banggi, Maya.","Mad'yag na gabi, Maya.",789,validation,0
+bik-0786,See you tomorrow.,Mag hilingan kita sa aga.,Magkita kita sa aga.,790,test,0
+bik-0787,Do not forget your gloves.,Dai mo ringawan ang gloves mo.,Mii mo lingawan an gloves mo.,791,test,0
+bik-0788,I will not forget.,Dai ko mariringwan.,Mii ko lilingawan.,792,train,0
+bik-0789,One more thing.,May salo pa.,May saro pa.,793,train,0
+bik-0790,What is it?,Ano an?,Anuha yan?,794,test,0
+bik-0791,Wear a hat.,Mag sul'ot ning sumbrero.,Mag sur'ot ning sumbrero.,795,train,0
+bik-0792,The sun will be hot.,Mainit an aldaw.,Mainit an ardaw.,796,validation,0
+bik-0793,Okay. I will bring an umbrella too.,Sige. Ma dala man ako ning payong.,Sige. Ma dara man ako ning payong.,797,train,0
+bik-0794,Good plan.,Mayad na plano.,Mad'yag na plano.,798,train,0
+bik-0795,Sleep well.,Tulog kang maayus.,Turog kang mad'yag,799,train,0
+bik-0796,Thank you for everything.,Salamat sa gabus.,Salamat sa gabus.,800,train,1
+bik-0797,Our teacher is waiting.,Ga halat na ang maestra ta.,Ga harat na an maestra ta.,801,test,0
+bik-0798,She wants to see our project.,Gusto niyang makita an project ta.,Gusto niyang makita an project ta.,802,train,1
+bik-0799,Did you finish the homework?,Natapos mo na ang homework?,Natapos mo na an homework?,803,train,0
+bik-0800,What did the teacher say?,Ano ang sinabi kan maestra?,Anuha an sinabi kan maestra?,804,train,0
+bik-0801,She gave us two weeks.,Tatawan niya kita ning duwang semana.,Tinawan niya kita ning dawhang semana.,805,train,0
+bik-0802,That is enough time.,Sakto na an oras.,Sakto na an oras.,806,train,1
+bik-0803,Is it a group project?,Group project man uni?,Group project man uni?,807,train,1
+bik-0804,Yes. Five members.,Uho. Lima kita.,Oho. Lima kita.,808,train,0
+bik-0805,Who are our groupmates?,Sinong mga ka grupo ta?,Sinong mga ka grupo ta?,809,train,1
+bik-0806,Ana and Paolo.,Si Ana buda si Paolo.,Si Ana buda si Paolo.,810,train,1
+bik-0807,And Carlo.,Buda si Carlo.,Buda si Carlo.,811,train,1
+bik-0808,Who will be the leader?,Sino an magiging leader?,Sino an magiging leader?,812,validation,1
+bik-0809,You should lead.,Ikaw na dapat mag leader.,Ikaw an dapat mag uro.,813,train,0
+bik-0810,Me? I am nervous.,Aku? Nagagamo ako.,Aku? Nagagamo ako.,814,train,1
+bik-0811,You can do it.,Kaya mo uni.,Kaya mo uni.,815,train,1
+bik-0812,We will support you.,Suportahan ka namo.,Suportahan ka namo.,816,train,1
+bik-0813,Let us make a plan.,Mag gibo kitang plano.,Mag gibo kitang plano.,817,train,1
+bik-0814,"First, we do research.","Una, mag research kita.","Una, mag research kita.",818,train,1
+bik-0815,Then we make posters.,"Pagkatapos, mag gibo kitang poster.","Pagkatapos, mag gibo kitang poster.",819,train,1
+bik-0816,"After that, the video.","Pagkatapos kaan, an video.","Pagkatapos nyan, an video.",820,train,0
+bik-0817,Last is the presentation.,Last ang presentation.,Last an presentation.,821,train,0
+bik-0818,That is a good plan.,Mayad uni na plano.,Mad'yag uni na plano.,822,train,0
+bik-0819,Where will we meet?,Sain kita mahililingan?,Sain kita mataranawan?,823,test,0
+bik-0820,At my house.,Sa halong ko.,Sa harong ko.,824,train,0
+bik-0821,Can we meet earlier?,Pwede kitang maghililingan ning amay.,Pwede kitang magkita nin mas aga?,825,train,0
+bik-0822,I have class until noon.,Igwa akong klase hanggang udto.,Ikan akong klase hasta udto.,826,train,0
+bik-0823,Okay. Two o clock then.,Sige. Alas dos na lang.,Sige. Alas dos na lang.,827,train,1
+bik-0824,Please do not be late.,Dai ka mag pa late.,Mii ka mag pa late.,828,train,0
+bik-0825,I will be on time.,Ma amay ako.,Ma agap ako.,829,validation,0
+bik-0826,Do you have a notebook?,Igwa kang notebook?,Ikan kang notebook?,830,test,0
+bik-0827,Yes. And a pen.,Uho. Buda ballpen.,Oho. Buda ballpen.,831,validation,0
+bik-0828,Bring your phone too.,Mag dala ka man ning cellphone.,Mag dara ka man ning cellphone.,832,train,0
+bik-0829,For taking photos.,Para sa pag picture.,Para sa pag picture.,833,train,1
+bik-0830,And for research.,Buda para sa research.,Buda para sa research.,834,test,1
+bik-0831,Is there internet at your house?,Igwa bang internet sa halong mo?,Ikan bang internet sa harong mo?,835,train,0
+bik-0832,"Yes, but it is slow.","Uho, pero maluya.","Oho, pero mahinay.",836,train,0
+bik-0833,We can use the library.,Pwede kitang gumamit ning library.,Pwede kitangmag gamit ning library.,837,validation,0
+bik-0834,The library has books about dengue.,Ang library igwang libro tungkol sa dengue.,An library ikan libro tungkol sa dengue.,838,train,0
+bik-0835,Let us borrow them.,Ma hiram kita.,Ma hiram kita.,839,validation,1
+bik-0836,I will ask the librarian.,Ma hapot ako sa librarian.,Ma hapot ako sa librarian.,840,train,1
+bik-0837,She is very kind.,Mabuot siya.,Mabuot siya.,841,train,1
+bik-0838,What is dengue fever?,Ano an dengue fever?,Anuha an dengue fever?,842,train,0
+bik-0839,It is a disease from a virus.,Hilang uni hari sa virus.,Sakit uni na hari sa virus.,843,train,0
+bik-0840,The mosquito carries the virus.,Anglamok ang ga dala kang virus.,An lamok an ga dara kan virus.,844,train,0
+bik-0841,How many types of virus are there?,Pila ang klase ning virus?,Piira an klase ning virus?,845,validation,0
+bik-0842,There are four types.,Apat an klase.,Apat an klase.,846,validation,1
+bik-0843,Can you get it twice?,Pwede bang makakuha kaan duwang beses?,Pwede bang makakuha nyan dawhang beses?,847,train,0
+bik-0844,Yes. That is more dangerous.,Uho. Mas delikado uni.,Oho. Mas delikado uni.,848,train,0
+bik-0845,I did not know that.,Dai ko alam an.,Mii ko aram an.,849,train,0
+bik-0846,We can put it in the report.,Pwede ta ilaog sa report.,Pwede ta ilaog sa report.,850,train,1
+bik-0847,Write that down.,Isulat mo an.,Isurat mo an.,851,train,0
+bik-0848,I am writing it now.,Ga sulat na ako ngunyan.,Ga surat na ako ngunyan.,852,train,0
+bik-0849,Look at this graph.,Hilingon mo an graph.,Hiringon mo an graph.,853,train,0
+bik-0850,It shows the cases every month.,Yapa hiling kaan an kaso kada bulan.,Yapakita nyan an kaso kada bulan.,854,validation,0
+bik-0851,July has the most cases.,Ang Hulyo an pinakadakol an kaso.,An Hulyo an pinakadakor an kaso.,855,train,0
+bik-0852,That is rainy season.,Tag ulan na uni.,Tag uran na uni.,856,validation,0
+bik-0853,It matches what we learned.,Nagkakaparehas ni sa natutunan ta.,Nagkakapareho ni sa natutunan ta.,857,validation,0
+bik-0854,Where did you find that?,Sain mo nakua an?,Sain mo nakua an?,858,train,1
+bik-0855,On the health department website.,Sa website kang health department.,Sa website kan health department.,859,train,0
+bik-0856,Is it reliable?,Maasahan ba uni?,Maasahan ba uni?,860,train,1
+bik-0857,Yes. It is from the government.,Uho. Hari sa gobyerno.,Oho. Hari sa gobyerno.,861,train,0
+bik-0858,Let us print it.,I-print ta uni.,I-print ta uni.,862,train,1
+bik-0859,It costs five pesos a page.,Singko pesos kada pahina.,Singko pesos kada pahina.,863,train,1
+bik-0860,Then we copy by hand.,"Kung ganun, kopyahon ta sa kamot.","Kung ganun, kopyahon ta sa kamot.",864,train,1
+bik-0861,That takes a long time.,Mahaba an oras kaan.,Harawig an oras nyan.,865,train,0
+bik-0862,We can share the work.,Pwede kitang mag salo sa trabaho.,Pwede kitang mag saro sa trabaho.,866,train,0
+bik-0863,Ana can copy the first part.,Pwede si Ana an mag kopya kan una.,Pwede si Ana an mag kopya kan una.,867,train,1
+bik-0864,I will copy the second part.,Ako an mag kopya kan ikaduwa.,Ako an mag kopya kan ikadawha.,868,train,0
+bik-0865,Paolo can do the last part.,Si Paolo an sa last.,Si Paolo an sa last.,869,train,1
+bik-0866,Great. Thank you all.,Mayad. Salamat sa gabus.,Mad'yag. Salamat sa gabus.,870,train,0
+bik-0867,Now let us make a list.,Mag gibo kita ngunyan ning listahan.,Mag gibo kita ngunyan ning listahan.,871,validation,1
+bik-0868,What do we need?,Ano an kaipuhan ta?,Anuha an kaipuhan ta?,872,test,0
+bik-0869,We need cartolina.,Kaipuhan ta ning cartolina.,Kaipuhan ta ning cartolina.,873,train,1
+bik-0870,We need markers.,Kaipuhan ta ning marker.,Kaipuhan ta ning marker.,874,train,1
+bik-0871,We need glue.,Kaipuhan ta ning pandikit.,Kaipuhan ta ning pandukot.,875,train,0
+bik-0872,We need scissors.,Kaipuhan ta ning gunting.,Kaipuhan ta ning gunting.,876,train,1
+bik-0873,We need tape.,Kaipuhan ta ning tape.,Kaipuhan ta ning tape.,877,test,1
+bik-0874,We need colored paper.,Kaipuhan ta ning kolor na papel.,Kaipuhan ta ning kolor na papel.,878,test,1
+bik-0875,Who will buy them?,Sino an mamimili?,Sino an mamamakar?,879,test,0
+bik-0876,We will buy together.,Mamili kita na magkasalalo.,Mamili kita na magkasararo.,880,validation,0
+bik-0877,Let us go to the store.,Mapunta kita sa tindahan.,Mapunta kita sa tindahan.,881,train,1
+bik-0878,How much money do we have?,Pila ang kwarta ta?,Pira an kwarta ta?,882,train,0
+bik-0879,We have two hundred pesos.,Igwa kitang duwang gatos na piso.,Ikan kitang dawhang gatos na piso.,883,train,0
+bik-0880,Is that enough?,Sakto na ba uni?,Sakto na ba uni?,884,train,1
+bik-0881,I think so.,Sa hiling ko uho.,"Sa hiling ko, oho.",885,train,0
+bik-0882,Let us ask for a discount.,Ma hapot kita ning discount.,Ma hapot kita ning discount.,886,train,1
+bik-0883,Everyone must contribute.,Gabus kaipuhan mag ambag.,Gabus kaipuhan mag ambag.,887,train,1
+bik-0884,I can give twenty pesos.,Matao ako ning baynte pesos.,Makatao ako ning baynte pesos.,888,validation,0
+bik-0885,I can give fifty pesos.,Matao ako ning singkwenta pesos.,Makatao ako ning singkwenta pesos.,889,train,0
+bik-0886,Thank you for helping.,Salamat sa pag tuwang.,Salamat sa pag tuwang.,890,test,1
+bik-0887,Let us keep the receipt.,Itago ta an resibo.,Itago ta an resibo.,891,train,1
+bik-0888,I will be the treasurer.,Ako an magiging treasurer.,Ako an magiging treasurer.,892,train,1
+bik-0889,Let us write every expense.,Isulat ta an gabus na gastos.,Isurat ta an gabus na gastos.,893,validation,0
+bik-0890,We must not waste money.,Dai dapat mag aksaya ning kwarta.,Mii dapat mag aksaya ning kwarta.,894,train,0
+bik-0891,We can reuse old boxes.,Pwede ta gamiton ulit an lumang kahon.,Pwede ta gamiton uri an lumang kahon.,895,validation,0
+bik-0892,That is also good for nature.,Mayad man uni para sa kalikasan.,Mayad man uni para sa kalikasan.,896,train,1
+bik-0893,Let us collect used paper.,Mag tipon kita ning gamit na papel.,Mag tipon kita ning gamit na papel.,897,train,1
+bik-0894,Paolo has old magazines.,Si Paolo igwang lumang magasin.,Si Paolo ikan lumang magasin.,898,train,0
+bik-0895,We can cut pictures from them.,Pwede ta gupiton ang larawan duman.,Pwede ta gupiton an litrato dun.,899,train,0
+bik-0896,Ask him tomorrow.,Hapoton mo siya sa aga.,Hapoton mo siya sa aga.,900,train,1
+bik-0897,I will message him tonight.,Imessage ko siya ngunyan na banggi.,Imessage ko siya ngunyan na gabi.,901,train,0
+bik-0898,Do not forget.,Dai ka mag ringaw.,Mii kang mag lingaw.,902,validation,0
+bik-0899,I never forget.,Dai ako nakaka ringaw.,Mii ako nakaklingaw.,903,test,0
+bik-0900,You forgot last time.,Naka ringaw ka naka aging beses.,Naka lingaw ka kan nakaaging beses.,904,train,0
+bik-0901,That was one time only.,Sarong beses sana an.,Saro na beses sana an.,905,train,0
+bik-0902,Let us interview our neighbors.,Ma interview kita sa mga kapitbahay ta.,Mag interview kita sa mga kapitbahay ta.,906,validation,0
+bik-0903,Which house first?,Arin na halong ang inot?,Anuhang harong an una?,907,train,0
+bik-0904,Let us start with Aling Rosa.,Mag puon kita ki Aling Rosa.,Ma puon kita ki Aling Rosa.,908,train,0
+bik-0905,She had dengue last year.,Nagka dengue siya kan naka aging taon.,Nagka dengue siya kan naka aging taon.,909,train,1
+bik-0906,May we ask you some questions?,Pwede kang mahapot ning ibang tanong?,Pwede kang mahapot ning ibang tanong?,910,test,1
+bik-0907,It is for our school project.,Para uni sa school project mi.,Para uni sa school project mi.,911,train,1
+bik-0908,Of course. Come in.,Sige. Pasok kamo.,Sige. Loog kamo,912,train,0
+bik-0909,When did you get sick?,Kailan ka nagka sakit?,Kaso ano ka nag ka hilang?,913,train,0
+bik-0910,It was last August.,Kang Agosto kang naka aging taon.,Kan Agosto kan naka aging taon.,914,train,0
+bik-0911,What were your symptoms?,Ano an mga namati mo?,Anuha an mga namati mo?,915,train,0
+bik-0912,I had a high fever.,Mataas an kalintura ko.,Mataas an kalintura ko.,916,train,1
+bik-0913,I could not get up from bed.,Dai ako naka bangon sa higdaan.,Mii ako naka bangon sa higdaan.,917,validation,0
+bik-0914,How many days were you in the hospital?,Pilang aldaw ka sa hospital?,Pira ka ka ardaw sa hospital?,918,train,0
+bik-0915,I stayed for five days.,Lima ka aldaw ako duman.,Lima ka ardaw ako dun.,919,train,0
+bik-0916,Was it expensive?,Mahal bang bayadan?,Mahar bang bayadan?,920,validation,0
+bik-0917,Very. We borrowed money.,Mahal. Naghiram kami ning kwarta.,Mahar. Nag subri kami ning kwarta.,921,train,0
+bik-0918,I am sorry to hear that.,Pasensya na sa nabatian ko.,Pasensya na sa nabatian ko.,922,train,1
+bik-0919,It was a hard time.,Mahirap na panahon.,Tios na panahon.,923,train,0
+bik-0920,How did you feel afterward?,Ano an namati mo pagkatapos?,Anuha an namati mo pagkatapos?,924,train,0
+bik-0921,I was weak for weeks.,Nangluluya ako ning mga semana.,Nangruruluya ako ning mga semana.,925,train,0
+bik-0922,What did you change at home?,Ano an binago mo sa halong?,Anuha an binago mo sa harong?,926,train,0
+bik-0923,I clean every week now.,Naglilimpya na ako kada semana.,Naglilimpya na ako kada semana.,927,train,1
+bik-0924,I cover all our water.,Tinatakpan ko an gabus namong tubig.,Tinatakpan ko an gabus namong tubig.,928,train,1
+bik-0925,That is very good.,Mayad uni.,Mad'yag uni.,929,train,0
+bik-0926,May we take your picture?,Pwede ka kuhaan ning litrato?,Pwede ka kuhaan ning litrato?,930,train,1
+bik-0927,"Yes, but not my face.","Uho, pero dai ang pandok ko.","Oho, pero mii an mukha ko.",931,validation,0
+bik-0928,We will respect that.,Rerespetuhon mi an.,Rerespetuhon mi an.,932,test,1
+bik-0929,Thank you for your time.,Salamat sa oras mo.,Salamat sa oras mo.,933,train,1
+bik-0930,"You are welcome, children.","Walang anuman, mga aki.","Walang anuman, mga aki.",934,train,1
+bik-0931,Next is Mang Tonyo.,Sunod si Mang Tonyo.,Sunod si Mang Tonyo.,935,train,1
+bik-0932,He is a barangay tanod.,Barangay tanod siya.,Barangay tanod siya.,936,train,1
+bik-0933,He joins the clean up drive.,Ga sali siya sa clean up drive.,Gaato siya sa clean up drive.,937,test,0
+bik-0934,"Good afternoon, Mang Tonyo.","Mayad na hapon, Mang Tonyo.","Mad'yag na hapon, Mang Tonyo.",938,train,0
+bik-0935,Do many people join the drive?,Dakol bang tawo an ga sali?,Dakor bang taho an ga ato?,939,train,0
+bik-0936,Not enough.,Dai sakto.,Mii sakto.,940,train,0
+bik-0937,Some are busy.,Ang iba maribok.,An iba maribok.,941,test,0
+bik-0938,Some do not care.,Ang iba daing paki alam.,Ang iba miing paki aram.,942,test,0
+bik-0939,How can we convince them?,Panu ta sinda mapapayag?,Pano ta sila mapapayag?,943,train,0
+bik-0940,Show them the numbers.,Ipakita mo sa sinda an mga numero.,Ipakita mo sa sila an mga numero.,944,validation,0
+bik-0941,Tell stories of real people.,Magsaysay ka ning kwento ning totoong tawo.,Magsaysay ka ning kwento ning totoong taho.,945,train,0
+bik-0942,Give them small tasks.,Tawan mo sinda ning gamit na trabaho.,Tawan mo sila ning gamit na trabaho.,946,train,0
+bik-0943,That is a smart idea.,Matalino na ideya uni.,Matalino na ideya uni.,947,train,1
+bik-0944,We will try that.,Gibuhon ta.,Tiripon ta an.,948,train,0
+bik-0945,Do you need volunteers?,Kaipuhan nindo ning volunteer?,Kaipuhan nindo ning volunteer?,949,validation,1
+bik-0946,We can join this Saturday.,Pwede kitang mag sali sa Sabado.,Pwede kitang mag ato sa Sabado.,950,train,0
+bik-0947,Wear a hat and boots.,Magsul'ot ning sumbrero buda botas.,Magsur'ot ning sumbrero buda botas.,951,validation,0
+bik-0948,"Thank you, Mang Tonyo.","Salamat, Mang Tonyo.","Salamat, Mang Tonyo.",952,test,1
+bik-0949,Now let us visit the health center.,Mapunta na kita ngunyan sa health center.,Mapunta na kita ngunyan sa health center.,953,test,1
+bik-0950,We will talk to the nurse.,Matalam kita sa nurse.,Ma taram kita sa nurse.,954,train,0
+bik-0951,Her name is Nurse Liza.,Si Nurse Liza an ngalan niya.,Si Nurse Liza an ngaran niya.,955,validation,0
+bik-0952,"Good morning, Nurse Liza.","Mayad na aga, Nurse Liza.","Mad'yag na aga, Nurse Liza.",956,train,0
+bik-0953,We are doing a dengue project.,Nag gigibo kami ning dengue project.,Nag gigibo kami ning dengue project.,957,train,1
+bik-0954,Can you help us?,Matutuwangan mo kami?,Matutuwangan mo kami?,958,train,1
+bik-0955,I would be glad to.,Gusto ko makatuwang.,Gusto ko maka tabang.,959,test,0
+bik-0956,How many cases do you see?,Pila ang kaso na nahihilngan mo?,Pira an kaso na nahihirngan mo?,960,validation,0
+bik-0957,Around ten each week.,Mga sampulo kada semana.,Mga sampuro kada semana.,961,train,0
+bik-0958,That is a lot.,Dakol uni.,Dakor uni.,962,train,0
+bik-0959,It gets worse in July.,Mas grabe pag Hulyo.,Mas grabe pag Hulyo.,963,train,1
+bik-0960,Who gets sick the most?,Sino an pinakadakol na nagkaka sakit?,Sino an pinakadakor na nagkaka sakit?,964,train,0
+bik-0961,Mostly children.,Kadaklan mga aki.,Kadaklan mga aki.,965,train,1
+bik-0962,What should parents do?,Ano an dapat gibuhon kan mga magurang?,Anuha an dapat gibuhon kan mga magurang?,966,train,0
+bik-0963,Watch the fever closely.,Bantayan an kalintura.,Bantayan an kalintura.,967,train,1
+bik-0964,Take the child to the clinic early.,Dala an aki sa clinic ning mas aga.,Dara an aki sa clinic ning mas agap.,968,train,0
+bik-0965,Do not wait for three days.,Dai maghalat ning tulong aldaw.,Mii maghurat ning tulong ardaw.,969,validation,0
+bik-0966,Is there a vaccine?,Igwa bang bakuna?,Ikan bang bakuna?,970,train,0
+bik-0967,"There is, but only for some ages.","Igwa, pero para sa iba sanang edad.","Ikan, pero para sa iba sanang edad.",971,test,0
+bik-0968,Ask your doctor about it.,Hapot ka sa doctor mo tungkol duman.,Hapot ka sa doctor mo tungkol dun.,972,train,0
+bik-0969,May we take notes?,Pwede kaming magsulat?,Pwede kaming magsurat?,973,train,0
+bik-0970,Yes. Please do.,Uho. Sige.,Oho. Sige.,974,train,0
+bik-0971,Can you show us the poster here?,Pwede mo ipakita an poster uya?,Pwede mo ming ipakita an poster uya?,975,train,0
+bik-0972,It is on that wall.,Nasa pader na an.,Nasa pader na an.,976,validation,1
+bik-0973,It explains the 4S.,Ipinapaliwanag kaan an 4S.,Ipinapariwanag nyan an 4S.,977,train,0
+bik-0974,We can learn from it.,Maka matid kita kaan.,Makasusud kita nyan.,978,train,0
+bik-0975,"Thank you so much, Nurse.","Maraming salamat, Nurse.","Dakurang salamat, Nurse.",979,train,0
+bik-0976,It is my pleasure.,"Walang anuman, mga aki.",Walang anuman mga aki.,980,train,0
+bik-0977,Come back anytime.,Balik kamo sa gabus na oras.,Balik kamo sa gabus na oras.,981,train,1
+bik-0978,Now let us start the posters.,Ma puon na kita ning poster.,Ma puon na kita ning poster.,982,validation,1
+bik-0979,What will we draw?,Ano an gigibuhon tang drawing?,Anuha an gigibuhon tang drawing?,983,train,0
+bik-0980,A big mosquito.,Dakulang lamok.,Dakurang lamok.,984,train,0
+bik-0981,With a red cross over it.,May pula na krus sa ibabaw.,May pula na krus sa ibabaw.,985,train,1
+bik-0982,That is a clear message.,Klaro na mensahe uni.,Klaro na mensahe uni.,986,train,1
+bik-0983,Who can draw well?,Sino an maayus mag drawing?,Sino an maayus mag drawing?,987,test,1
+bik-0984,Ana is the best artist.,Si Ana an pinakamayad na artist.,Si Ana an pinakamayad na artist.,988,train,1
+bik-0985,I only draw stick figures.,Stick figure sana an nadrawing ko.,Stick figure sana an nadrawing ko.,989,train,1
+bik-0986,You can color it.,Pwede mo kulayan.,Pwede mo kulayan.,990,validation,1
+bik-0987,Let us use bright colors.,Gamiton ta an matingkad na kolor.,Gamiton ta an matingkad na kolor.,991,train,1
+bik-0988,"Red, yellow and green.","Pula, dilaw buda berde.","Pula, dilaw buda berde.",992,train,1
+bik-0989,The words must be big.,Dakula ang mga letra.,Dakor an mga letra.,993,train,0
+bik-0990,So people can read them from far.,Para mabasa nin tawo sa halayo.,Para mabasa nin taho sa harayo.,994,train,0
+bik-0991,What will the slogan be?,Ano ang magigin slogan?,Anuha an magiging slogan?,995,train,0
+bik-0992,"Clean today, safe tomorrow.","Malinis ngunyan, ligtas sa aga.","Malinis ngunyan, ligtas sa aga.",996,train,1
+bik-0993,That rhymes well.,Maayus an tugma.,Maayus an tugma.,997,train,1
+bik-0994,Another one is: Stop the mosquito.,Salong iba: Pugulan ang lamok.,Saro na iba: Puguran an lamok.,998,train,0
+bik-0995,Or: Kill the breeding site.,O: Uyagon an istaran.,O: Uyagon an istaran.,999,validation,1
+bik-0996,Let us use both.,Gamiton ta pareho.,Gamiton ta pareho.,1000,train,1
+bik-0997,Can I write the title?,Pwede kong isulat an title?,Pwede kong isurat an title?,1001,train,0
+bik-0998,Yes. Your handwriting is neat.,Uho. Malinis ang sulat mo.,Oho. Malinis an surat mo.,1002,train,0
+bik-0999,Do not make a mistake.,Dai ka magkamali.,Mii kang magkamali.,1003,train,0
+bik-1000,"If I do, we start again.","Kung magkamali ako, mapuon kita ulit.","Kung magkamali ako, magpunan kita uri.",1004,train,0
+bik-1001,No. We can use a correction.,Dai. Pwede kitang gumamit ning pang erase.,Mii. Pwede kitang gumamit ning pang bura,1005,train,0
+bik-1002,Let us make three posters.,Ma gibo kitang tulong poster.,Mag gibo kitang tulong poster.,1006,train,0
+bik-1003,One for the school.,Salo para sa iskwelahan.,Saro na para sa iskwelahan.,1007,train,0
+bik-1004,One for the health center.,Salo para sa health center.,Saro na para sa health center.,1008,validation,0
+bik-1005,One for the barangay hall.,Slopara sa barangay hall.,Saro na para sa barangay hall.,1009,test,0
+bik-1006,It is already late.,Gabi na.,Gabi na.,1010,validation,1
+bik-1007,Let us finish tomorrow.,Tapuson ta sa aga.,Tapuson ta sa aga.,1011,train,1
+bik-1008,"Rest well, everyone.",Pahingalo kamong gabus.,Pahingaro kamong gabus.,1012,train,0
+bik-1009,See you at school.,Magkita kita sa iskwelahan.,Magkita kita sa iskwelahan.,1013,train,1
+bik-1010,Bring the finished posters.,Dala ang natapos na poster.,Dara an natapos na poster.,1014,test,0
+bik-1011,Let us write the video script.,Isulat ta an script kan video.,Isurat ta an script kan video.,1015,train,0
+bik-1012,Who will act?,Sino an maga arte?,Sino an maga arte?,1016,train,1
+bik-1013,Maya will be the patient.,Si Maya an pasyente.,Si Maya an pasyente.,1017,train,1
+bik-1014,Jake will be the doctor.,Si Jake an doctor.,Si Jake an doctor.,1018,train,1
+bik-1015,Ana will be the narrator.,Si Ana an narrator.,Si Ana an narrator.,1019,train,1
+bik-1016,Paolo will hold the camera.,Si Paolo an may hawak ning camera.,Si Paolo an may hawak ning camera.,1020,train,1
+bik-1017,Carlo will do the editing.,Si Carlo an mag edit.,Si Carlo an mag edit.,1021,train,1
+bik-1018,How long will the video be?,Gaano kahalawig an video?,Gaano kaharawig an video?,1022,train,0
+bik-1019,About five minutes.,Mga lima ka minuto.,Mga lima ka minuto.,1023,train,1
+bik-1020,Today is presentation day.,Ngunyan an aldaw kan presentation.,Ngunyan an ardaw kan presentation.,1024,test,0
+bik-1021,I am very nervous.,Grabe an gamo ko.,Grabe an gamo ko.,1025,train,1
+bik-1022,Take a deep breath.,Mag hagd ka ning mayd.,Huminga ka ning mayad.,1026,train,0
+bik-1023,We practiced many times.,Dakol na beses kitang nag practice.,Dakor na beses kitang nag practice.,1027,train,0
+bik-1024,Do we have everything?,Kompleto na an gamit ta?,Kompleto na an gamit ta?,1028,train,1
+bik-1025,Posters are ready.,Handa na an mga poster.,Handa na an mga poster.,1029,train,1
+bik-1026,The video is on the flash drive.,An video nasa flash drive.,An video nasa flash drive.,1030,train,1
+bik-1027,Please test the projector.,Paki check an projector.,Paki check an projector.,1031,train,1
+bik-1028,It is working now.,Gagana na.,Gagana na.,1032,train,1
+bik-1029,Our group is next.,Kita na an sunod.,Kita na an sunod.,1033,train,1
+bik-1030,"Good morning, Ma am and classmates.","Mayad na aga, Ma am buda mga kaklase.","Mad'yag na aga, Ma am buda mga kaklase.",1034,train,0
+bik-1031,Our topic is dengue prevention.,An topic mi an pag iwas sa dengue.,An topic mi an pag iwas sa dengue.,1035,train,1
+bik-1032,Let us play our video first.,Pupunan mi muna ang video.,Pupunan mi muna ang video.,1036,test,1
+bik-1033,Everyone clapped.,Nag palakpak an gabus.,Nag palakpak an gabus.,1037,train,1
+bik-1034,The teacher asked a question.,Nag hapot an maestra.,Nag hapot an maestra.,1038,train,1
+bik-1035,Jake answered it very well.,Mayad an sagot ni Jake.,Mayad an sagot ni Jake.,1039,test,1
+bik-1036,She smiled at us.,Nag gulo an samo.,Ngumiti siya samo.,1040,train,0
+bik-1037,We got a high grade.,Nakakua kita ning mataas na grado.,Nakakua kita ning harangkaw na grado.,1041,train,0
+bik-1038,We got ninety five.,Nakakua kita ning nobenta y singko.,Nakakua kita ning nobenta y singko.,1042,train,1
+bik-1039,I cannot believe it.,Dai ko maka paniwala.,Mii ko maka paniwala.,1043,validation,0
+bik-1040,Our hard work paid off.,Nagbunga an ngalo ta.,Nagbunga an ngaro ta.,1044,train,0
+bik-1041,Let us celebrate.,Ma celebrate kita.,Magselebra kita.,1045,train,0
+bik-1042,I will treat you to ice cream.,Ililibre taka ning ice cream.,Ililibre taka ning ice cream.,1046,train,1
+bik-1043,"Thank you, team.","Salamat, team.","Salamat, team.",1047,train,1
+bik-1044,This was only the start.,Gapuon pa sna kita.,Gapuon pa sna kita.,1048,test,1
+bik-1045,Let us keep fighting dengue.,Padagos kitang makipaglaban sa dengue.,Padagos kitang makipaglaban sa dengue.,1049,validation,1
+bik-1046,Did you sleep well?,Mayad ka nag tulog?,Mad'yag ka nag turog?,1050,validation,0
+bik-1047,Not really. It rained all night.,Bako masyado. Nag ulan buong banggi.,Buko masyado. Nag uran buong gabi.,1051,train,0
+bik-1048,Where is your mother?,Sain ang nanay mo?,Sain an nanay mo?,1052,train,0
+bik-1049,She is in the kitchen.,Jan siya sa kusina.,Jaon siya sa kusina.,1053,test,0
+bik-1050,What is she cooking?,Ano ang ya luto niya?,Anuha an ya luto niya?,1054,validation,0
+bik-1051,She is cooking rice and fish.,Ga luto siya ning kanin buda isda.,Ga luto siya ning kanin buda isda.,1055,train,1
+bik-1052,It smells good.,Ang hamot.,Mahamot.,1056,train,0
+bik-1053,Is your father home?,Jan ang tatay mo sa halong?,Jaon an tatay mo sa harong?,1057,test,0
+bik-1054,No. He went to work.,Dai. Nagtrabaho siya.,Wara. Nagtrabaho siya.,1058,train,0
+bik-1055,Where does he work?,Sain siya nag tatrabaho?,Sain siya nag tatrabaho?,1059,train,1
+bik-1056,He is a fisherman.,Pala sila siya.,Mangingisda siya.,1060,train,0
+bik-1057,He goes to the sea early.,Nagdadagat siya ning aga.,Nagdadagat siya ning aga.,1061,validation,1
+bik-1058,Is the sea calm today?,Kalmado an dagat ngunyan?,Kalmado an dagat ngunyan?,1062,train,1
+bik-1059,No. The waves are big.,Bako. Dakulang lungso,Buko. Dakurang lunso,1063,train,0
+bik-1060,Yes. He should be careful.,Uho. Dapat mag ingat siya.,Oho. Dapat mag ingat siya.,1064,train,0
+bik-1061,How many siblings do you have?,Pirla ang tugang mo?,Pira an tugang mo?,1065,train,0
+bik-1062,I have two brothers.,Igwa akong duwang tugang na lalaki.,Ikan akong dawhang tugang na laraki.,1066,validation,0
+bik-1063,And one sister.,Buda sarong tugang na babayi.,Buda saro tugang na babayi.,1067,train,0
+bik-1064,Who is the oldest?,Sisay an pinakagulang?,Siisay an pinakagurang?,1068,train,0
+bik-1065,My sister is the oldest.,An tugang kong babayi an pinakagulang.,An tugang kong babayi an pinakagurang.,1069,train,0
+bik-1066,Who is the youngest?,Sisay an pinakabata?,Siisay an pinakabata?,1070,train,0
+bik-1067,I am the youngest.,Ako an pinakabata.,Ako an pinakabata.,1071,train,1
+bik-1068,Do you help at home?,Ga tabang ka sa halong?,Ga tabang ka sa harong?,1072,train,0
+bik-1069,Yes. I wash the dishes.,Uho. Ga hugas ako ning pinggan.,Oho. Ga hugas ako ning pinggan.,1073,test,0
+bik-1070,I sweep the floor.,Ga walis ako ning salog.,Ga walis ako ning sarog.,1074,train,0
+bik-1071,I fetch water.,Ga kuha ako ning tubig.,Ga kuha ako ning tubig.,1075,train,1
+bik-1072,That is a big help.,Dakulang tabang an.,Dakurang tabang yan.,1076,train,0
+bik-1073,Is breakfast ready?,Handa na ang agahan?,Handa na an agahan?,1077,train,0
+bik-1074,Let us eat together.,Makaun kitang magkaibahan.,Magkaon kitang magkaibahan.,1078,train,0
+bik-1075,Please pass the rice.,Pakiabot an kan-on.,Pakiabot an kan-on.,1079,train,1
+bik-1076,Here you go.,Ini na.,Ini na.,1080,train,1
+bik-1077,Do you want more fish?,Gusto mo pa ning isda?,Gusto mo pa ning isda?,1081,train,1
+bik-1078,"Yes, a little more.","Uho, diit pa.","Oho, kadigi pa.",1082,train,0
+bik-1079,"No, I am full.","Bako, busog na ako.","Buko, busog na ako.",1083,train,0
+bik-1080,The food is delicious.,Malinamnam an kaunon.,Marinamnam an kaonon.,1084,validation,0
+bik-1081,Wash your hands first.,Maghugas ka muna ning kamot.,Maghugas ka muna ning kamot.,1085,train,1
+bik-1082,Use soap and water.,Gumamit ning sabon buda tubig.,Gumamit ning sabon buda tubig.,1086,train,1
+bik-1083,Wash for twenty seconds.,Maghugas ning baynte segundo.,Maghugas ning baynte segundo.,1087,train,1
+bik-1084,Wash before eating.,Maghugas bago magkaun.,Maghugas bago magkaon.,1088,train,0
+bik-1085,Wash after using the toilet.,Maghugas pagkatapos mag kubeta.,Maghugas pagkatapos mag kubeta.,1089,train,1
+bik-1086,Clean hands prevent sickness.,An malinig na kamot nakakaiwas sa hilang.,An malinig na kamot nakakaiwas sa sakit.,1090,train,0
+bik-1087,That is true.,Totoo an.,Totoo yan.,1091,train,0
+bik-1088,"Brush your teeth, too.",Mag sipilyo ka man.,Mag sipilyo ka man.,1092,train,1
+bik-1089,Take a bath every day.,Maligo ka kada aldaw.,Mangarigos ka kada ardaw.,1093,train,0
+bik-1090,Keep your nails short.,Hababaon mo sna ang kuko mo.,Hababaon mo sna ang kuko mo.,1094,test,1
+bik-1091,Keep your clothes clean.,Pag malinigon an bado mo.,Pag malinigon an bado mo.,1095,train,1
+bik-1092,I will do it.,Gigibuhon ko an.,Gigibuon ko an.,1096,train,0
+bik-1093,Let us go to the market.,Magpunta kitang sa palengke.,Magpunta kitang sa palengke.,1097,test,1
+bik-1094,What will we buy?,Ano an ibabakal ta?,Anuha an ibabakal ta?,1098,train,0
+bik-1095,We need vegetables.,Kaipuhan ta ning gulay.,Kaipuhan ta ning guray.,1099,train,0
+bik-1096,We need fruits.,Kaipuhan ta ning prutas.,Kaipuhan ta ning prutas.,1100,test,1
+bik-1097,We need meat.,Kaipuhan ta ning karne.,Kaipuhan ta ning karne.,1101,validation,1
+bik-1098,We need fish.,Kaipuhan ta ning isda.,Kaipuhan ta ning isda.,1102,train,1
+bik-1099,How much is this?,Magkano ini?,Magkano ini?,1103,train,1
+bik-1100,It is fifty pesos.,Singkwenta pesos.,Singkwenta pesos.,1104,test,1
+bik-1101,Can you lower the price?,Pwede pang mabawasan?,Pwede pang mabawasan?,1105,train,1
+bik-1102,Okay. Forty pesos.,Sige. Kwarenta pesos.,Sige. Kwarenta pesos.,1106,train,1
+bik-1103,Is the fish fresh?,Presko pa an isda?,Presko pa an isda?,1107,test,1
+bik-1104,Yes. It was caught this morning.,Uho. Nadakop nguyan na aga.,Oho. Nahuli ngunyan sa aga.,1108,train,0
+bik-1105,I will take two kilos.,Kukuhaon ko an duwang kilo.,Kukuhaon ko an dawhang kilo.,1109,train,0
+bik-1106,Do you have change?,Igwa kang sukli?,Ikan ka sukli?,1110,train,0
+bik-1107,"Wait, I will look.","Maghalat ka, hahanapon ko.","Magharat ka, hahanapon ko.",1111,train,0
+bik-1108,Here is your change.,Ini an sukli mo.,Ini an sukli mo.,1112,test,1
+bik-1109,Thank you. Come again.,Salamat. Balik kamo.,Salamat. Balik kamo.,1113,test,1
+bik-1110,Let us ride a tricycle.,Mag tricycle kita.,Mag tricycle kita.,1114,train,1
+bik-1111,How much is the fare?,Magkano an pamasahe?,Magkano an pamasahe?,1115,validation,1
+bik-1112,It is twenty pesos.,Baynte pesos.,Baynte pesos.,1116,train,1
+bik-1113,Where are you going?,Sain ka pupunta?,Sain ka pupunta?,1117,test,1
+bik-1114,To the town proper.,Sa poblacion.,Sa poblacion.,1118,test,1
+bik-1115,Please stop here.,Tunong ka uya/,Tunong ka uya.,1119,train,0
+bik-1116,Hold on tight.,Kapot kang maayus.,Kapot ka nin maayus.,1120,train,0
+bik-1117,The road is rough.,Magaspang an dalan.,Magaspang an daran.,1121,validation,0
+bik-1118,The road is slippery.,Mahinglas ang dalan.,Mahinlas an daran.,1122,train,0
+bik-1119,Be careful when it rains.,Mag ingat pag nag uulan.,Mag ingat pag nag uuran.,1123,train,0
+bik-1120,Is the bridge open?,Bukas pa ang tulay?,Bukas pa an tulay?,1124,validation,0
+bik-1121,No. The river is too high.,Bako. Sobrang taas na an salog.,Buko. Sobrang taas na an salog.,1125,train,0
+bik-1122,Then we cannot cross.,Dai kita maka baltas kaan.,Mii kita maka bartas kaan.,1126,validation,0
+bik-1123,Let us wait here.,Mahalat kita uya.,Maharat kita uya.,1127,train,0
+bik-1124,A typhoon is coming.,May pa abot na bagyo.,May pa abot na bagyo.,1128,train,1
+bik-1125,Really? When?,Totoo? Kailan?,Totoo? saano?,1129,train,0
+bik-1126,Tomorrow night.,Sa banggi ning aga.,Sa gabi ning aga.,1130,test,0
+bik-1127,Is it strong?,Makusog daw?,Makusog daw?,1131,validation,1
+bik-1128,Yes. Signal number three.,Uho. Signal number tres.,Oho. Signal number tres.,1132,train,0
+bik-1129,Catanduanes is always hit first.,Perming catanduanes ya inut kaan.,Permi ini gaagi inut sa Catanduanes.,1133,train,0
+bik-1130,Yes. We must prepare.,Uho. Kaipuhan ta maghanda.,Oho. Kaipuhan ta maghanda.,1134,train,0
+bik-1131,What should we prepare?,Ano an dapat ta ihanda?,Anuha an dapat ta ihanda?,1135,train,0
+bik-1132,Prepare food and water.,Maghanda ning kaunon buda tubig.,Maghanda ning kaonon tska tubig.,1136,train,0
+bik-1133,Prepare a flashlight.,Maghanda ning flashlight.,Maghanda ning flashlight.,1137,train,1
+bik-1134,Prepare candles.,Maghanda ning kandila.,Maghanda ning kandira.,1138,train,0
+bik-1135,Charge your phone.,I charge an cellphone mo.,I charge an cellphone mo.,1139,test,1
+bik-1136,Prepare medicine.,Maghanda ning bulong.,Maghanda ning burong.,1140,train,0
+bik-1137,Keep important papers safe.,Tagoon ang mayad na importanteng papel.,Tagoon an importanteng papel.,1141,validation,0
+bik-1138,Put them in a plastic bag.,Ilaog sa plastic.,Ilaog sa plastic.,1142,train,1
+bik-1139,Tie the roof tightly.,Pagtalian na maayus ang atop.,Talian ning maayus an atop.,1143,train,0
+bik-1140,Cut the tree branches.,Putlon an mga sanga ning kahoy.,Putlon an mga sanga ning kahoy.,1144,test,1
+bik-1141,Tie down the boats.,Pagtalian an mga bangka.,Pagtalian an mga bangka.,1145,train,1
+bik-1142,Bring the animals inside.,Ilaog an mga hayop.,Loogon an mga hayop.,1146,train,0
+bik-1143,Where is the evacuation center?,Sain ang evacuation center?,Sain an evacuation center?,1147,test,0
+bik-1144,It is in the school.,Jan sa iskwelahan.,Jaon sa iskwelahan.,1148,test,0
+bik-1145,Let us go there early.,Magpunta kita duman ning aga.,Magpunta kita dun ning agap.,1149,validation,0
+bik-1146,Bring blankets.,Magdala ning kumot.,Magdara ning kumot.,1150,train,0
+bik-1147,Bring extra clothes.,Magdala ning dagdag na bado.,Magdara ning dagdag na bado.,1151,train,0
+bik-1148,Bring your family.,Dala an pamilya mo.,Dara an pamilya mo.,1152,validation,0
+bik-1149,The wind is very strong.,Sobrang kusog ning hangin.,Sobrang kusog ning hangin.,1153,train,1
+bik-1150,The rain is heavy.,Makusog an ulan.,Makusog an uran.,1154,test,0
+bik-1151,The lights are out.,Nawala an kuryente.,Nawara an kuryente.,1155,train,0
+bik-1152,Do not go outside.,"Dai ka magluwas,",Mii ka maglabas.,1156,train,0
+bik-1153,Stay inside the house.,Magdagos ka sa laog ning halong.,Magdagos ka sa loog ning harong.,1157,train,0
+bik-1154,The typhoon is over.,Natapos na an bagyo.,Natapos na an bagyo.,1158,train,1
+bik-1155,"Thank God, we are safe.","Salamat sa Dios, ligtas kita.","Salamat sa Dios, ligtas kita.",1159,train,1
+bik-1156,The street is flooded.,Nagbaha an dalan.,Nagbaha an daran.,1160,train,0
+bik-1157,The water is knee deep.,Hanggan tuhod an tubig.,Hanggang tuhod an tubig.,1161,train,0
+bik-1158,Be careful of dirty flood water.,Mag ingat sa maati na tubig baha.,Mag ingat sa magima na tubig baha.,1162,train,0
+bik-1159,It can make you sick.,Pwede kang mag ka hilang uya.,Pwede kang magka sakit uya.,1163,test,0
+bik-1160,Do not walk barefoot.,Dai ka maglakaw na daing sapin.,Mii ka maglakaw na maing sapin.,1164,train,0
+bik-1161,Wear boots.,Magsul'ot ning botas.,Magsur'ot ning botas.,1165,train,0
+bik-1162,Leptospirosis comes from flood water.,An leptospirosis hari sa tubig baha.,An leptospirosis hari sa tubig baha.,1166,validation,1
+bik-1163,Clean the house after the flood.,Linigan an halong pagkatapos ning baha.,Linigan an harong pagkatapos ning baha.,1167,validation,0
+bik-1164,Throw away the wet things.,Isabod an mga labong gamit.,Isarabod an mga basang gamit.,1168,train,0
+bik-1165,Dry the clothes in the sun.,Pa aldawan ang bado sa init.,Pa ardwan an bado sa init.,1169,train,0
+bik-1166,Boil the drinking water.,Pa pakuloon an inumon na tubig.,Pa pakuroon an inumon na tubig.,1170,train,0
+bik-1167,Do not drink from the well.,Dai ka mag inom sa atabay.,Mii ka mag inom sa atabay.,1171,validation,0
+bik-1168,The water is not clean.,Bako malinig an tubig.,Buko marinig an tubig.,1172,train,0
+bik-1169,I have a cold.,Igwa akong sipon.,Ikan ako sipon.,1173,train,0
+bik-1170,My nose is blocked.,Barado dungo ko.,Barado ang ilong ko.,1174,train,0
+bik-1171,I keep sneezing.,Permi ako ga hatching.,Permi akong na hatching.,1175,test,0
+bik-1172,I have a cough.,Igwa akong abo.,Ikan ako ubo.,1176,train,0
+bik-1173,Is it a dry cough?,Dugang na ang abo mo?,Dugang na ubo?,1177,train,0
+bik-1174,No. I cough up phlegm.,Bako. Igwa akong plema.,Buko. Ikan ako sipon.,1178,train,0
+bik-1175,How long have you been coughing?,Kasu arin ka pa nag aabo?,Kelan ka pa nag uubo?,1179,validation,0
+bik-1176,Three days already.,Tulong aldaw na.,Tulong ardaw na.,1180,validation,0
+bik-1177,Cover your mouth when you cough.,Takpan an bibig pag nag aabo.,Takpan an bibig pag nag uubo.,1181,train,0
+bik-1178,Wear a mask.,Magsul'ot ning mask.,Magsur'ot ning mask.,1182,train,0
+bik-1179,Do not go near the baby.,Dai ka mag lani sa aki.,Mii ka magdani sa aki.,1183,validation,0
+bik-1180,I do not want to spread it.,Dai ko gusto ikalat.,Mii ko gusto ikarat.,1184,validation,0
+bik-1181,Drink warm water.,Uminom ning maiinit na tubig.,Uminom ning maiinit na tubig.,1185,train,1
+bik-1182,Drink warm ginger tea.,Uminom ning salabat.,Uminom ning salabat.,1186,train,1
+bik-1183,Rest and sleep early.,Magpahingalo buda makatulog ning aga.,Mag pahingaro buda matulog ning agap.,1187,train,0
+bik-1184,Do you have the flu?,Igwa kang trangkaso?,Ikan ka trangkaso?,1188,train,0
+bik-1185,I feel weak and tired.,Nangluluya buda pagal ako.,Nangruruluya buda pagal ako.,1189,train,0
+bik-1186,My throat hurts.,Makulog an lalamunan ko.,Makurog an lalamunan ko.,1190,train,0
+bik-1187,It hurts when I swallow.,Makulog pag nilulunok ko.,Makurog pag nirurunok ko.,1191,train,0
+bik-1188,Gargle with warm salt water.,Mag gargle ning maiinit na tubig na igwang asin.,Mag gargle ning maiinit na tubig na ikan asin.,1192,validation,0
+bik-1189,Eat fruits with vitamin C.,Magkaun ning prutas na igwang vitamin C.,Magkaon ning prutas na ikan vitamin C.,1193,train,0
+bik-1190,Oranges are good for you.,Mayad sa saimo an dalandan.,Mayad sa saimo an dalandan.,1194,validation,1
+bik-1191,Drink lots of water.,Uminom ning dakol na tubig.,Uminom ning dakor na tubig.,1195,train,0
+bik-1192,I have diarrhea.,Igwa akong tae-tae.,Ikan ako tae-tae.,1196,test,0
+bik-1193,My stomach hurts.,Makulog an tulak ko.,Makurog an turak ko.,1197,train,0
+bik-1194,Since this morning.,Kaso aga pa.,Ka aga pa.,1198,train,0
+bik-1195,What did you eat?,Ano an kinaun mo?,Anuha an kinaon mo?,1199,validation,0
+bik-1196,I ate at the roadside.,Nagkaun ako sa tabing dalan.,Nagkaon ako sa tabing daran.,1200,validation,0
+bik-1197,Maybe the food was spoiled.,Baad nagsira an pagkaon.,Baad nagsira an pagkaon.,1201,train,1
+bik-1198,Drink oresol.,Uminom ning oresol.,Uminom ning oresol.,1202,train,1
+bik-1199,Drink a lot of water.,Uminom ning dakol na tubig.,Uminom ning dakor na tubig.,1203,train,0
+bik-1200,Do not eat raw food.,Dai ka magkaun ning hilaw.,Mii ka magkaon ning hilaw.,1204,validation,0
+bik-1201,Cook the food well.,Lutuon na mayad an pagkaun.,Lutuon na mayad an pagkaon.,1205,validation,0
+bik-1202,Flies spread germs.,An langaw nagkakalat ning mikrobyo.,An langaw nagkakarat ning mikrobyo.,1206,train,0
+bik-1203,Keep the kitchen clean.,Pag linigan permi ang kusina.,Pag linigan permi an kusina.,1207,train,0
+bik-1204,Wash the vegetables.,Hugasan an gulay.,Hugasan an guray.,1208,train,0
+bik-1205,Do you have a headache?,Makulog an payo mo?,Mahapdos an uro mo?,1209,train,0
+bik-1206,Take a rest.,Magpahingalo ka.,Magpahingaro ka.,1210,test,0
+bik-1207,Do you have a stomachache?,Makulog an tulak mo?,Mahapdos an turak mo?,1211,validation,0
+bik-1208,Go to the toilet.,Magpunta ka sa kubeta.,Magpunta ka sa kubeta.,1212,test,1
+bik-1209,Is there water in the toilet?,May tubig sa kubeta?,May tubig sa kubeta?,1213,train,1
+bik-1210,Please flush after using it.,Paki flush pagkatapos.,Paki flush pagkatapos.,1214,train,1
+bik-1211,Do not throw trash in the river.,Dai ka magsabod ning basura sa salog.,Mii ka mag sabod ning basura sa sarog.,1215,train,0
+bik-1212,Put trash in the bin.,Ilaog an basura sa basurahan.,Iloog an basura sa basurahan.,1216,train,0
+bik-1213,Separate the plastic.,I hiwalay ang plastic.,Ihiwalay an plastic.,1217,train,0
+bik-1214,Every Monday.,Kada Lunes.,Kada Lunes.,1218,validation,1
+bik-1215,I want to buy candy.,Gusto kong magbakal ning kendi.,Gusto kong magbakal ning kendi.,1219,test,1
+bik-1216,Do you have bread?,Igwa kang tinapay?,Ikan ka tinapay?,1220,test,0
+bik-1217,"Yes, we have bread.","Uho, igwa kami ning tinapay.","Oho, ikan kami ning tinapay.",1221,test,0
+bik-1218,How much is the bread?,Magkano an tinapay?,Magkano an tinapay?,1222,train,1
+bik-1219,Five pesos each.,Singko pesos kada salo..,Singko pesos kada saro.,1223,train,0
+bik-1220,Give me ten pieces.,Tawan mo ako ning sampulo.,Tawan mo ako ning sampuro.,1224,test,0
+bik-1221,I will pay later.,Ma bayad ako aban aban.,Ma bayad ako mamaya.,1225,train,0
+bik-1222,Write it in the notebook.,Isurat sa kuwaderno.,Isurat sa kuwaderno.,1226,train,1
+bik-1223,It is Sunday today.,Domingo ngunyan.,Domingo ngunyan.,1227,validation,1
+bik-1224,Are you going to church?,Mapunta ka sa simbahan?,Mapunta ka sa simbahan?,1228,train,1
+bik-1225,Yes. We go every Sunday.,Uho. Kada Domingo kami nagpupunta.,Oho. Kada Domingo kami nagpupunta.,1229,train,0
+bik-1226,What time is the Mass?,Anong oras an misa?,Anuhang oras an misa?,1230,validation,0
+bik-1227,It is at six in the morning.,Alas sais ning aga.,Alas sais ning aga.,1231,train,1
+bik-1228,Wear your nice clothes.,Magsul'ot ka ning mayad na bado.,Magsur'ot ka ning mayad na bado.,1232,train,0
+bik-1229,I will pray for you.,Mamimibi ako para saimo.,Mamimibi ako para saimo.,1233,train,1
+bik-1230,Please pray for my family.,Pakipamibi an pamilya ko.,Pakipamibi an pamilya ko.,1234,train,1
+bik-1231,God will protect us.,Poprotektahan kita ning Dios.,Poprotektahan kita ning Dios.,1235,train,1
+bik-1232,"Good afternoon, Aling Rosa.","Mayad na hapon, Aling Rosa.","Mad'yag na hapon, Aling Rosa.",1236,test,0
+bik-1233,"How are you, neighbor?","Kumusta ka, kapitbahay?","Kumusta ka, kapitbahay?",1237,test,1
+bik-1234,"I am fine, thank you.","Mayad ako, salamat.","Mad'yag ako, salamat.",1238,train,0
+bik-1235,"Come in, have some coffee.","Laog ka, magkape ka.","Loog ka, magkape ka.",1239,train,0
+bik-1236,"Thank you, I cannot stay long.","Salamat, dai sana ako maawat","Salamat, mii ako makatagal.",1240,train,0
+bik-1237,Our neighbor is kind.,Mabuot an kapitbahay ta.,Mabuot an kapitbahay ta.,1241,train,1
+bik-1238,She gave us vegetables.,Tinawan niya kita ning gulay.,Tawan niya kita ning guray.,1242,test,0
+bik-1239,We help each other.,Nag tatabangan kita.,Nag tatabangan kita.,1243,train,1
+bik-1240,That is the Bicolano way.,Iyan an pamamaraan ning Bikolano.,Yan an pamamaraan ning Bikolano.,1244,train,0
+bik-1241,It is getting dark.,Ga banggi na.,Gabi na.,1245,validation,0
+bik-1242,Let us go home.,Maparibod na kita.,Ma uli na kita.,1246,validation,0
+bik-1243,Take care on the way home.,Mag ingat ka pag paribod mo.,Mag ingat ka pag uli.,1247,train,0
+bik-1244,Sweet dreams.,Mayad na pangaturugan.,Mayad na pangaturugan.,1248,train,1
+bik-1245,Is grandmother home?,Jan ang lola sa halong?,Jaon an lola sa harong?,1249,test,0
+bik-1246,Yes. She is resting.,Uho. Nagpapahingalo siya.,Oho. Nagpapahingaro siya.,1250,train,0
+bik-1247,She is old now.,Gurang na siya.,Gurang na siya.,1251,train,1
+bik-1248,We must take care of her.,Kaipuhan ta alagaan siya.,Kaipuhan ta alagaan siya.,1252,train,1
+bik-1249,Grandfather tells stories.,Ang lolo nag istorya.,An lolo nagkukwento.,1253,test,0
+bik-1250,I like his stories.,Gusto ko an mga istorya niya.,Gusto ko an mga kwento niya.,1254,train,0
+bik-1251,Do you have homework?,Igwa kang homework?,Ikan ka homework?,1255,train,0
+bik-1252,Yes. I must finish it tonight.,Uho. Kaipuhan ko tapuson ngunyan na banggi.,Oho. Kaipuhan ko tapuson ngunyan na gabi.,1256,validation,0
+bik-1253,"Yes, with math.","Uho, sa math.","Oho, sa math.",1257,train,0
+bik-1254,Let us study together.,Ma adal kitang magkaibahan.,Ma adar kitang magkaibahan.,1258,validation,0
+bik-1255,Turn off the light.,Palungon ang ilaw.,Parungon an ilaw.,1259,test,0
+bik-1256,Close the door.,Isara an purtahan.,Isara an purtahan.,1260,train,1
+bik-1257,Open the window.,Buksan an bintana.,Buksan an bintana.,1261,train,1
+bik-1258,The sun is hot today.,Mainit an init ngunyan.,Mainit an init ngunyan.,1262,train,1
+bik-1259,Drink water so you do not get dehydrated.,Uminom ning tubig tanganing dai ka ma dehydrate.,Uminom ning tubig tanganing mii ka ma dehydrate.,1263,train,0
+bik-1260,Bring an umbrella.,Magdala ning payong.,Magdara ning payong.,1264,test,0
+bik-1261,It might rain later.,Baad mag ulan mamaya.,Baad mag uran mamaya.,1265,train,0
+bik-1262,The clothes are still wet.,Labo pa ang bado.,Basa pa an bado.,1266,validation,0
+bik-1263,Hang them outside.,Isampay sa luwas.,Isampay sa luwas.,1267,validation,1
+bik-1264,I need to wash clothes.,Kaipuhan kong maglaba.,Kaipuhan kong maglaba.,1268,train,1
+bik-1265,Use clean water.,Gumamit ning malinig na tubig.,Gumamit ning marinig na tubig.,1269,validation,0
+bik-1266,Where is the soap?,Sain an sabon?,Sain an sabon?,1270,train,1
+bik-1267,It is in the bathroom.,Jan sa banyo.,Jaon sa banyo.,1271,train,0
+bik-1268,Where is the towel?,Sain an tuwalya?,Sain an tualya?,1272,train,0
+bik-1269,Do not share towels.,Dai kamo magsalo ning tuwalya.,Mii kamo magsaro ning tualya.,1273,train,0
+bik-1270,Do not share glasses.,Dai kamo magsalo ning baso.,Mii kamo magsaro ning baso.,1274,train,0
+bik-1271,Germs spread easily.,Madarian magkalat an mikrobyo.,Madarian magkarat an mikrobyo.,1275,train,0
+bik-1272,Get vaccinated.,Mag pa bakuna ka.,Magpabakuna ka.,1276,train,0
+bik-1273,The vaccine is free.,Libre an bakuna.,Libre an bakuna.,1277,train,1
+bik-1274,Visit the health center.,Magpunta ka sa health center.,Magpunta ka sa health center.,1278,train,1
+bik-1275,The nurse is very kind.,Mabuot na mayad ang nurse.,Mabuot na mad'yag an nars.,1279,train,0
+bik-1276,Is the doctor there today?,Jan ang doktor ngunyan?,Jaon an doktor ngunyan?,1280,train,0
+bik-1277,He comes every Wednesday.,Ga abot siya kada Miyerkules.,Ga abot siya kada Miyerkules.,1281,validation,1
+bik-1278,Let us bring the baby for a checkup.,Dala kitang aki para sa checkup.,Dara kitang an aki para sa checkup.,1282,train,0
+bik-1279,The baby has a fever.,Igwang lagnat an aki.,Ikan lagnat an aki.,1283,test,0
+bik-1280,Give him a lot of milk.,Pasusoon ning dakol.,Pasusoon ning dakor.,1284,train,0
+bik-1281,Keep him warm.,Pag mainiton siya.,Pagmainiton siya.,1285,train,0
+bik-1282,Do not worry.,Dai ka mag-alala.,Mai ka mag-alala.,1286,validation,0
+bik-1283,He will get better.,Ma aayad siya.,Mapaparayad siya.,1287,train,0
+bik-1284,Thank you for helping us.,Salamat sa pagtabang samo.,Salamat sa pagtabang samo.,1288,train,1
+bik-1285,We are lucky to have good neighbors.,Maswerte kita sa mayad na kapitbahay.,Maswerte kita sa mayad na kapitbahay.,1289,train,1
+bik-1286,Let us rest now.,Magpahingalo na kita.,Magpahingaro na kita.,1290,train,0
+bik-1287,It was a long day.,Hababa na aldaw ini.,Haraba na ardaw ini.,1291,validation,0
+bik-1288,"Yes, but a good one.","Uho, pero mayad.","Oho, pero mayad.",1292,train,0
+bik-1289,"Jake, please help me.","Jake, tuwangan mo ako.","Jake, tuwangan mo ako.",1293,train,1
+bik-1290,What is wrong?,Ano an nangyari?,Anuha an nangyari?,1294,train,0
+bik-1291,I cannot stand up.,Di ako makatindog.,Mai ako makatindog.,1295,validation,0
+bik-1292,Sit down first.,Mag tukaw ka muna.,Mag lingkod ka muna.,1296,train,0
+bik-1293,Lie down slowly.,Mag higda ka ning luway.,Mag higda ka ning luway.,1297,train,1
+bik-1294,Is it getting worse?,Ga lala na ba?,Ga lala na ba?,1298,test,1
+bik-1295,Yes. Since last night.,Uho. Kaso banggi pa.,Oho. Kaso gabi pa.,1299,train,0
+bik-1296,Call the ambulance now.,Apudan ta na ang ambulansya.,Tawagan ta na an ambulansya.,1300,train,0
+bik-1297,What is the number?,Ano an numero?,Anuha an numero?,1301,train,0
+bik-1298,Call the barangay first.,Apudan ang barangay ngunyan na.,Tawagan an barangay nguna.,1302,validation,0
+bik-1299,They have a vehicle.,Igwa sinda ning sasakyan.,Ikan sila ning sasakyan.,1303,test,0
+bik-1300,"Stay calm, Maya.","Kalma, Maya.","Mii ka magamo, Maya.",1304,train,0
+bik-1301,I will stay with you.,Iibahan taka.,Mag iibahan taka.,1305,test,0
+bik-1302,Where does it hurt?,Sain an makulog?,Sain an makurog?,1306,train,0
+bik-1303,My stomach hurts badly.,Makulog ang tulak ko.,Mahapdos an turak ko.,1307,train,0
+bik-1304,That is a danger sign.,Delikado an na sign.,Delikado yan na sign.,1308,train,0
+bik-1305,We must go now.,Kaipuhan ta mag lakaw ngunyan.,Kaipuhan ta mag rakaw ngunyan.,1309,train,0
+bik-1306,Do not wait until morning.,Dai na maghalat sa aga.,Mii na maghararat sa aga.,1310,test,0
+bik-1307,Bring your ID.,Mag dala ka nin ID.,Mag dara ka ning ID.,1311,validation,0
+bik-1308,Bring your health card.,Mag dala ka nin health card.,Mag dara ka ning health card.,1312,train,0
+bik-1309,Bring some water.,Mag dala ka nin tubig.,Mag dara ka ning tubig.,1313,validation,0
+bik-1310,Tell mama where we are going.,Talmon ki mama kung sain kita pupunta.,Taramon ki mama kun siin kita pupunta.,1314,train,0
+bik-1311,I already told her.,Natalaman ko na saiya.,Nataram ko na saiya.,1315,train,0
+bik-1312,Good. Let us go.,Mayad. Lakaw na kita.,Mad'yag. Rakaw na kita.,1316,train,0
+bik-1313,The ambulance is here.,Uya na ang ambulansya.,Uya na an ambulansya.,1317,train,0
+bik-1314,You are safe now.,Ligtas ka na ngunyan.,Ligtas ka na ngunyan.,1318,test,1
+bik-1315,Check her breathing.,Check ang hinangos.,Tan-awon an hinga niya.,1319,test,0
+bik-1316,She is breathing normally.,Normal an hangos niya.,Normal an hinga niya.,1320,train,0
+bik-1317,Check his pulse.,Check ang pulso niya.,Tan-awon an pulso niya.,1321,train,0
+bik-1318,It is very fast.,Gabos na mabilis.,Gabos na mabilis.,1322,train,1
+bik-1319,Keep him awake.,Pabantayan na mata,Pabantayan na mapungaw.,1323,train,0
+bik-1320,Talk to him.,Kahulunon mo siya.,Kahurunon mo siya.,1324,train,0
+bik-1321,Do not give him aspirin.,Dai pag pa inumon ning aspirin.,Mii pag-intomon ning aspirin.,1325,train,0
+bik-1322,Do not give ibuprofen either.,Dai man ibuprofen.,Mii man ibuprofen.,1326,test,0
+bik-1323,"Only paracetamol, as the doctor says.","Paracetamol sana, sabi ning doctor.","Paracetamol sana, sabi ning doctor.",1327,test,1
+bik-1324,How much should he drink?,Gaano kadakol an dapat niyang inumon?,Gaano kadakor an dapat niyang inumon?,1328,test,0
+bik-1325,"Small sips, again and again.","Diit-diit na inom, paulit-ulit.","Diit-diit na inom, paulit-ulit.",1329,train,1
+bik-1326,Give him oresol.,Pa-inumon siya nin oresol.,Pa-inumon siya ning oresol.,1330,test,0
+bik-1327,Mix it with clean water.,Haloon sa malinig na tubig.,Haroon sa malinig na tubig.,1331,train,0
+bik-1328,Only boiled or clean water.,Pinakulong o malinig na tubig sana.,Pinakurong o malinig na tubig sana.,1332,train,0
+bik-1329,Do not use dirty water.,Dai mag gamit ning maati na tubig.,Mii gumamit ning magima na tubig.,1333,validation,0
+bik-1330,Can he drink coconut water?,Pwede siya mag inom ning sabaw ning niyog?,Pwede siya mag inom ning sabaw ning butong?,1334,test,0
+bik-1331,"Yes, a little is fine.","Uho, diit pwede.","Oho, dagi pwede.",1335,validation,0
+bik-1332,What about soup?,Ano man an sabaw?,Anuha man an sabaw?,1336,train,0
+bik-1333,Warm soup is good.,Mayad an kung sabaw.,Mad'yag an kung sabaw.,1337,train,0
+bik-1334,Chicken soup helps him eat.,Nakatutuwang an sabaw nin manok para kumaon.,Nakatutuwang an sabaw ning manok para kumaon.,1338,train,0
+bik-1335,Give him porridge.,Pakaon siya nin lugaw.,Pakaon siya ning lugaw.,1339,train,0
+bik-1336,Soft food is easier.,Mas madali an mayad na pagkaon.,Mas madali an mad'yag na pagkaon.,1340,train,0
+bik-1337,Small meals are better.,Mas mayad ang diit-diit na kaon.,Mas mad'yag kadigi na kaon.,1341,train,0
+bik-1338,He has no appetite.,Dai siya gana kumaon.,Mii siya gana kumaon.,1342,train,0
+bik-1339,Do not force him.,Dai mo siya pugulon.,Mii mo siya pugurun.,1343,train,0
+bik-1340,Try fruits.,Purbaran mo an mga prutas.,Purbaran mo an mga prutas.,1344,train,1
+bik-1341,Bananas are good.,Mayad ang saging.,Mad'yag an saging.,1345,test,0
+bik-1342,Avoid red or black drinks.,Iwasan ang pula o itom na inumon.,Likayan an pura o itom na inumon.,1346,train,0
+bik-1343,Why red or black?,Ngata pula o itom?,Tayun pura o itom?,1347,train,0
+bik-1344,They look like blood if he vomits.,Baga sinda dugo kung magsuka.,Hali sila dugo kun magsuka.,1348,test,0
+bik-1345,The doctor may get confused.,Baad malibong an doctor.,Baad malibong an doctor.,1349,train,1
+bik-1346,I understand now.,Naintindihan ko na ngunyan.,Nasabutan ko na ngunyan.,1350,train,0
+bik-1347,Let us ask the nurse.,Pakisabi ta sa nurse.,Pakisabi ta sa nurse.,1351,train,1
+bik-1348,"Good morning, nurse.","Mayad na aga, nurse.","Mad'yag na aga, nurse.",1352,train,0
+bik-1349,We need help.,Kaipuhan mi ning tabang.,Kaipuhan namo tabang.,1353,train,0
+bik-1350,What is your full name?,Ano an bilog mong ngalan?,Anuha an bilog mong ngaran?,1354,train,0
+bik-1351,How old are you?,Pila na an edad mo?,Pira na an edad mo?,1355,train,0
+bik-1352,I am fifteen.,Kinse anyos na ako.,Kinse anyos na ako.,1356,validation,1
+bik-1353,When did the fever start?,Kuman nagpunan an kulog nin payo?,Kuman nagpunan an kurog ning uro?,1357,train,0
+bik-1354,Three days ago.,Tulong aldaw na.,Tulong ardaw na.,1358,validation,0
+bik-1355,Any bleeding?,Igwa nin dugo?,Ikan ning dugo?,1359,validation,0
+bik-1356,Please take a blood test.,Paki kuha nin blood test.,Pakikuha ning blood test.,1360,train,0
+bik-1357,"Wait here, please.",Maghalat kamo uya.,Magharat kamo uya.,1361,train,0
+bik-1358,"Thank you, nurse.","Salamat, nurse.","Salamat, nurse.",1362,test,1
+bik-1359,How long must we wait?,Pila kahaba an paghalat ta?,Pira kahaba an pagharat ta?,1363,train,0
+bik-1360,About one hour.,Mga sarong oras.,Mga sarong oras.,1364,test,1
+bik-1361,That is okay.,Ok sana yan.,Ok sana yan.,1365,validation,1
+bik-1362,I will buy water.,Ma bakal ako ning tubig.,Ma bakal ako ning tubig.,1366,train,1
+bik-1363,The result is here.,Uya na an resulta.,Uya na an resulta.,1367,train,1
+bik-1364,Her platelets are low.,Mababa an platelets niya.,Mababa an platelets niya.,1368,train,1
+bik-1365,She must stay in the hospital.,Kaipuhan siya mag stay sa hospital.,Kaipuhan siya mag istar sa hospital.,1369,train,0
+bik-1366,For how many days?,Pila kadakol na aldaw?,Pira kaharawig na ardaw?,1370,train,0
+bik-1367,Will she get better?,Mayad na siya?,Mad'yag na siya?,1371,train,0
+bik-1368,"Yes, if we follow the doctor.","Uho, kung susunudon ta an doctor.","Oho, kung sunudon ta an doctor.",1372,train,0
+bik-1369,I feel relieved.,Nawala ako ning pagamo,Nawaran ako ning pagamo.,1373,train,0
+bik-1370,Do not be afraid.,Dai ka matakot.,Mii ka matakot.,1374,test,0
+bik-1371,The doctor is kind.,Mayad an doctor.,Mad'yag an doctor.,1375,test,0
+bik-1372,The nurses are kind too.,Mayad man an mga nurse.,Mard'yag man an mga nurse.,1376,validation,0
+bik-1373,They check you every hour.,Tinan-aw ka ninda kada oras.,Tinan-aw ka nira kada oras.,1377,train,0
+bik-1374,They give you fluids by drip.,Tinawan ka ninda nin dextrose.,Pinaduman ka nila ning dextrose.,1378,train,0
+bik-1375,What is the drip for?,Para ano an dextrose?,Para anuha an dextrose?,1379,train,0
+bik-1376,It replaces the water you lose.,Nilagyan ning tubig na nawala.,Nilaugan ning tubig na nawara.,1380,train,0
+bik-1377,That is important.,Importante yan.,Importante yan.,1381,validation,1
+bik-1378,Thank you for staying.,Salamat sa pag istar mo.,Salamat sa pag istar mo.,1382,train,1
+bik-1379,Of course. We are friends.,Uho. Barkada kita.,Oho. Barkada kita.,1383,train,0
+bik-1380,"You should eat too, Jake.","Dapat kumaon ka man, Jake.","Dapat kumaon ka man, Jake.",1384,train,1
+bik-1381,I will eat later.,Kumaon ako mamaya.,Kumaon ako mamaya.,1385,train,1
+bik-1382,Please sleep a little.,Katulog kang diit na oras.,Katurog ka ning diit.,1386,train,0
+bik-1383,Rest is part of healing.,Ang pahingalo parte nin paghilng.,An pahingaro parte ning paghirang.,1387,validation,0
+bik-1384,I will bring your notes.,Dadalahon ko ang mga notes mo.,Dadarahon ko an mga notes mo.,1388,train,0
+bik-1385,Thank you. You are kind.,Salamat. Maboot ka.,Salamat. Mad'yag ka.,1389,train,0
+bik-1386,I told our teacher.,Nagsabi ako sa teacher ta.,Nagsabi ako sa teacher ta.,1390,train,1
+bik-1387,She says get well soon.,Sabi niya mayad na pag paayad.,Sabi niya mad'yag na pagpaayad.,1391,validation,0
+bik-1388,Our classmates sent a card.,Nagpadala an mga kaklase ta nin card.,Nagpadara an mga kaklase ta ning card.,1392,test,0
+bik-1389,I miss school already.,Namimiss ko na an eskwela.,Namimiss ko na an eskwela.,1393,validation,1
+bik-1390,You will return soon.,Makabalik ka daw.,Makabalik ka daw.,1394,train,1
+bik-1391,Is it true that papaya leaf cures dengue?,Totoo ba na nakakapaayad nin dengue an dahon nin papaya?,Totoo ba na nakakapaayad ning dengue an dahon ning papaya?,1395,train,0
+bik-1392,Not proven.,Dai pa napatunayan.,Mii pa napatunayan.,1396,train,0
+bik-1393,Some people drink it.,Igwa na nag-iinom kaini.,Ikan na nag-iinom kaini.,1397,train,0
+bik-1394,But ask the doctor first.,Pero mahapot muna sa doctor.,Pero mag hapot ka muna sa doctor.,1398,train,0
+bik-1395,Do not use it instead of treatment.,Dai gamiton kapalit nin pagbulong.,Mii gamiton kapalit ning pagburong.,1399,train,0
+bik-1396,What about tawa-tawa?,Ano man an tawa-tawa?,Anuha man an tawa-tawa?,1400,validation,0
+bik-1397,Some people use it as a herbal drink.,Igwa na ginagamit na herbal na inumon.,Ikan na ginagamit na herbal na inumon.,1401,train,0
+bik-1398,It is not a replacement for medical care.,Bakong kapalit nin pag-aaruga sa doctor.,Bukong kapalit ning pag-aaruga sa doctor.,1402,validation,0
+bik-1399,Always see a doctor first.,Permi ipahiling muna sa doctor.,Permi mag-doctor ka nguna.,1403,test,0
+bik-1400,Is cold water bad when you have fever?,Bawal ba ang maripot na tubig sa igwang kalintura?,Maraot ba an ramig na tubig kun ikan kang uro?,1404,train,0
+bik-1401,Cold water will not cause dengue.,Dai ka magkaka-dengue sa lamig na tubig.,Mii ka magkaka-dengue sa ramig na tubig.,1405,test,0
+bik-1402,Dengue comes only from mosquito bites.,Ang dengue hari sana sa kagat nin lamok.,An dengue hali sana sa kagat ning lamok.,1406,train,0
+bik-1403,Can you get dengue from touching a sick person?,Pwede ka magka-dengue kung makapot ka sa may kalintura??,Pwede ka magka-dengue kun hawakan an may sakit?,1407,train,0
+bik-1404,No. Only from mosquitoes.,Dai. Lamok sana.,Mii. Lamok sana.,1408,validation,0
+bik-1405,Can you get it from coughing?,Pwede sa abo?,Pwede sa ubo?,1409,train,0
+bik-1406,"No, it is not like the flu.","Dai, bakong alog sa trangkaso.","Mii, bukong arog sa trangkaso.",1410,train,0
+bik-1407,Is it true that dengue happens only once?,Totoo ba na salong beses sana an dengue?,Totoo ba na sarong beses sana an dengue?,1411,train,0
+bik-1408,No. You can get it again.,Dai. Pwede ka mag ka igwa kaan utro.,Mii. Pwede ka giraray magka-dengue.,1412,test,0
+bik-1409,The second time can be worse.,Ang ikaduwa pwedeng mas grabe.,An ikadawa pwedeng mas grabe.,1413,validation,0
+bik-1410,That is why we must be careful.,Kaya kaipuhan ta mag-ingat.,Kaya kaipuhan ta mag-ingat.,1414,train,1
+bik-1411,Is there a vaccine for dengue?,Igwa bang bakuna sa dengue?,Ikan bang bakuna sa dengue?,1415,train,0
+bik-1412,"Yes, but only for some people.","Uho, pero para sa iba sana.","Oho, pero para sa iba sana.",1416,train,0
+bik-1413,Ask your health center.,Mag hapot ka sa health center.,Magpadumdom ka sa health center.,1417,train,0
+bik-1414,They know the latest advice.,Alam ninda an pinaka huling bilin.,Aram nila an pinakahuring bilin.,1418,train,0
+bik-1415,Vaccines do not replace cleaning.,Dai mahari ning bakuna ang paglimpya.,Mii mapuli kan bakuna an paglimpya.,1419,test,0
+bik-1416,We still need prevention.,Kaipuhan ta permi mag -ingat.,Kaipuhan ta permi an pag-ingat.,1420,train,0
+bik-1417,Does a mosquito coil help?,Nakakatabang ba an mosquito coil?,Nakakatabang ba an mosquito coil?,1421,test,1
+bik-1418,It helps a little.,Nakatabang nin diit.,Nakatabang ning dagi,1422,test,0
+bik-1419,But the smoke can hurt your lungs.,Pero ang aso pwedeng makulog sa bagà.,Pero an aso pwedeng makurog sa bagà.,1423,train,0
+bik-1420,Use it only in open areas.,Gamiton lang sa bukas na lugar.,Gamiton lang sa bukas na lugar.,1424,train,1
+bik-1421,Do not use it near a baby.,Dai gamiton halani sa aki.,Mii gamiton harani sa aki.,1425,validation,0
+bik-1422,What about lotion?,Ano man an lotion?,Anuha man an lotion?,1426,train,0
+bik-1423,Mosquito lotion is good.,Mayad an lotion para sa lamok.,Mad'yag an lotion para sa lamok.,1427,train,0
+bik-1424,Put it on again after sweating.,Ipahid utro pag nadugang.,Ipahid pag nag dugang.,1428,train,0
+bik-1425,Read the label first.,Basahon nguna an label.,Basahon nguna an label.,1429,test,1
+bik-1426,Children need special care.,Kaipuhan nin espesyal na aruga an mga aki.,Kaipuhan ning espesyal na aruga an mga aki.,1430,test,0
+bik-1427,Check on them often.,Bantayan sinda permi.,Bantayan sila parati.,1431,train,0
+bik-1428,Watch if the child is very sleepy.,Bantayan kung sobrang tulog an aki.,Bantayan kung sobrang torog an aki.,1432,train,0
+bik-1429,Watch if the child will not drink.,Bantayan kung ayaw uminom an aki.,Bantayan kung ayaw uminom an aki.,1433,train,1
+bik-1430,Watch for cold hands and feet.,Bantayan kung lamig an kamot buda tamà.,Bantayan kung ripot an kamot buda tamà.,1434,validation,0
+bik-1431,Bring the child to the hospital at once.,Dala na an aki sa hospital ngunyan.,Dara na an aki sa hospital ngunyan.,1435,train,0
+bik-1432,Do not wait for the fever to go down.,Dai maghalat na mawala an payo.,Mii maghararat na mawara an uro.,1436,train,0
+bik-1433,Sometimes danger starts after the fever ends.,Pila beses an delikado ga puon pagkatapos kang payo.,Pira beses an delikado nagpupunan pagkatapos kan uro.,1437,train,0
+bik-1434,Be careful on the third to fifth day.,Mag-ingat sa ikatulo hanggang ikalima na aldaw.,Mag-ingat sa ikatulo hasta ikalima na ardaw.,1438,train,0
+bik-1435,Keep checking the patient.,Padagos na tan-awon an may sakit.,Padagos na tan-awon an may sakit.,1439,train,1
+bik-1436,Elderly people need care too.,An mga gurang kaipuhan man nin aruga.,An mga gurang kaipuhan man ning aruga.,1440,train,0
+bik-1437,They may not show strong signs.,Baad dai mahalata an sintomas ninda.,Baad mai mahalata an sintomas nira.,1441,test,0
+bik-1438,Check on grandma every day.,Bisitahon si lola kada aldaw.,Bisitahon si lola kada ardaw.,1442,train,0
+bik-1439,Check on grandpa too.,Bisitahon man si lolo.,Bisitahon man si lolo.,1443,train,1
+bik-1440,Make sure they drink water.,Siguraduhon na umiinom sinda nin tubig.,Siguraduhon na umiinom sila ning tubig.,1444,validation,0
+bik-1441,Make sure they take their medicine.,Siguraduhon na umiinom sinda nin bulong.,Siguraduhon na umiinom sila ning burong.,1445,train,0
+bik-1442,Do not let them stay alone.,Dai pabayaan na mag-isa sinda.,Mii pabayaan na mag-isa sila.,1446,train,0
+bik-1443,Our elders deserve our care.,An mga gurang ta dapat aruguon.,An mga gurang ta dapat aruguon.,1447,train,1
+bik-1444,"I am proud of you, Jake.","Ipinagmamalaki taka, Jake.","Ipinagmamalaki taka, Jake.",1448,train,1
+bik-1445,"You are also a good friend, Maya.","Mayad ka man na barkada, Maya.","Mad'yag ka man na barkada, Maya.",1449,test,0
+bik-1446,I feel better today.,Mas mayad na ang pagmati ko ngunyan.,Mas mad'yag na an pamati ko ngunyan.,1450,train,0
+bik-1447,I have no fever today.,Dai na ako makulog nin payo ngunyan.,Mii na ako makurog ning uro ngunyan.,1451,train,0
+bik-1448,My appetite is coming back.,Bumabalik na an gana ko kumaon.,Gabarik na an gana ko kumaon.,1452,train,0
+bik-1449,I ate a little rice and egg.,Kumaon ako nin diit na kan-on buda itlog.,Kumaon ako ning dagi na kan-on buda itlog.,1453,test,0
+bik-1450,That is a good start.,Mayad yan na simula.,Mad'yag yan na simula.,1454,train,0
+bik-1451,Keep drinking water.,Padagos na uminom nin tubig.,Padagos na uminom ning tubig.,1455,train,0
+bik-1452,Do not go out yet.,Dai ka pa mag luwas.,Mii ka pa mag luwas.,1456,test,0
+bik-1453,Rest for a few more days.,Magpahingalo ka pa nin pilang aldaw.,Magpahingaro ka pa ning pira na ardaw.,1457,test,0
+bik-1454,The doctor said so.,Sinabi kan doctor.,Sinabi kan doctor.,1458,test,1
+bik-1455,I will follow the doctor.,Susundon ko an doctor.,Susundon ko an doctor.,1459,validation,1
+bik-1456,I will come back for a check-up.,Magbabalik ako para sa check-up.,Magbabalik ako para sa check-up.,1460,train,1
+bik-1457,When is your next check-up?,Saarin ang sunod mong check-up?,Saano an sunod mong check-up?,1461,train,0
+bik-1458,Next Monday.,Sa sunod na Lunes.,Sa sunod na Lunes.,1462,test,1
+bik-1459,You always help me.,Permi mo akong yatuwangan.,Permi mo akong tinatabangan.,1463,train,0
+bik-1460,That is what friends do.,Yan ang ginigibo nin barkada.,Yan an ginigibo ning barkada.,1464,train,0
+bik-1461,I will never forget this.,Dai ko ini malilingawan.,Mii ko ini malilingawan.,1465,train,0
+bik-1462,Neither will I.,Ako man dai.,Ako man mii.,1466,train,0
+bik-1463,Let us tell others what we learned.,Sabihon ta sa iba an natutunan ta.,Sabihon ta sa iba an natutunan ta.,1467,train,1
+bik-1464,We can talk in class.,Pwede kita magtalam sa klase.,Pwede kita magtaram sa klase.,1468,train,0
+bik-1465,We can share on social media.,Pwede ta ipamahaging sa social media.,Pwede ta ipamahaging sa social media.,1469,train,1
+bik-1466,Share only true information.,Ipamahaging an tamà na impormasyon sana.,Ipamahaging an tamà na impormasyon sana.,1470,train,1
+bik-1467,Check the source first.,Hilingun muna ang pinangharian.,Tan-awon nguna an pinaghalian.,1471,train,0
+bik-1468,Use health center or DOH facts.,Gamiton an impormasyon kang health center o DOH.,Gamiton an impormasyon kan health center o DOH.,1472,train,0
+bik-1469,Do not believe every rumor.,Dai maniwala sa gabos na tsismis.,Mii maniwala sa gabos na tsismis.,1473,validation,0
+bik-1470,Rumors can hurt people.,Pwedeng makalaot sa tawo ang tsismis.,Pwedeng makaraot sa taho an tsismis.,1474,train,0
+bik-1471,Facts can save lives.,Ang katotoohan makakaligtas nin buhay.,An katotoohan makakaligtas ning buhay.,1475,train,0
+bik-1472,I want to be a nurse someday.,Gusto kong maging nurse balang aldaw.,Gusto kong maging nurse balang ardaw.,1476,validation,0
+bik-1473,I want to be a doctor.,Gusto kong maging doctor.,Gusto kong maging doctor.,1477,train,1
+bik-1474,You will be a good one.,Magiging mayad ka.,Magiging mad'yag ka.,1478,train,0
+bik-1475,Study hard.,Mag adal kang mayad.,Mag adal ka ning mad'yag.,1479,train,0
+bik-1476,I will help you study.,Tatabangan taka mag adal,Tatabangan taka mag adal,1480,train,1
+bik-1477,You are welcome anytime.,Welcome ka anó man na oras.,Welcome ka anuha man na oras.,1481,train,0
+bik-1478,Let us review our project.,Hilingun ta utro an project ta.,Tan-awon ta utro an project ta.,1482,train,0
+bik-1479,What should we add?,Ano ang dapat tang dagdagon?,Anuha an dapat tang dagdagon?,1483,train,0
+bik-1480,We should add more pictures.,Dapat tang dagdagan ning retrato.,Dapat tang dagdagon ning retrato.,1484,train,0
+bik-1481,We should add emergency numbers.,Dapat tang dagdagan ning numero pang-emergency.,Dapat tang dadagon ning numero pang-emergency.,1485,test,0
+bik-1482,We should add the 4S steps.,Dapat tang dagdagan ning apat na S.,Dapat tang dagdsgon an apat na S.,1486,test,0
+bik-1483,We should add our own experience.,Dapat tang dagdagan kang sadili tang karanasan.,Dapat tang dagdagon an sadiri tang karanasan.,1487,train,0
+bik-1484,Will people read it?,Babasahon ba ini nin mga tawo?,Babasahon ba ini ning mga taho?,1488,validation,0
+bik-1485,"Yes, if it is simple.","Uho, kung simple.","Oho, kung simple.",1489,train,0
+bik-1486,Use our own language.,Gamiton an sadili tang tatalamon,Gamiton an sadiri tang tataramon.,1490,train,0
+bik-1487,Virac and Pandan words too.,Pati an tatalamon sa Virac buda Pandan.,Pati an tataramon sa Virac buda Pandan.,1491,validation,0
+bik-1488,Our language is our pride.,Ang tatalamon sa virac buda pandan.,An tataramon ta an kaogmahan ta.,1492,train,0
+bik-1489,Our elders will understand us.,Maintindihan kita kang mga gurang.,Masabutan kita kan mga gurang.,1493,train,0
+bik-1490,That helps the whole community.,Nakatabang ini sa bilog na komunidad.,Nakatabang ini sa bilog na komunidad.,1494,train,1
+bik-1491,Let us present it at school.,Ipresentar ta ini sa eskwela.,Ipresentar ta ini sa eskwela.,1495,validation,1
+bik-1492,I feel nervous.,Yakabahan ako.,Nagagamo ako.,1496,test,0
+bik-1493,Do not be nervous.,Di ka magamo.,Mii ka magamo.,1497,train,0
+bik-1494,You explain very well.,Maayus ka mag esplika.,Mad'yag kang mag-esplika.,1498,validation,0
+bik-1495,We practiced a lot.,Nag-praktis kita nin dakol.,Nag-praktis kita ning dakor.,1499,train,0
+bik-1496,I am ready.,Handa na ako.,Handa na ako.,1500,train,1
+bik-1497,We will do our best.,Gigibuhon ko ang best ko.,Gigibohon ta an pinakamaray ta.,1501,train,0
+bik-1498,The teacher is clapping.,Nag palakpak an teacher.,Nag-pak-pak an teacher.,1502,validation,0
+bik-1499,We did it!,Nagibo ta!,Nagibo ta!,1503,test,1
+bik-1500,"Thank you, everyone.",Salamat sa gabos.,Salamat sa gabos.,1504,test,1
+bik-1501,"Thank you, teacher.","Salamat, teacher.","Salamat, teacher.",1505,train,1
+bik-1502,"Thank you, Maya.","Salamat, Maya.","Salamat, Maya.",1506,train,1
+bik-1503,Let us keep the community safe.,Ingatan ta an komunidad.,Ingatan ta an komunidad.,1507,validation,1
+bik-1504,"Stay safe, everyone.",Mag-ingat kamo gabos.,Mag-ingat kamo gabos.,1508,train,1
+bik-1505,Goodbye for now.,Paalam na muna.,Paaram na muna.,1509,test,0
+bik-1506,"Take care, Maya.","Mag-ingat ka, Maya.","Mag-ingat ka, Maya.",1510,train,1
+bik-1507,"Take care, Jake.","Mag-ingat ka, Jake.","Mag-ingat ka, Jake.",1511,train,1
+bik-1508,Fight dengue every day.,Labanan an dengue kada aldaw.,Labanan an dengue kada ardaw.,1512,test,0
+bik-1509,Health is wealth.,Ang kalusugan an kayamanan.,An kahimsog an kayamanan.,1513,train,0
+bik-1510,Be kind to one another.,Maging mayad sa gabus.,Maging mad'yag sa tinampo.,1514,train,0
+bik-1511,We are one community.,Salo kitang komunidad.,Saro kitang komunidad.,1515,train,0
+bik-1512,Together we are strong.,Kaya ta ning sabay.,Kaya ta ning sabay.,1516,train,1
+bik-1513,The end.,Katapusan.,Katapusan.,1517,train,1
+bik-1514,Wash your hands often.,Mag hugas ka ning kamot permi.,Maghugas ka ning kamot permi.,1518,test,0
+bik-1515,Keep the trash covered.,Takpan an basura.,Takpan an basura.,1519,test,1
+bik-1516,Do not leave water in buckets.,Dai pabayaan an tubig sa timba.,Mii pabayaan an tubig sa timba.,1520,train,0
+bik-1517,Scrub the water container weekly.,Kuskusan an lalagyan nin tubig kada semana.,Kuskusan an ralagyan ning tubig kada semana.,1521,train,0
+bik-1518,Check under the sink.,Hilingun sa ilalom kan lababo.,Tan-awon sa iralom kan lababo.,1522,train,0
+bik-1519,Check behind the refrigerator.,Hilingun sa likod kan ref.,Tan-awon sa likod kan ref.,1523,test,0
+bik-1520,Check the roof gutter.,Hilingun ang alulod sa atop.,Tan-awon an alulod sa atop.,1524,train,0
+bik-1521,Look for wrigglers in the water.,Hanapon ang kiti-kiti sa tubig.,Hanapon an kiti-kiti sa tubig.,1525,validation,0
+bik-1522,Those are baby mosquitoes.,Aki ini ning lamok.,Aki ini ning lamok.,1526,train,1
+bik-1523,Pour the water on dry ground.,Ibuhos ang tubig sa dugang na daga.,Ibuhos an tubig sa dugang na labo.,1527,test,0
+bik-1524,Never throw trash in the canal.,Dai magsabod ning basura sa kanal.,Mii magsarabod ning basura sa kanal.,1528,test,0
+bik-1525,Mosquitoes hide in dark corners.,Nag tatago ang lamok sa madulom na sulok.,Nagtatago an lamok sa madurom na surok,1529,test,0
+bik-1526,Open the curtains in the day.,Buksan ang kurtina pag aga.,Bukasan an kurtina pag aga.,1530,train,0
+bik-1527,Hang clothes properly.,Isabit ning maayus ang mga bado.,Isabit ning mad'yag an mga sur-ot.,1531,test,0
+bik-1528,Mosquitoes hide in hanging clothes.,Nag tatago ang lamok sa nakasabit na mga bado.,Nagtatago an lamok sa nakasabit na bado,1532,train,0
+bik-1529,Sleep under a net.,Gakatulog sa ilalom ning lambat.,Gakaturog sya sa ilarom ning lambat,1533,test,0
+bik-1530,Put a net on the baby crib.,Ikahang ang lambat sa duyan ning aki.,Ibutang ang lambat sa duyan ning aki.,1534,train,0
+bik-1531,Tell your neighbors.,Sabihan ang mga kapitbahay.,Sabihan an mga kapitbahay.,1535,test,0
+bik-1532,Join the barangay meeting.,Mag bali sa miting kang barangay.,Sumali sa miting kan barangay.,1536,train,0
+bik-1533,Ask the health worker.,Mag hapot sa health worker.,Mag hapot sa health worker.,1537,test,1
+bik-1534,Report new cases quickly.,Ireport ning madali ang bagong kaso.,Ireport ning madali an bagong kaso.,1538,train,0
+bik-1535,Every family can help.,Ma kakatabang ang kada pamilya.,Makakatabang an kada pamilya.,1539,train,0
+bik-1536,Small actions matter.,Importante ang diit na gibo.,Importante an kadigi na gibo.,1540,test,0
+bik-1537,Start with your own home.,Punan sa sadili mong halong.,Pumunan sa sadiri mong harong.,1541,train,0
